@@ -1,1882 +1,3611 @@
-127.0.0.1 www.spatial.io
-127.0.0.1 oskarstalberg.com
-127.0.0.1 unityroom.com
-127.0.0.1 turbowarp.org
-127.0.0.1 editor.gdevelop.io
-127.0.0.1 edu.cospaces.io
-127.0.0.1 www.tynker.com
-127.0.0.1 meiker.io
-127.0.0.1 load.retroemulator.com
-127.0.0.1 www.smbgames.be
-127.0.0.1 abobosbigadventure.com
-127.0.0.1 www.free80sarcade.com
-127.0.0.1 supermario-play.com
-127.0.0.1 g123.jp
-127.0.0.1 h5.g123.jp
-127.0.0.1 www.freem.ne.jp
-127.0.0.1 plicy.net
-127.0.0.1 gd.games
-127.0.0.1 scratch.mit.edu
-127.0.0.1 sulfurous.aau.at
-127.0.0.1 codeincomplete.com
-127.0.0.1 game.noradsanta.org
-127.0.0.1 ikatchelo.github.io
-127.0.0.1 lekug.github.io
-127.0.0.1 kripken.github.io
-127.0.0.1 webglmath.github.io
-127.0.0.1 bulletforceunblocked.github.io
-127.0.0.1 ubg77.github.io
-127.0.0.1 abagames.github.io
-127.0.0.1 dddavit.github.io
-127.0.0.1 subwaygame.github.io
-127.0.0.1 lnahtml.github.io
-127.0.0.1 maskedforcesunlimited.github.io
-127.0.0.1 www.p-game.jp
-127.0.0.1 flashgame.sakura.ne.jp
-127.0.0.1 poki.com
-127.0.0.1 poki.to
-127.0.0.1 poki.at
-127.0.0.1 poki.be
-127.0.0.1 poki.bg
-127.0.0.1 poki.by
-127.0.0.1 poki.ch
-127.0.0.1 poki.cn
-127.0.0.1 poki.cz
-127.0.0.1 poki.co.id
-127.0.0.1 poki.co.il
-127.0.0.1 poki.com.br
-127.0.0.1 poki.de
-127.0.0.1 poki.dk
-127.0.0.1 poki.fi
-127.0.0.1 poki.gr
-127.0.0.1 poki.it
-127.0.0.1 poki.jp
-127.0.0.1 poki.nl
-127.0.0.1 poki.no
-127.0.0.1 poki.pl
-127.0.0.1 poki.pt
-127.0.0.1 poki.ro
-127.0.0.1 poki.se
-127.0.0.1 www.hrajhry.sk
-127.0.0.1 www.megajatek.hu
-127.0.0.1 www.trochoi.net
-127.0.0.1 games.poki.com
-127.0.0.1 poki-gdn.com
-127.0.0.1 www.247solitaire.com
-127.0.0.1 www.247freecell.com
-127.0.0.1 www.247mahjong.com
-127.0.0.1 www.247sudoku.com
-127.0.0.1 www.247hearts.com
-127.0.0.1 www.247backgammon.org
-127.0.0.1 www.247freepoker.com
-127.0.0.1 www.247slots.org
-127.0.0.1 www.247checkers.com
-127.0.0.1 www.247spades.com
-127.0.0.1 www.247bridge.com
-127.0.0.1 www.247roulette.org
-127.0.0.1 www.247videopoker.org
-127.0.0.1 www.247blackjack.com
-127.0.0.1 www.247chess.com
-127.0.0.1 www.247wordsearch.com
-127.0.0.1 www.247crossword.com
-127.0.0.1 247wordley.com
-127.0.0.1 www.247minesweeper.com
-127.0.0.1 www.247spacerocks.com
-127.0.0.1 www.247pool.com
-127.0.0.1 www.4thofjulysolitaire.com
-127.0.0.1 www.123freecell.com
-127.0.0.1 www.247klondike.com
-127.0.0.1 www.247patience.com
-127.0.0.1 www.247spidersolitaire.com
-127.0.0.1 www.cardgamesolitaire.com
-127.0.0.1 www.cardgamefreecell.com
-127.0.0.1 www.cardgameklondike.com
-127.0.0.1 www.cardgamepatience.com
-127.0.0.1 www.cardgamespidersolitaire.com
-127.0.0.1 www.christmas-solitaire.com
-127.0.0.1 www.cincodemayosolitaire.com
-127.0.0.1 www.solitaireeaster.com
-127.0.0.1 www.fallsolitaire.com
-127.0.0.1 www.solitairehalloween.com
-127.0.0.1 www.newyearssolitaire.com
-127.0.0.1 www.scorpionsolitaire.net
-127.0.0.1 www.solitairetime.com
-127.0.0.1 www.spiderettesolitaire.net
-127.0.0.1 www.springsolitaire.com
-127.0.0.1 www.stpatricksdaysolitaire.com
-127.0.0.1 www.solitairesummer.com
-127.0.0.1 www.thanksgivingsolitaire.com
-127.0.0.1 www.valentinesdaysolitaire.com
-127.0.0.1 www.wintersolitaire.com
-127.0.0.1 www.yukonsolitaire.net
-127.0.0.1 www.fanfreegames.com
-127.0.0.1 www.fandejuegos.com
-127.0.0.1 www.fandesjeux.com
-127.0.0.1 www.fangiochi.com
-127.0.0.1 www.jogosfas.com
-127.0.0.1 www.fanhry.cz
-127.0.0.1 www.fanoyunlar.com
-127.0.0.1 www.fandejuegos.ru
-127.0.0.1 freevideogames.org
-127.0.0.1 turbo.freevideogames.org
-127.0.0.1 freevideogamesonline.org
-127.0.0.1 turbo.freevideogamesonline.org
-127.0.0.1 vseigru.net
-127.0.0.1 g.vseigru.net
-127.0.0.1 www.construct.net
-127.0.0.1 games.construct.net
-127.0.0.1 4j.com
-127.0.0.1 h5.4j.com
-127.0.0.1 doodoo.love
-127.0.0.1 resource.doodoo.love
-127.0.0.1 crazygames.com
-127.0.0.1 www.crazygames.com
-127.0.0.1 games.crazygames.com
-127.0.0.1 freezenova.com
-127.0.0.1 www.onlinegames.io
-127.0.0.1 gamepix.com
-127.0.0.1 play.gamepix.com
-127.0.0.1 armorgames.com
-127.0.0.1 cache.armorgames.com
-127.0.0.1 kbhgames.com
-127.0.0.1 kdata1.com
-127.0.0.1 f.kbhgames.com
-127.0.0.1 gamesgo.net
-127.0.0.1 i.gamesgo.net
-127.0.0.1 gesoten.com
-127.0.0.1 ad-img.gesoten.com
-127.0.0.1 www.gameyay.com
-127.0.0.1 games.gameyay.com
-127.0.0.1 www.primarygames.com
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 cdn.primarygames.com
-127.0.0.1 scorenga.com
-127.0.0.1 static.scorenga.com
-127.0.0.1 simmer.io
-127.0.0.1 i.simmer.io
-127.0.0.1 c.simmer.io
-127.0.0.1 kevin.games
-127.0.0.1 cdn1.kevin.games
-127.0.0.1 www.bebitu.com
-127.0.0.1 e.bebitu.com
-127.0.0.1 www.rizigames.com
-127.0.0.1 y8.com
-127.0.0.1 ja.y8.com
-127.0.0.1 cdn.y8.com
-127.0.0.1 media2.y8.com
-127.0.0.1 storage.y8.com
-127.0.0.1 storage.id.net
-127.0.0.1 storage-cf.y8.com
-127.0.0.1 gameplaf.com
-127.0.0.1 f.gameplaf.com
-127.0.0.1 www.gamezhero.com
-127.0.0.1 files.gamezhero.com
-127.0.0.1silvergames.com
-127.0.0.1 www.silvergames.com
-127.0.0.1 f.silvergames.com
-127.0.0.1 f3.silvergames.com
-127.0.0.1 www.vitalitygames.com
-127.0.0.1 files.vitalitygames.com
-127.0.0.1 g1.vseigru.net
-127.0.0.1 gamess.vseigru.net
-127.0.0.1 igroutka.ru
-127.0.0.1 g.igroutka.ru
-127.0.0.1 g2.igroutka.ru
-127.0.0.1 m.igroutka.ru
-127.0.0.1 wanted5games.com
-127.0.0.1 cdn.wanted5games.com
-127.0.0.1 www.flashgamesplayer.com
-127.0.0.1 emulator.flashgamesplayer.com
-127.0.0.1 www.miniplay.com
-127.0.0.1 www.minijuegos.com
-127.0.0.1 ext.minijuegosgratis.com
-127.0.0.1 www.minijuegos.mx
-127.0.0.1 www.minigiochi.com
-127.0.0.1 www.minijogos.com.br
-127.0.0.1 www.minispelletjes.com
-127.0.0.1 www.grymini.pl
-127.0.0.1 www.friv.com
-127.0.0.1 friv.guru
-127.0.0.1 friv.gifts
-127.0.0.1 www.cdnfriv.com
-127.0.0.1 frivez.com
-127.0.0.1 game259142.konggames.com
-127.0.0.1 game316268.konggames.com
-127.0.0.1 game300161.konggames.com
-127.0.0.1 v6p9d9t4.ssl.hwcdn.net
-127.0.0.1 18909.cache.armorgames.com
-127.0.0.1 19296.cache.armorgames.com
-127.0.0.1 www.gogy.com
-127.0.0.1 static.gogy.com
-127.0.0.1 lagged.com
-127.0.0.1 lagged.jp
-127.0.0.1 lagged.fr
-127.0.0.1 lagged.es
-127.0.0.1 lagged.ru
-127.0.0.1 lagged.pl
-127.0.0.1 lagged.kr
-127.0.0.1 gamemonetize.com
-127.0.0.1 io.gamemonetize.com
-127.0.0.1 html5.gamemonetize.co
-127.0.0.1 html5.distributegames.com
-127.0.0.1 play.gamemonetize.com
-127.0.0.1 play.gamemonetize.co
-127.0.0.1 gamedistribution.com
-127.0.0.1 sg.gamedistribution.com
-127.0.0.1 html5.gamedistribution.com
-127.0.0.1 enjoy4fun.com
-127.0.0.1 www.enjoy4fun.com
-127.0.0.1 game.enjoy4fun.com
-127.0.0.1 gamerdam.com
-127.0.0.1 o.gamerdam.com
-127.0.0.1 gamesnacks.com
-127.0.0.1 cdn.gamesnacks.com
-127.0.0.1 gamessumo.com
-127.0.0.1 www.gamessumo.com
-127.0.0.1 playjolt.com
-127.0.0.1 www.playjolt.com
-127.0.0.1 myfreegames.net
-127.0.0.1 www.myfreegames.net
-127.0.0.1 www.ubestgames.com
-127.0.0.1 mixfreegames.com
-127.0.0.1 www.gamescrush.com
-127.0.0.1 www.gameonlinemix.com
-127.0.0.1 www.crazygamesmix.com
-127.0.0.1 pacogames.com
-127.0.0.1 www.pacogames.com
-127.0.0.1 data.pacogames.com
-127.0.0.1 gombis.com
-127.0.0.1 game.gombis.com
-127.0.0.1 cdn-game.gombis.com
-127.0.0.1 htmlgames.com
-127.0.0.1 cdn.htmlgames.com
-127.0.0.1 snokido.com
-127.0.0.1 w8.snokido.com
-127.0.0.1 www.vigoo.com
-127.0.0.1 download.vigoo.com
-127.0.0.1 download-cdn21.vigoo.com
-127.0.0.1 download.vigoogames.com
-127.0.0.1 cleverappssg.com
-127.0.0.1 tripeaks.cleverappssg.com
-127.0.0.1 www.bubbleshooter.net
-127.0.0.1 cdn.bubbleshooter.net
-127.0.0.1 www.shooter-bubble.com
-127.0.0.1 cdn.shooter-bubble.com
-127.0.0.1 www.crazygames.cz
-127.0.0.1 www.crazygames.dk
-127.0.0.1 de.crazygames.com
-127.0.0.1 www.1001juegos.com
-127.0.0.1 www.crazygames.fr
-127.0.0.1 www.crazygames.co.id
-127.0.0.1 it.crazygames.com
-127.0.0.1 www.crazygames.hu
-127.0.0.1 www.crazygames.nl
-127.0.0.1 www.crazygames.no
-127.0.0.1 www.crazygames.pl
-127.0.0.1 www.crazygames.com.br
-127.0.0.1 www.crazygames.ro
-127.0.0.1 www.crazygames.fi
-127.0.0.1 www.crazygames.se
-127.0.0.1 vn.crazygames.com
-127.0.0.1 tr.crazygames.com
-127.0.0.1 gr.crazygames.com
-127.0.0.1 www.crazygames.ru
-127.0.0.1 www.crazygames.com.ua
-127.0.0.1 ar.crazygames.com
-127.0.0.1 th.crazygames.com
-127.0.0.1 ebitengine.org
-127.0.0.1 amuselabs.com
-127.0.0.1 www.proprofsgames.com
-127.0.0.1 www.typinggames.zone
-127.0.0.1 www.xpgameplus.com
-127.0.0.1 jocmania.com
-127.0.0.1 collepic.net
-127.0.0.1 www.snappygames.com
-127.0.0.1 games2master.com
-127.0.0.1 klassicgames.io
-127.0.0.1 www.gamedesign.jp
-127.0.0.1 www.min2win.org
-127.0.0.1 gamemug.com
-127.0.0.1 retrogames.cc
-127.0.0.1 funhtml5games.com
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 lexaloffle.com
-127.0.0.1 mariogames.be
-127.0.0.1 playstar.mobi
-127.0.0.1 1000webgames.com
-127.0.0.1 arcade3.com
-127.0.0.1 playgame24.com
-127.0.0.1 falconline.net
-127.0.0.1 hidden4fun.com
-127.0.0.1 myrealgames.com
-127.0.0.1 g8-games.com
-127.0.0.1 greenislet.com
-127.0.0.1 droidcool.com
-127.0.0.1 q10games.com
-127.0.0.1 iwin.com
-127.0.0.1 gameslol.net
-127.0.0.1 123-games.org
-127.0.0.1 wellgames.com
-127.0.0.1 appswisegames.com
-127.0.0.1 agame.com
-127.0.0.1 www.topmathgames.com
-127.0.0.1 cargames.com
-127.0.0.1 addictinggames.com
-127.0.0.1 stickpage.com
-127.0.0.1 lofgames.com
-127.0.0.1 gamaverse.com
-127.0.0.1 4399.com
-127.0.0.1 6games.eu
-127.0.0.1 spideygames.com
-127.0.0.1 www.video-igrice.com
-127.0.0.1 adogames.com
-127.0.0.1 vitalitygames.com
-127.0.0.1 demonisblack.com
-127.0.0.1 www.yad.com
-127.0.0.1 www.bestgames.com
-127.0.0.1 www.puzzlegame.com
-127.0.0.1 www.reludi.com
-127.0.0.1 www.gamenora.com
-127.0.0.1 blockmangogame.com
-127.0.0.1 porkgames.com
-127.0.0.1 azgames.io
-127.0.0.1 mixgame.net
-127.0.0.1 games-online.io
-127.0.0.1 play.fancade.com
-127.0.0.1 parasesi.org
-127.0.0.1 friv-games-today.com
-127.0.0.1 www.play-games.com
-127.0.0.1 www.yiv.com
-127.0.0.1 dob5.com
-127.0.0.1 babyhazelgames.com
-127.0.0.1 babygames.com
-127.0.0.1 twoplayergames.org
-127.0.0.1 kidsgames4all.com
-127.0.0.1 newkidsgames.org
-127.0.0.1 gemioli.com
-127.0.0.1 bitent.com
-127.0.0.1 gameshero.com
-127.0.0.1 playzool.com
-127.0.0.1 play-games.com
-127.0.0.1 minijuegos.com
-127.0.0.1 petridish.pw
-127.0.0.1 gameflare.com
-127.0.0.1 gamesbears.com
-127.0.0.1 www.gamezop.com
-127.0.0.1 www.modd.io
-127.0.0.1 geometrydash.io
-127.0.0.1 didigames.com
-127.0.0.1 www.kogama.com
-127.0.0.1 www.gameslol.net
-127.0.0.1 www.gameflare.com
-127.0.0.1 clash3d.com
-127.0.0.1 classicreload.com
-127.0.0.1 flasharch.com
-127.0.0.1 now.gg
-127.0.0.1 www.gamesgames.com
-127.0.0.1 g55.co
-127.0.0.1 www.gaming-style.com
-127.0.0.1 www.kongregate.com
-127.0.0.1 www.box10.com
-127.0.0.1 www.foddy.net
-127.0.0.1 www.freeonlinegames.com
-127.0.0.1 funkypotato.com
-127.0.0.1 www.addictinggames.com
-127.0.0.1 www.retrogames.cc
-127.0.0.1 www.cargames.com
-127.0.0.1 www.julgames.com
-127.0.0.1 suragames.com
-127.0.0.1 www.indiexpo.net
-127.0.0.1 www.games68.com
-127.0.0.1 blueicegame.com
-127.0.0.1 itch.io
-127.0.0.1 playclassic.games
-127.0.0.1 jefawk.com
-127.0.0.1 55.freegamefunny.com
-127.0.0.1 wigames.net
-127.0.0.1 wi-games.com
-127.0.0.1 freegames.org
-127.0.0.1 vagabont.com
-127.0.0.1 wordgames.gg
-127.0.0.1 softfamous.com
-127.0.0.1 www.getgames.io
-127.0.0.1 www.drifted.com
-127.0.0.1 www.gamecovua.vn
-127.0.0.1 plays.org
-127.0.0.1 www.retrogames.cz
-127.0.0.1 play.unity.com
-127.0.0.1 games.aarp.org
-127.0.0.1 www.yof.com
-127.0.0.1 games.wkb.jp
-127.0.0.1 www.afsgames.com
-127.0.0.1 www.kodub.com
-127.0.0.1 baviux.com
-127.0.0.1 tybsi.com
-127.0.0.1 ziango.com
-127.0.0.1 www.gamearter.com
-127.0.0.1 gamearter.com
-127.0.0.1 witchhut.com
-127.0.0.1 playtomax.com
-127.0.0.1 goodgamestudios.com
-127.0.0.1 squidbyte.com
-127.0.0.1 js13kgames.com
-127.0.0.1 novelgames.com
-127.0.0.1 fm-studio.net
-127.0.0.1 playcanv.as
-127.0.0.1 vipspades.com
-127.0.0.1 goldfire.me
-127.0.0.1 html5gameportal.com
-127.0.0.1 gameforge.com
-127.0.0.1 flowlab.io
-127.0.0.1 www.zempie.com
-127.0.0.1 gamedistribution365.com
-127.0.0.1 games.cdn.famobi.com
-127.0.0.1 games.coolgames.com
-127.0.0.1 games.gameboss.com
-127.0.0.1 games.htmlgames.com
-127.0.0.1 games.gamesplaza.com
-127.0.0.1 games.startgamer.ru
-127.0.0.1 games.engineering.com
-127.0.0.1 games.monsteraplay.com
-127.0.0.1 games.cdn.spilcloud.com
-127.0.0.1 game.epochbase.com
-127.0.0.1 cdn.witchhut.com
-127.0.0.1 game.anymanager.io
-127.0.0.1 arenacloud.cdn.arkadiumhosted.com
-128.0.0.1 ams.cdn.arkadiumhosted.com
-127.0.0.1 demo.bgaming-network.com
-127.0.0.1 static.playunblocked.com
-127.0.0.1 cdn2.addictinggames.com
-127.0.0.1 cdn2.hubspot.net
-127.0.0.1 cdn.games.mobinozer.com
-127.0.0.1 cdn.shoalmedia.com
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 files.ufreegame.net
-127.0.0.1 files.acticdn.com
-127.0.0.1 freegames.ws
-127.0.0.1 previews.envatousercontent.com
-127.0.0.1 i.cartoonnetwork.com
-127.0.0.1 konggames.com
-127.0.0.1 dressupwho.net
-127.0.0.1 i.annihil.us
-127.0.0.1 iclouds.space
-127.0.0.1 0000100.com
-127.0.0.1 gameswf.com
-127.0.0.1 gamasexual.com
-127.0.0.1 html5.inlogic.sk
-127.0.0.1 backend.spiele-palast.de
-127.0.0.1 www.toggo.de
-127.0.0.1 hasbro.com
-127.0.0.1 emea.iframed.cn.dmti.cloud
-127.0.0.1 3wayint.com
-127.0.0.1 game.digitap.eu
-127.0.0.1 cdn2.unblocked-games-free.com
-127.0.0.1 www.manamonster.com
-127.0.0.1 www.gameswf.com
-127.0.0.1 szhong.4399.com
-127.0.0.1 butilochka.cdnvideo.ru
-127.0.0.1 www.lexaloffle.com
-127.0.0.1 cn.i.cdn.ti-platform.com
-127.0.0.1 unblocked-games.s3.amazonaws.com
-127.0.0.1 www.improvememory.org
-127.0.0.1 www.8kz.com
-127.0.0.1 h5.8kz.com
-127.0.0.1 kiz10.com
-127.0.0.1 www.kiz10.com
-127.0.0.1 cdn.kiz10.com
-127.0.0.1 license.novelgames.com
-127.0.0.1 www.twoplayergames.org
-127.0.0.1 files.twoplayergames.org
-127.0.0.1 www.coolmathgames.com
-127.0.0.1 www.actiongameshub.com
-127.0.0.1 assets.actiongameshub.com
-127.0.0.1 www.mathplayground.com
-127.0.0.1 ecapsgames.com
-127.0.0.1 www.girlgames.space
-127.0.0.1 foony.com
-127.0.0.1 www.roomrecess.com
-127.0.0.1 www.abcya.com
-127.0.0.1 media.abcya.com
-127.0.0.1 www.arcademics.com
-127.0.0.1 picos-school.com
-127.0.0.1 interactive.sesamestreet.org
-127.0.0.1 heyvr.io
-127.0.0.1 www.brightestgames.com
-127.0.0.1 es.brightestgames.com
-127.0.0.1 pt.brightestgames.com
-127.0.0.1 tr.brightestgames.com
-127.0.0.1 ru.brightestgames.com
-127.0.0.1 fr.brightestgames.com
-127.0.0.1 www.dots-and-boxes.com
-127.0.0.1 www.dinosaur-game.net
-127.0.0.1 www.tetris-games.com
-127.0.0.1 googlesolitaire.com
-127.0.0.1 www.googlesolitaire.com
-127.0.0.1 googlesnake.com
-127.0.0.1 www.247mahjonggames.com
-127.0.0.1 www.snake-games.io
-127.0.0.1 www.bubbleshooterfree.com
-127.0.0.1 playminigames.net
-127.0.0.1 holajuegos.com
-127.0.0.1 playminigames.in
-127.0.0.1 playminigames.nl
-127.0.0.1 playminigames.ru
-127.0.0.1 www.1001hry.cz
-127.0.0.1 www.spilxl.dk
-127.0.0.1 www.1001games.com
-127.0.0.1 www.isladejuegos.com
-127.0.0.1 www.1001jeux.fr
-127.0.0.1 www.jatekokxl.hu
-127.0.0.1 www.giochixl.it
-127.0.0.1 www.elkspel.nl
-127.0.0.1 www.1001jocuri.ro
-127.0.0.1 www.grajteraz.pl
-127.0.0.1 www.1001jogos.pt
-127.0.0.1 www.1001jogos.com.br
-127.0.0.1 www.igrixl.ru
-127.0.0.1 www.1001pelit.com
-127.0.0.1 www.spelo.se
-127.0.0.1 www.paixnidiaxl.gr
-127.0.0.1 www.spillespill.no
-127.0.0.1 www.1001spiele.de
-127.0.0.1 game-game.com
-127.0.0.1 game-game.com.de
-127.0.0.1 game-game.fr
-127.0.0.1 game-game.it
-127.0.0.1 cu.game-game.com
-127.0.0.1 mo.game-game.com
-127.0.0.1 www.game-game.com.ua
-127.0.0.1 game-game.pl
-127.0.0.1 game-game.web.tr
-127.0.0.1 game-game.ro
-127.0.0.1 kr.game-game.com
-127.0.0.1 game-game.jp
-127.0.0.1 www.games.co.uk
-127.0.0.1 www.jeux.fr
-127.0.0.1 www.gry.pl
-127.0.0.1 www.jetztspielen.de
-127.0.0.1 www.juegos.com
-127.0.0.1 www.ourgames.ru
-127.0.0.1 www.ojogos.com.br
-127.0.0.1 www.permainan.co.id
-127.0.0.1 www.spela.se
-127.0.0.1 www.gioco.it
-127.0.0.1 www.spelletjes.nl
-127.0.0.1 www.oyunskor.com
-127.0.0.1 www.adfreegames.com
-127.0.0.1 www.adfreegames.nl
-127.0.0.1 www.adfreegames.co.uk
-127.0.0.1 www.neongames.com
-127.0.0.1 www.neongames.co.uk
-127.0.0.1 www.neonspellen.nl
-127.0.0.1 www.neonspiele.de
-127.0.0.1 www.neongames.es
-127.0.0.1 www.neongames.cn
-127.0.0.1 www.actiongame.com
-127.0.0.1 www.actiongames.co.uk
-127.0.0.1 www.actiespellen.com
-127.0.0.1 www.aktionspiele.de
-127.0.0.1 www.juegosaccion.es
-127.0.0.1 www.mahjong.com
-127.0.0.1 www.mahjong.co.uk
-127.0.0.1 www.mahjongspelen.nl
-127.0.0.1 www.mahjongspielen.de
-127.0.0.1 www.juegosmahjong.com
-127.0.0.1 www.jeuxmahjong.fr
-127.0.0.1 www.giochimahjong.it
-127.0.0.1 www.mahjong.pt
-127.0.0.1 www.mahjong.pl
-127.0.0.1 www.classicgame.com
-127.0.0.1 www.classicgame.co.uk
-127.0.0.1 www.klassiekspel.nl
-127.0.0.1 www.spieleklassiker.com
-127.0.0.1 www.solitaire.com
-127.0.0.1 www.solitaire.co.uk
-127.0.0.1 www.patiencespelen.nl
-127.0.0.1 www.kartenspielen.de
-127.0.0.1 www.juegossolitario.com
-127.0.0.1 www.jeuxsolitaire.fr
-127.0.0.1 www.giochisolitario.it
-127.0.0.1 www.paciencia.pt
-127.0.0.1 www.pasjanse.pl
-127.0.0.1 www.puzzle-games.com
-127.0.0.1 www.puzzlegames.co.uk
-
-
-
-
-
-
-
-
-
-127.0.0.1 www.puzzelspellen.nl
-127.0.0.1 www.puzzlespiele.com
-127.0.0.1 www.juegosrompecabezas.com
-127.0.0.1 www.hiddenobjectgames.com
-127.0.0.1 www.hiddenobjectgames.co.uk
-127.0.0.1 www.hiddenobjectspellen.nl
-127.0.0.1 www.wimmelbildspiele.de
-127.0.0.1 www.juegosdeobjetosocultos.com
-127.0.0.1 www.match3games.com
-127.0.0.1 www.match3.co.uk
-127.0.0.1 www.match3spellen.nl
-127.0.0.1 www.3gewinntspiele.com
-127.0.0.1 www.tresenraya.com
-127.0.0.1 www.mindgames.com
-127.0.0.1 www.brain-games.co.uk
-127.0.0.1 www.denkspelletjes.nl
-127.0.0.1 www.knobelspiele.com
-127.0.0.1 www.juegos-mentales.com
-127.0.0.1 www.gameitnow.com
-127.0.0.1 www.mygame.co.uk
-127.0.0.1 www.flashgames.jp
-127.0.0.1 www.freegames.hk
-127.0.0.1 www.games1.in
-127.0.0.1 www.gragra.pl
-127.0.0.1 www.games.li
-127.0.0.1 www.spiellen.de
-127.0.0.1 www.spelle.be
-127.0.0.1 www.spelle.nl
-127.0.0.1 www.jouezgratuitement.fr
-127.0.0.1 www.giocogiochi.it
-127.0.0.1 www.game.bz
-127.0.0.1 www.juegosgratis.co.ve
-127.0.0.1 www.juga.es
-127.0.0.1 www.joga.pt
-127.0.0.1 www.friv10.com
-127.0.0.1 www.friv22.com
-127.0.0.1 www.friv77.com
-127.0.0.1 www.friv99.com
-127.0.0.1 www.friv200.com
-127.0.0.1 www.friv1000.com
-127.0.0.1 www.friv1999.com
-127.0.0.1 www.friv2000.com
-127.0.0.1 www.friv2008.com
-127.0.0.1 www.friv2009.com
-127.0.0.1 www.friv2010.com
-127.0.0.1 www.friv2011.com
-127.0.0.1 www.friv2012.com
-127.0.0.1 www.friv2013.com
-127.0.0.1 www.friv2014.com
-127.0.0.1 www.friv2015.com
-127.0.0.1 www.friv2016.com
-127.0.0.1 www.friv2017.com
-127.0.0.1 www.friv2018.com
-127.0.0.1 www.friv2019.com
-127.0.0.1 www.friv2020.com
-127.0.0.1 www.friv2021.com
-127.0.0.1 www.friv2022.com
-127.0.0.1 www.friv2023.com
-127.0.0.1 www.friv2024.com
-127.0.0.1 www.friv3000.com
-127.0.0.1 www.friv6000.com
-127.0.0.1 www.friv10000.com
-127.0.0.1 www.friv20000.com
-127.0.0.1 www.friv40000.com
-127.0.0.1 www.friv50000.com
-127.0.0.1 www.friv100000.com
-127.0.0.1 www.friv1000000.com
-127.0.0.1 www.friv10000000.com
-127.0.0.1 www.friv360.games
-127.0.0.1 friv23.com
-127.0.0.1 friv2024.com
-127.0.0.1 www.friv-1.com
-127.0.0.1 www.friv-7.com
-127.0.0.1 www.friv-123.com
-127.0.0.1 www.friv-2017.com
-127.0.0.1 www.friv-2018.com
-127.0.0.1 www.friv-2020.com
-127.0.0.1 www.friv-2021.com
-127.0.0.1 www.friv-3000.com
-127.0.0.1 www.friv12com.com
-127.0.0.1 www.friv2019com.com
-127.0.0.1 www.friv-com.com
-127.0.0.1 www.friv2019.com.br
-127.0.0.1 friv-2018.net
-127.0.0.1 www.friv1000.net
-127.0.0.1 www.friv9.org
-127.0.0.1 www.friv20.org
-127.0.0.1 www.friv5000.org
-127.0.0.1 www.friv90000.org
-127.0.0.1 www.friv50000.net
-127.0.0.1 www.friv2016.info
-127.0.0.1 www.friv2019.info
-127.0.0.1 www.friv2020.info
-127.0.0.1 www.friv2017.io
-127.0.0.1 friv2019.games
-127.0.0.1 friv2020.games
-127.0.0.1 friv2021.games
-127.0.0.1 friv2022.games
-127.0.0.1 www.friv-2019.games
-127.0.0.1 www.friv-2020.games
-127.0.0.1 www.friv2017.us
-127.0.0.1 www.friv2020.us
-127.0.0.1 www.friv2online.com
-127.0.0.1 www.friv5online.com
-127.0.0.1 www.friv4school2017.com
-127.0.0.1 friv4.win
-127.0.0.1 friv5.me
-127.0.0.1 friv10play.net
-127.0.0.1 friv10games.club
-127.0.0.1 friv.land
-127.0.0.1 www.friv.cm
-127.0.0.1 www.friv.ee
-127.0.0.1 www.friv.vip
-127.0.0.1 www.friv.lol
-127.0.0.1 www.friv.uno
-127.0.0.1 www.friv.cloud
-127.0.0.1 frive.net
-127.0.0.1 frivgames4u.com
-127.0.0.1 www.frivantigo.com
-127.0.0.1 www.frivoldmenu.com
-127.0.0.1 www.frivls.com
-127.0.0.1 www.frivoriginal.com
-127.0.0.1 frivwtf.com
-127.0.0.1 friv2.racing
-127.0.0.1 www.friv4school.io
-127.0.0.1 www.gryfriv.info
-127.0.0.1 www.gryfriv5.com
-127.0.0.1 frivcomfriv.com
-127.0.0.1 www.jeuxdefriv2021.net
-127.0.0.1 www.jeux-friv.com
-127.0.0.1 www.jeuxdefriv2014.com
-127.0.0.1 www.frivjeux.com
-127.0.0.1 www.jeuxdefriv2019.net
-127.0.0.1 www.jeuxdefriv2020.net
-127.0.0.1 www.jeuxfriv.org
-127.0.0.1 www.jeuxdefrin.com
-127.0.0.1 www.jeuxdefriv.com
-127.0.0.1 www.jeuxdefriv2015.com
-127.0.0.1 www.jeuxdefriv2021.com
-127.0.0.1 www.jeuxdefriv250.net
-127.0.0.1 www.friv2019plus.com
-127.0.0.1 www.juegofriv5.com
-127.0.0.1 www.hryonline1001.cz
-127.0.0.1 www.juegosgratisfriv.com
-127.0.0.1 www.mhry.cz
-127.0.0.1 www.friv-y8.net
-127.0.0.1 www.juegosfriv2com.com
-127.0.0.1 www.juegosdegogy.com
-127.0.0.1 www.funnygames.org
-127.0.0.1 www.funnygames.jp
-127.0.0.1 www.mixfreegames.com
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 www.4j.com
-127.0.0.1 yaksgames.com
-127.0.0.1 www.hitgames.org
-127.0.0.1 www.bestcrazygames.com
-127.0.0.1 gry.jeja.pl
-127.0.0.1 www.8fat.com
-127.0.0.1 manygames.us
-127.0.0.1 www.hepy.games
-127.0.0.1 www.6woo.com
-127.0.0.1 www.46play.com
-127.0.0.1 www.superhry.cz
-127.0.0.1 www.h5h5games.com
-127.0.0.1 www.zazgames.com
-127.0.0.1 www.gamev6.com
-127.0.0.1 www.sybogame.com
-127.0.0.1 www.cabahtmlgames.com
-127.0.0.1 www.rocketgames.io
-127.0.0.1 www.sebogame.com
-127.0.0.1 www.maskedgames.com
-127.0.0.1 taptapking.com
-127.0.0.1 www.meyagames.com
-127.0.0.1 www.contezero.com
-127.0.0.1 gamesfrog.com
-127.0.0.1 www.learn4good.com
-127.0.0.1 arcadespot.com
-127.0.0.1 www.gamesfreak.net
-127.0.0.1 www.playbelline.com
-127.0.0.1 nointernetgame.com
-127.0.0.1 2player.co
-127.0.0.1 www.nitrome.com
-127.0.0.1 cellgames.com
-127.0.0.1 igre.games
-127.0.0.1 www.poki2.net
-127.0.0.1 taptop.games
-127.0.0.1 games.mi9.com
-127.0.0.1 www.bgames.com
-127.0.0.1 playhop.com
-127.0.0.1 www.playit-online.com
-127.0.0.1 pacman-30thanniversary.com
-127.0.0.1 stickmanhookgame.org
-127.0.0.1 lifethegame.io
-127.0.0.1 trochoi.io
-127.0.0.1 www.turtlediary.com
-127.0.0.1 kizi.com
-127.0.0.1 abcya.games
-127.0.0.1 www.multoigri.ru
-127.0.0.1 www.dl-girls.com
-127.0.0.1 www.coolmathgameskids.com
-127.0.0.1 www.gamefree.games
-127.0.0.1 www.g2k.co
-127.0.0.1 www.topgames.com
-127.0.0.1 pnfreegames.com
-127.0.0.1 www.games-kids.com
-127.0.0.1 www.kizgame.com
-127.0.0.1 www.happykidgames.com
-127.0.0.1 www.girlgames.ee
-127.0.0.1 www.disney--games.com
-127.0.0.1 www.numuki.com
-127.0.0.1 onlygames.io
-127.0.0.1 en.onlygames.io
-127.0.0.1 fr.onlygames.io
-127.0.0.1 de.onlygames.io
-127.0.0.1 es.onlygames.io
-127.0.0.1 ua.onlygames.io
-127.0.0.1 cloud.onlinegames.io
-127.0.0.1 iogames.space
-127.0.0.1 www.iogames.space
-127.0.0.1 webgames.io
-127.0.0.1 www.gamepix.com
-127.0.0.1 quake-io.com
-127.0.0.1 nutwg.com
-127.0.0.1 iogames.fun
-127.0.0.1 www.agame.com
-127.0.0.1 www.gameio.vn
-127.0.0.1 pbgamer.com
-127.0.0.1 iogamesio.onl
-127.0.0.1 iogames.world
-127.0.0.1 cool-io.games
-127.0.0.1 www.iogames-io.io
-127.0.0.1 iogames.games
-127.0.0.1 playgamesio.net
-127.0.0.1 iogames.blog
-127.0.0.1 www.gameszap.com
-127.0.0.1 iogamesio.org
-127.0.0.1 titotu.io
-127.0.0.1 titotu.ru
-127.0.0.1 io.games
-127.0.0.1 iogame.io
-127.0.0.1 iogames.onl
-127.0.0.1 fpsiogames.com
-127.0.0.1 slitherio.online
-127.0.0.1 slithergame.io
-127.0.0.1 agargame.io
-127.0.0.1 madalinstuntcars2.io
-127.0.0.1 amongus2.io
-127.0.0.1 gaamess.com
-127.0.0.1 gaamess.ca
-127.0.0.1 gaamess.uk
-127.0.0.1 gaamess.de
-127.0.0.1 gaamess.dk
-127.0.0.1 gaamess.fr
-127.0.0.1 gaamess.mx
-127.0.0.1 gaamess.es
-127.0.0.1 www.solitr.com
-127.0.0.1 mahjon.gg
-127.0.0.1 sudoku.game
-127.0.0.1 snake-game.co
-127.0.0.1 playsnake.org
-127.0.0.1 www.pizzasnake.com
-127.0.0.1 officesnake.com
-127.0.0.1 worms.zone
-127.0.0.1 hury.io
-127.0.0.1 trex-runner.com
-127.0.0.1 froggerclassic.appspot.com
-127.0.0.1 im-a-puzzle.com
-127.0.0.1 jigsawpuzzles.io
-127.0.0.1 www.jigsawplanet.com
-127.0.0.1 www.jigsawexplorer.com
-127.0.0.1 www.jspuzzles.com
-127.0.0.1 food-le.com
-127.0.0.1 sudoku.com
-127.0.0.1 www.livesudoku.com
-127.0.0.1 ja.sudoku-online.net
-127.0.0.1 numberplace.net
-127.0.0.1 numberplace.site
-127.0.0.1 nanpre.adg5.com
-127.0.0.1 numpre7.com
-127.0.0.1 si-coding.net
-127.0.0.1 www.2048.org
-127.0.0.1 doge2048.com
-127.0.0.1 gamemora.com
-127.0.0.1 www.2048tile.co
-127.0.0.1 2048game.club
-127.0.0.1 all2048.com
-127.0.0.1 1024game.org
-127.0.0.1 2048game.com
-127.0.0.1 play2048.co
-127.0.0.1 2048undo.com
-127.0.0.1 play.threesgame.com
-127.0.0.1 tetris.org
-127.0.0.1 tetris.com
-127.0.0.1 www.tetris24.com
-127.0.0.1 tetris.merkoba.com
-127.0.0.1 jstris.jezevec10.com
-127.0.0.1 game222.xyz
-127.0.0.1 minesweeper.one
-127.0.0.1 minesweeper.us
-127.0.0.1 minesweeper.online
-127.0.0.1 minesweeperforfree.com
-127.0.0.1 minesweeperonline.com
-
-
-
-
-
-
-
-
-
-127.0.0.1 play.m3o.xyz
-127.0.0.1 play-minesweeper.com
-127.0.0.1 onesquareminesweeper.com
-127.0.0.1 coopminesweeper.com
-127.0.0.1 minesweeperx.com
-127.0.0.1 www.revolversweeper.com
-127.0.0.1 play.minesweeperflags.net
-127.0.0.1 minesweeper-online.com
-127.0.0.1 minesweeper.website
-127.0.0.1 spadescardclassic.com
-127.0.0.1 heartscardclassic.com
-127.0.0.1 pinochleclassic.com
-127.0.0.1 www.cribbageclassic.com
-127.0.0.1 www.vegasworld.com
-127.0.0.1 www.playhearts-online.com
-127.0.0.1 www.playrummy-online.com
-127.0.0.1 playspades-online.com
-127.0.0.1 www.playsolitaire-online.com
-127.0.0.1 www.playeuchre-online.com
-127.0.0.1 www.gin-rummy.net
-127.0.0.1 playmahjong-online.com
-127.0.0.1 playcribbage-online.com
-127.0.0.1 playbingo-online.net
-127.0.0.1 freecellsolitaire-online.com
-127.0.0.1 spades-game.online
-127.0.0.1 hearts-game.online
-127.0.0.1 www.gin-rummy-online.com
-127.0.0.1 www.free-hearts.com
-127.0.0.1 cardgames.ai
-127.0.0.1 cardgames.io
-127.0.0.1 playingcards.io
-127.0.0.1 www.onlinesologames.com
-127.0.0.1 www.solitaire-pyramid.com
-127.0.0.1 www.solitaire-klondike.com
-127.0.0.1 www.christmas-time-solitaire.com
-127.0.0.1 www.free-freecell-solitaire.com
-127.0.0.1 www.free-word-search.com
-127.0.0.1 www.free-spider-solitaire.com
-127.0.0.1 www.solitaire-web-app.com
-127.0.0.1 www.classicsolitaire.com
-127.0.0.1 www.christmassolitaire.com
-127.0.0.1 www.solitaire.org
-127.0.0.1 solitaire.dev
-127.0.0.1 worldofsolitaire.com
-127.0.0.1 solitaired.com
-127.0.0.1 www.digsolitaire.com
-127.0.0.1 online-solitaire.com
-127.0.0.1 www.solitairebliss.com
-127.0.0.1 greenfelt.net
-127.0.0.1 www.play-solitaire.com
-127.0.0.1 www.solitaire-play.com
-127.0.0.1 justsolitaire.com
-127.0.0.1 solitairesocial.com
-127.0.0.1 www.spider-solitaire-game.com
-127.0.0.1 www.klondike-solitaire.online
-127.0.0.1 pasjans-online.pl
-127.0.0.1 html5solitaire.web.mobilityware.com
-127.0.0.1 www.solitaireparadise.com
-127.0.0.1 pizz.uno
-127.0.0.1 scuffeduno.online
-127.0.0.1 duowfriends.eu
-127.0.0.1 blaze.com
-127.0.0.1 sven-bet.com
-127.0.0.1 www.sakura-ent.net
-127.0.0.1 buddyboardgames.com
-127.0.0.1 www.playok.com
-127.0.0.1 playpager.com
-127.0.0.1 wars.fm
-127.0.0.1 papergames.io
-127.0.0.1 chess.org
-127.0.0.1 www.chess.com
-127.0.0.1 lichess.org
-127.0.0.1 www.mychessgame.com
-127.0.0.1 www.chessonlinefree.com
-127.0.0.1 chessui.com
-127.0.0.1 www.shredderchess.com
-127.0.0.1 www.sparkchess.com
-127.0.0.1 game.metachess.network
-127.0.0.1 chessmir.ru
-127.0.0.1 www.othello.org
-127.0.0.1 www.eothello.com
-127.0.0.1 play.xiangqi.com
-127.0.0.1 shogibeya.michikusa.jp
-127.0.0.1 www.kento-shogi.com
-127.0.0.1 www.minnanogo.com
-127.0.0.1 puyogo.app
-127.0.0.1 www.mahjonged.com
-127.0.0.1 www.neuronball.com
-127.0.0.1 driplife.net
-127.0.0.1 microgolf.triplefun.com
-127.0.0.1 kiomet.com
-127.0.0.1 www.konkr.io
-127.0.0.1 game.bitplanets.com
-127.0.0.1 tza.red
-127.0.0.1 play.conkis.com
-127.0.0.1 pacman.live
-127.0.0.1 chromedino.com
-127.0.0.1 gameofbombs.com
-127.0.0.1 classic.minecraft.net
-127.0.0.1 bandit.rip
-127.0.0.1 gobattle.io
-127.0.0.1 doubledodgers.com
-127.0.0.1 eatcells.com
-127.0.0.1 samuraimadness.com
-127.0.0.1 skillfite.io
-127.0.0.1 warin.space
-127.0.0.1 torn.space
-127.0.0.1 orbs.it
-127.0.0.1 airmash.online
-127.0.0.1 topdownbattleground.com
-127.0.0.1 www.puzzleplayground.com
-127.0.0.1 netquel.com
-127.0.0.1 app.3daimtrainer.com
-127.0.0.1 aimtrainer.io
-127.0.0.1 aiming.pro
-127.0.0.1 bemuse.ninja
-127.0.0.1 www.madalin-cars-multiplayer.com
-127.0.0.1 threltemania.xyz
-127.0.0.1 therace.montblanclegend.com
-127.0.0.1 hexgl.bkcore.com
-127.0.0.1 equinox.space
-127.0.0.1 1v1.lol
-127.0.0.1 warmerise.com
-127.0.0.1 superhotgame.com
-127.0.0.1 narrow.one
-127.0.0.1 play-cs.com
-127.0.0.1 app.kosmi.io
-127.0.0.1 zombie.alexmassy.com
-127.0.0.1 www.playkeepout.com
-127.0.0.1 www.stumbleguys.com
-127.0.0.1 play.treasurearena.com
-127.0.0.1 summer-afternoon.vlucendo.com
-127.0.0.1 coastalworld.com
-127.0.0.1 littlewargame.com
-127.0.0.1 sougen.co
-127.0.0.1 ourworldofpixels.com
-127.0.0.1 magma.com
-127.0.0.1 www.linerider.com
-127.0.0.1 www.gunblood.com
-127.0.0.1 www.retrogames.ee
-127.0.0.1 flappybird.ee
-127.0.0.1 doodlejump.io
-127.0.0.1 playslope.io
-127.0.0.1 chromedino.io
-127.0.0.1 cookieclicker.ee
-127.0.0.1 supermario.ee
-127.0.0.1 2048.ee
-127.0.0.1 tictactoe.ee
-127.0.0.1 pvz.ee
-127.0.0.1 minesweeper.ee
-127.0.0.1 ponggame.io
-
-
-
-
-
-
-
-
-
-127.0.0.1 freemahjong.io
-127.0.0.1 solitair.ee
-127.0.0.1 snak.ee
-127.0.0.1 tunnelrush.app
-127.0.0.1 motox3m.pro
-127.0.0.1 run3.pro
-127.0.0.1 happywheels.app
-127.0.0.1 www.chesswai.com
-127.0.0.1 playwordle.io
-127.0.0.1 aow.ee
-127.0.0.1 invaders.ee
-127.0.0.1 kong.ee
-127.0.0.1 frogger.ee
-127.0.0.1 galaga.ee
-127.0.0.1 sonic.ee
-127.0.0.1 qbert.ee
-127.0.0.1 templerun.ee
-127.0.0.1 asteroids.ee
-127.0.0.1 jetpac.ee
-127.0.0.1 sudokugame.ee
-127.0.0.1 freepacman.org
-127.0.0.1 freeflappybird.org
-127.0.0.1 freewordle.org
-127.0.0.1 tap2play.io
-127.0.0.1 egd.tap2play.io
-127.0.0.1 ninja.tap2play.io
-127.0.0.1 glitch.tap2play.io
-127.0.0.1 incident.tap2play.io
-127.0.0.1 pewpew.tap2play.io
-127.0.0.1 beacons.tap2play.io
-127.0.0.1 blb.tap2play.io
-127.0.0.1 everyone.tap2play.io
-127.0.0.1 bounce.tap2play.io
-127.0.0.1 sk8.tap2play.io
-127.0.0.1 fruit.tap2play.io
-127.0.0.1 taxidrift.tap2play.io
-127.0.0.1 snake.tap2play.io
-127.0.0.1 rooftops.tap2play.io
-127.0.0.1 ski.tap2play.io
-127.0.0.1 polygon.tap2play.io
-127.0.0.1 dodger.tap2play.io
-127.0.0.1 sufi.tap2play.io
-127.0.0.1 infiltration.tap2play.io
-127.0.0.1 gates.tap2play.io
-127.0.0.1 haunted.tap2play.io
-127.0.0.1 miami.tap2play.io
-127.0.0.1 radiation.tap2play.io
-127.0.0.1 fast.tap2play.io
-127.0.0.1 warsim.tap2play.io
-127.0.0.1 carjump.tap2play.io
-127.0.0.1 volcano.tap2play.io
-127.0.0.1 geometry.tap2play.io
-127.0.0.1 px.tap2play.io
-127.0.0.1 taxi.tap2play.io
-127.0.0.1 zombie.tap2play.io
-127.0.0.1 space.tap2play.io
-127.0.0.1 frvr.com
-127.0.0.1 seatrader.frvr.com
-127.0.0.1 sort.frvr.com
-127.0.0.1 greed.frvr.com
-127.0.0.1 splat.frvr.com
-127.0.0.1 octa.frvr.com
-127.0.0.1 monster.frvr.com
-127.0.0.1 wordtower.frvr.com
-127.0.0.1 driver.frvr.com
-127.0.0.1 foodtycoon.frvr.com
-127.0.0.1 fishmerge.frvr.com
-127.0.0.1 donut.frvr.com
-127.0.0.1 combine.frvr.com
-127.0.0.1 planetminer.frvr.com
-127.0.0.1 golfgardens.frvr.com
-127.0.0.1 pinball.frvr.com
-127.0.0.1 fieldgoal.frvr.com
-127.0.0.1 kittenforce.frvr.com
-127.0.0.1 bowmania.frvr.com
-127.0.0.1 unblock.frvr.com
-127.0.0.1 slash.frvr.com
-127.0.0.1 streak.frvr.com
-127.0.0.1 curling.frvr.com
-127.0.0.1 connect.frvr.com
-127.0.0.1 stackthree.frvr.com
-127.0.0.1 goldmahjong.frvr.com
-127.0.0.1 lines.frvr.com
-127.0.0.1 cave.frvr.com
-127.0.0.1 remove.frvr.com
-127.0.0.1 spacebreaker.frvr.com
-127.0.0.1 trim.frvr.com
-127.0.0.1 bubbleshooter.frvr.com
-127.0.0.1 nonogram.frvr.com
-127.0.0.1 spider.frvr.com
-127.0.0.1 jewels.frvr.com
-127.0.0.1 football.frvr.com
-127.0.0.1 klondike.frvr.com
-127.0.0.1 kickup.frvr.com
-127.0.0.1 trigon.frvr.com
-127.0.0.1 harpoon.frvr.com
-127.0.0.1 balloon.frvr.com
-127.0.0.1 goldtrain.frvr.com
-127.0.0.1 roadtrip.frvr.com
-127.0.0.1 golddigger.frvr.com
-127.0.0.1 dragrace.frvr.com
-127.0.0.1 cricket.frvr.com
-127.0.0.1 darts.frvr.com
-127.0.0.1 mahjong.frvr.com
-127.0.0.1 hex.frvr.com
-127.0.0.1 basketball.frvr.com
-127.0.0.1 fruitmasher.frvr.com
-127.0.0.1 puttrush.frvr.com
-127.0.0.1 solitaire.frvr.com
-127.0.0.1 soccer.frvr.com
-127.0.0.1 frosty.frvr.com
-127.0.0.1 rockhop.frvr.com
-127.0.0.1 overunder.frvr.com
-127.0.0.1 ski.frvr.com
-127.0.0.1 boing.frvr.com
-127.0.0.1 poolrush.frvr.com
-127.0.0.1 bowlingo.frvr.com
-127.0.0.1 diamondrush.frvr.com
-127.0.0.1 bumpercar.frvr.com
-127.0.0.1 mergeballs.frvr.com
-127.0.0.1 ballcrash.frvr.com
-127.0.0.1 wallyjump.frvr.com
-127.0.0.1 worlds.frvr.com
-127.0.0.1 pegball.frvr.com
-127.0.0.1 herospacerun.frvr.com
-127.0.0.1 dominoes.frvr.com
-127.0.0.1 minestryger.com
-127.0.0.1 kabale.net
-127.0.0.1 spil-mahjong.com
-127.0.0.1 minesweeper-online.de
-127.0.0.1 solitär-online.eu
-127.0.0.1 mahjong-spiel.eu
-127.0.0.1 minesweeper-pro.com
-127.0.0.1 solitaires-online.com
-127.0.0.1 mahjong-pro.com
-127.0.0.1 buscaminas-pro.com
-127.0.0.1 solitarios-online.com
-127.0.0.1 mahjong-solitario.com
-127.0.0.1 d%C3%A9mineur.eu
-127.0.0.1 solitaire-jeu.eu
-127.0.0.1 jeu-mahjong.com
-127.0.0.1 campo-minato.com
-127.0.0.1 solitario-verde.com
-127.0.0.1 gioco-mahjong.com
-127.0.0.1 mijnenveger.eu
-127.0.0.1 patience-spelen.com
-127.0.0.1 mahjong-spelen.eu
-127.0.0.1 %E3%83%9E%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%91.com
-127.0.0.1 minesveiper.com
-127.0.0.1 kabal.info
-127.0.0.1 mahjong-spill.com
-
-
-
-
-
-
-
-
-
-127.0.0.1 saper-pro.pl
-127.0.0.1 gra-pasjans.pl
-127.0.0.1 gra-mahjong.pl
-127.0.0.1 campo-minado.com
-127.0.0.1 paci%C3%AAncia.eu
-127.0.0.1 mahjong-jogo.com
-127.0.0.1 minesweeper-joc.com
-127.0.0.1 solitaire-jocuri.com
-127.0.0.1 mahjong-joc.com
-127.0.0.1 xn--80a4adb6f.com
-127.0.0.1 xn--80a0aejb8dva.com
-127.0.0.1 xn--80agci1ajg.net
-127.0.0.1 miinaharava.eu
-127.0.0.1 pasianssi-pelit.com
-127.0.0.1 mahjong-peli.com
-127.0.0.1 r%C3%B6j.com
-127.0.0.1 patiens.eu
-127.0.0.1 mahjong-spel.com
-127.0.0.1 %E3%82%BD%E3%83%AA%E3%83%86%E3%82%A3%E3%82%A2.net
-127.0.0.1 %E4%B8%8A%E6%B5%B7%E9%BA%BB%E9%9B%80.com
-127.0.0.1 snake.onl
-127.0.0.1 thesolitaire.com
-127.0.0.1 de.thesolitaire.com
-127.0.0.1 es.thesolitaire.com
-127.0.0.1 pt.thesolitaire.com
-127.0.0.1 da.thesolitaire.com
-127.0.0.1 fr.thesolitaire.com
-127.0.0.1 ru.thesolitaire.com
-127.0.0.1 id.thesolitaire.com
-127.0.0.1 it.thesolitaire.com
-127.0.0.1 nl.thesolitaire.com
-127.0.0.1 pl.thesolitaire.com
-127.0.0.1 sv.thesolitaire.com
-127.0.0.1 tr.thesolitaire.com
-127.0.0.1 vi.thesolitaire.com
-127.0.0.1 thejigsawpuzzles.com
-127.0.0.1 themahjong.com
-127.0.0.1 thesudoku.com
-127.0.0.1 snake.zone
-127.0.0.1 mahjong.zone
-127.0.0.1 weiqi.zone
-127.0.0.1 reversi.zone
-127.0.0.1 mines.zone
-127.0.0.1 www.solitaire365.com
-127.0.0.1 www.mahjongonline365.com
-127.0.0.1 www.wordsearch365.com
-127.0.0.1 www.sudokuonline.io
-127.0.0.1 www.bubbleshooter365.com
-127.0.0.1 www.jigsaw365.com
-127.0.0.1 zombsroyale.io
-127.0.0.1 zombs.io
-127.0.0.1 devast.io
-127.0.0.1 www.bighero.io
-127.0.0.1 yohoho.io
-127.0.0.1 monarchies.io
-127.0.0.1 www.creatur.io
-127.0.0.1 mope.io
-127.0.0.1 brutal.io
-127.0.0.1 oceanar.io
-127.0.0.1 moomoo.io
-127.0.0.1 tricksplit.io
-127.0.0.1 gunzer.io
-127.0.0.1 nailz.io
-127.0.0.1 brutalmania.io
-127.0.0.1 minigiants.io
-127.0.0.1 diep.io
-127.0.0.1 antwar.io
-127.0.0.1 gunwars.io
-127.0.0.1 shotwars.io
-127.0.0.1 raaaaft.io
-127.0.0.1 stabfish2.io
-127.0.0.1 warcall.io
-127.0.0.1 evowars.io
-127.0.0.1 y8.evowars.io
-127.0.0.1 cavegame.io
-127.0.0.1 mineroyale.io
-127.0.0.1 starve.io
-127.0.0.1 crazysteve.io
-127.0.0.1 sploop.io
-127.0.0.1 lordz.io
-127.0.0.1 snipey.io
-127.0.0.1 swordz.io
-127.0.0.1 fightz.io
-127.0.0.1 throwz.io
-127.0.0.1 blastz.io
-127.0.0.1 wilds.io
-127.0.0.1 suprem.io
-127.0.0.1 surviv.io
-127.0.0.1 surviv2.io
-127.0.0.1 tyran.io
-127.0.0.1 shootup.io
-127.0.0.1 taming.io
-127.0.0.1 wanderers.io
-127.0.0.1 betrayal.io
-127.0.0.1 junon.io
-127.0.0.1 spaceblast.io
-127.0.0.1 yohoho-io.space
-127.0.0.1 amogus.io
-127.0.0.1 buildroyale.io
-127.0.0.1 foes.io
-127.0.0.1 fishz.io
-127.0.0.1 dynast.io
-127.0.0.1 boxz.io
-127.0.0.1 megaspin.io
-127.0.0.1 dinoman.io
-127.0.0.1 takepoint.io
-127.0.0.1 doomed2.io
-127.0.0.1 evades.io
-127.0.0.1 mine-craft.io
-127.0.0.1 nend.io
-127.0.0.1 bruh.io
-127.0.0.1 warbot.io
-127.0.0.1 robostorm.io
-127.0.0.1 mousewars.io
-127.0.0.1 wings.io
-127.0.0.1 copter.io
-127.0.0.1 tankwars.io
-127.0.0.1 starblast.io
-127.0.0.1 socketshot.io
-127.0.0.1 gats.io
-127.0.0.1 karnage.io
-127.0.0.1 vnav.io
-127.0.0.1 battlegrounds2d.io
-127.0.0.1 www.darknova.io
-127.0.0.1 ferals.io
-127.0.0.1 lastmagestanding.com
-127.0.0.1 stabfish.io
-127.0.0.1 www.mageclash.io
-127.0.0.1 eldyn.io
-127.0.0.1 swordbattle.io
-127.0.0.1 beta.deeeep.io
-127.0.0.1 digdig.io
-127.0.0.1 pung.io
-127.0.0.1 impostor.io
-127.0.0.1 nightz.io
-127.0.0.1 zomm.io
-127.0.0.1 minefighters.club
-127.0.0.1 dinogenonline.com
-127.0.0.1 www.thelast.io
-127.0.0.1 gallons.io
-127.0.0.1 reyd.io
-127.0.0.1 raftroyale.io
-127.0.0.1 chemz.io
-127.0.0.1 koxo.io
-127.0.0.1 florr.io
-127.0.0.1 minestrike.fun
-127.0.0.1 avoids.io
-127.0.0.1 seaguys.io
-127.0.0.1 agma.io
-127.0.0.1 deeeep.io
-127.0.0.1 dogod.io
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 chompers.io
-127.0.0.1 bomby.io
-127.0.0.1 www.zlap.io
-127.0.0.1 www.stabfish2.io
-127.0.0.1 cocky.io
-127.0.0.1 takemine.io
-127.0.0.1 poopoo.pro
-127.0.0.1 www.swordbattle.io
-127.0.0.1 schoolbreak.io
-127.0.0.1 lordz2.io
-127.0.0.1 castlesiege.io
-127.0.0.1 suroi.io
-127.0.0.1 doomed.io
-127.0.0.1 goosegame.io
-127.0.0.1 ducklings.io
-127.0.0.1 snowball-io.io
-127.0.0.1 battleclub.io
-127.0.0.1 www.crushtime.io
-127.0.0.1 castles.cc
-127.0.0.1 mightandmonsters.com
-127.0.0.1 nuggetroyale.io
-127.0.0.1 braains2.io
-127.0.0.1 shipcraft.io
-127.0.0.1 shootem.io
-127.0.0.1 nightpoint.io
-127.0.0.1 microgravity.io
-127.0.0.1 mudfield.io
-127.0.0.1 drednot.io
-127.0.0.1 play.daud.io
-127.0.0.1 spaceone.daud.io
-127.0.0.1 tacticscore.io
-127.0.0.1 battlepoint.io
-127.0.0.1 acolytefight.io
-127.0.0.1 combatzone.io
-127.0.0.1 tanksmith.io
-127.0.0.1 nightwalkers.io
-127.0.0.1 lier.io
-127.0.0.1 defly.io
-127.0.0.1 arras.io
-127.0.0.1 stug.io
-127.0.0.1 battledudes.io
-127.0.0.1 royaledudes.io
-127.0.0.1 gigga.io
-127.0.0.1 clanker.io
-127.0.0.1 tankroyale.io
-127.0.0.1 helmetroyale.io
-127.0.0.1 gulch.io
-127.0.0.1 doblons.io
-127.0.0.1 battletanks.io
-127.0.0.1 gunbattle.io
-127.0.0.1 orbitwar.space
-127.0.0.1 botbattles.io
-127.0.0.1 blocktanks.io
-127.0.0.1 nullstar.io
-127.0.0.1 astroe.io
-127.0.0.1 bunk.town
-127.0.0.1 dizzytroopers.io
-127.0.0.1 dogflight.io
-127.0.0.1 kize.io
-127.0.0.1 battleboats.io
-127.0.0.1 tinytanks.io
-127.0.0.1 tanx.io
-127.0.0.1 krunt.io
-127.0.0.1 crazybattle.fun
-127.0.0.1 astrix.io
-127.0.0.1 bist.io
-127.0.0.1 vanar.io
-127.0.0.1 kazap.io
-127.0.0.1 zorelit.io
-127.0.0.1 gravitygame.io
-127.0.0.1 scenexe.io
-127.0.0.1 gunbomb.io
-127.0.0.1 herodungeon.io
-127.0.0.1 www.supertanks.io
-127.0.0.1 extermination.io
-127.0.0.1 royalesurvival.io
-127.0.0.1 mk48.io
-127.0.0.1 bombers-io.com
-127.0.0.1 badegg.io
-127.0.0.1 alpha.monstercity.io
-127.0.0.1 bopz.io
-127.0.0.1 captainforever.io
-127.0.0.1 stickbattle.lol
-127.0.0.1 ragez.io
-127.0.0.1 www.bulletleague.io
-127.0.0.1 bonk.io
-127.0.0.1 ninja.io
-127.0.0.1 flappybird.io
-127.0.0.1 stomped.io
-127.0.0.1 evoworld.io
-127.0.0.1 dragonjoust.io
-127.0.0.1 flaproyale.io
-127.0.0.1 2020game.io
-127.0.0.1 vw.tap2play.io
-127.0.0.1 trapz.io
-127.0.0.1 www.obsid.io
-127.0.0.1 jumpar.io
-127.0.0.1 kugeln.io
-127.0.0.1 gunbox.io
-127.0.0.1 lurkers.io
-127.0.0.1 craftz.io
-127.0.0.1 buildz.space
-127.0.0.1 gatdamn.io
-127.0.0.1 erth.io
-127.0.0.1 apes.io
-127.0.0.1 amogus.fun
-127.0.0.1 spellblast.io
-127.0.0.1 krew.io
-127.0.0.1 tribals.io
-127.0.0.1 laserz.io
-127.0.0.1 zomcraft.io
-127.0.0.1 triep.io
-127.0.0.1 eparkour.io
-127.0.0.1 venge.io
-127.0.0.1 editor.venge.io
-127.0.0.1 assets.venge.io
-127.0.0.1 krunker.io
-127.0.0.1 miniroyale.io
-127.0.0.1 deadwalk.io
-127.0.0.1 ev.io
-127.0.0.1 kirka.io
-127.0.0.1 lolshot.io
-127.0.0.1 repuls.io
-127.0.0.1 www.bulletbonanza.io
-127.0.0.1 warbrokers.io
-127.0.0.1 armedforces.io
-127.0.0.1 warscrap.io
-127.0.0.1 cubeshot.io
-127.0.0.1 voxiom.io
-127.0.0.1 ferge.io
-127.0.0.1 petz.lol
-127.0.0.1 deadshot.io
-127.0.0.1 minipoly.io
-127.0.0.1 slayerz.io
-127.0.0.1 jamir.io
-127.0.0.1 www.fieldsoffury.io
-127.0.0.1 sandstrike.io
-127.0.0.1 www.warbands.io
-127.0.0.1 morterra.com
-127.0.0.1 www.worldwar0x.io
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 cryzen.io
-127.0.0.1 www.cryzen.io
-127.0.0.1 kour.io
-127.0.0.1 overtide.io
-127.0.0.1 poxel.io
-127.0.0.1 ferge2.io
-127.0.0.1 cobraz.io
-127.0.0.1 shellshock.io
-127.0.0.1 shellsocks.com
-127.0.0.1 scrambled.world
-127.0.0.1 geometry.monster
-127.0.0.1 geometry.report
-127.0.0.1 geometry.pw
-127.0.0.1 humanorganising.org
-127.0.0.1 algebra.vip
-127.0.0.1 eggboy.club
-127.0.0.1 mathdrills.info
-127.0.0.1 mathdrills.life
-127.0.0.1 mathlete.fun
-127.0.0.1 mathactivity.xyz
-127.0.0.1 mathactivity.club
-127.0.0.1 mathlete.pro
-127.0.0.1 biologyclass.club
-127.0.0.1 yolk.life
-127.0.0.1 yolk.rocks
-127.0.0.1 yolk.quest
-127.0.0.1 violentegg.club
-127.0.0.1 violentegg.fun
-127.0.0.1 math.international
-127.0.0.1 eggcombat.com
-127.0.0.1 eggsarecool.com
-127.0.0.1 urbanegger.com
-127.0.0.1 craftnite.io
-127.0.0.1 www.craftnite.io
-127.0.0.1 vectaria.io
-127.0.0.1 bloxd.io
-127.0.0.1 miniblox.io
-127.0.0.1 cuberealm.io
-127.0.0.1 bowroyale.io
-127.0.0.1 footix.io
-127.0.0.1 www.bumpyball.io
-127.0.0.1 nitroclash.io
-127.0.0.1 teamball.io
-127.0.0.1 soccer-io.com
-127.0.0.1 www.pucks.io
-127.0.0.1 brawlball.io
-127.0.0.1 basketbros.io
-127.0.0.1 stolk.io
-127.0.0.1 minipool.io
-127.0.0.1 minigolfclub.io
-127.0.0.1 golfroyale.io
-127.0.0.1 golfparty.io
-127.0.0.1 fishington.io
-127.0.0.1 sumo-io.com
-127.0.0.1 bumper-io.com
-127.0.0.1 penguins-io.com
-127.0.0.1 carfight.io
-127.0.0.1 wrestlebros.io
-127.0.0.1 squid-game.io
-127.0.0.1 snake.io
-127.0.0.1 splix.io
-127.0.0.1 gulper.io
-127.0.0.1 powerline.io
-127.0.0.1 digworm.io
-127.0.0.1 sworm.io
-127.0.0.1 spacepaper.io
-127.0.0.1 paperanimals.io
-127.0.0.1 slithercraft.io
-127.0.0.1 zapper.io
-127.0.0.1 combines.io
-127.0.0.1 cyclewars.io
-127.0.0.1 slither.io
-127.0.0.1 littlebigsnake.com
-127.0.0.1 paper-io.com
-127.0.0.1 curvefever.pro
-127.0.0.1 seadragons.io
-127.0.0.1 snakeblock.io
-127.0.0.1 www.hexar.io
-127.0.0.1 inkysnakes.io
-127.0.0.1 tileman.io
-127.0.0.1 www.worms.zone
-127.0.0.1 worms.lol
-127.0.0.1 limax.io
-127.0.0.1 erigato.space
-127.0.0.1 narwhale.io
-127.0.0.1 wormax.io
-127.0.0.1 wormate.io
-127.0.0.1 paper3d.io
-127.0.0.1 cosmoc.io
-127.0.0.1 wormo.io
-127.0.0.1 conquergame.net
-127.0.0.1 lolbeans.io
-127.0.0.1 astrorace.io
-127.0.0.1 slowroads.io
-127.0.0.1 astrodud.io
-127.0.0.1 farmrun.io
-127.0.0.1 fallerz.io
-127.0.0.1 dashcraft.io
-127.0.0.1 rollem.io
-127.0.0.1 aquapark.io
-127.0.0.1 funrace.io
-127.0.0.1 boardrun.io
-127.0.0.1 smashkarts.io
-127.0.0.1 drift.io
-127.0.0.1 senpa.io
-127.0.0.1 crowdcity.io
-127.0.0.1 tetrads.io
-127.0.0.1 flyufo.io
-127.0.0.1 happysharks.io
-127.0.0.1 covirus.io
-127.0.0.1 zorb.io
-127.0.0.1 hole-io.com
-127.0.0.1 oib.io
-127.0.0.1 crowdcity-io.com
-127.0.0.1 crowdedcity.io
-127.0.0.1 yumy.io
-127.0.0.1 agar.io
-127.0.0.1 gota.io
-127.0.0.1 cararena.io
-127.0.0.1 blobber.io
-127.0.0.1 paceman.io
-127.0.0.1 dogargame.io
-127.0.0.1 loomen.io
-127.0.0.1 cellcraft.io
-127.0.0.1 piaf.io
-127.0.0.1 aquar.io
-127.0.0.1 playrps.win
-127.0.0.1 goblinwar.io
-127.0.0.1 crowdsteve.fun
-127.0.0.1 hibee.io
-127.0.0.1 vanis.io
-127.0.0.1 orbz.io
-127.0.0.1 www.orbs.it
-127.0.0.1 blackhole-io.com
-127.0.0.1 www.agar.io
-127.0.0.1 agar.rs
-127.0.0.1 germs.io
-127.0.0.1 sharkz.io
-127.0.0.1 hurricane-io.com
-127.0.0.1 yorg3.io
-127.0.0.1 backroomsgame.io
-127.0.0.1 www.bellum.io
-127.0.0.1 territorial.io
-127.0.0.1 yorg.io
-127.0.0.1 superhex.io
-127.0.0.1 hexanaut.io
-127.0.0.1 hexarena.io
-127.0.0.1 battlefields.io
-127.0.0.1 generals.io
-127.0.0.1 bellum.io
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 draw-io.online
-127.0.0.1 richup.io
-127.0.0.1 hexbois.com
-127.0.0.1 witz.io
-127.0.0.1 spacebugs.io
-127.0.0.1 colonist.io
-127.0.0.1 triset.io
-127.0.0.1 sugarshock.io
-127.0.0.1 pounce.sh
-127.0.0.1 shapez.io
-127.0.0.1 www.sugarshock.io
-127.0.0.1 bombhopper.io
-127.0.0.1 foodlewordle.io
-127.0.0.1 jumbled.io
-127.0.0.1 threesjs.io
-127.0.0.1 jigsawz.io
-127.0.0.1 funshot.lol
-127.0.0.1 run3.io
-127.0.0.1 octagor.com
-127.0.0.1 paperracer.com
-127.0.0.1 cursors2.io
-127.0.0.1 uprunner.io
-127.0.0.1 shipnt.io
-127.0.0.1 tetr.io
-127.0.0.1 tetrio.io
-127.0.0.1 hextris.io
-127.0.0.1 tetranoid.io
-127.0.0.1 summoners.io
-127.0.0.1 litemint.io
-127.0.0.1 bela.fun
-127.0.0.1 tuggowar.io
-127.0.0.1 adventure.chessarena.io
-127.0.0.1 xess.io
-127.0.0.1 flappyroyale.io
-127.0.0.1 amongusplay.online
-127.0.0.1 2077.io
-127.0.0.1 memori.fun
-127.0.0.1 crosswordle.com
-127.0.0.1 dordle.io
-127.0.0.1 gartic.io
-127.0.0.1 sketch.io
-127.0.0.1 skribbl.io
-127.0.0.1 doodlr.io
-127.0.0.1 drawar.io
-127.0.0.1 schedios.io
-127.0.0.1 voxar.io
-127.0.0.1 drawandguess.io
-127.0.0.1 drawaria.online
-127.0.0.1 www.guessing.io
-127.0.0.1 sketchful.io
-127.0.0.1 quizhub.io
-127.0.0.1 cityquiz.io
-127.0.0.1 lostgamer.io
-127.0.0.1 songtrivia2.io
-127.0.0.1 typenconquer.io
-127.0.0.1 www.gpop.io
-127.0.0.1 www.sfgame.jp
-127.0.0.1 www.familiars.io
-127.0.0.1 areena.io
-127.0.0.1 hordes.io
-127.0.0.1 stein.world
-127.0.0.1 slay.one
-127.0.0.1 talesofyore.com
-127.0.0.1 cubox.io
-127.0.0.1 arxarcana.io
-127.0.0.1 mazmorra.io
-127.0.0.1 office-io.online
-127.0.0.1 bloob.io
-127.0.0.1 droppytower.lol
-127.0.0.1 www.callofwar.com
-127.0.0.1 om.forgeofempires.com
-127.0.0.1 www.planetcapture.io
-127.0.0.1 play.bithotel.io
-127.0.0.1 lostrelics.io
-127.0.0.1 game.clashofcars.io
-127.0.0.1 happy0316.top
-127.0.0.1 espritgames.com
-127.0.0.1 www.arcgames.com
-127.0.0.1 gamedatum.com
-127.0.0.1 www.gamehollywood.com
-127.0.0.1 eu.4game.com
-127.0.0.1 sso.prodigygame.com
-127.0.0.1 empire-html5.goodgamestudios.com
-127.0.0.1 bigfarm-html5.goodgamestudios.com
-127.0.0.1 www.hero-wars.com
-127.0.0.1 www.herozerogame.com
-127.0.0.1 www.drakensang.com
-127.0.0.1 www.wizard101.com
-127.0.0.1 tentlan.com
-127.0.0.1 warthunder.com
-127.0.0.1 gtarcade.com
-127.0.0.1 riseofcultures.com
-127.0.0.1 www.farmerama.com
-127.0.0.1 www.playromans.com
-127.0.0.1 enlisted.net
-127.0.0.1 elvenar.com
-127.0.0.1 www.smitegame.com
-127.0.0.1 codenames.game
-127.0.0.1 www.monkeyhappy.com
-127.0.0.1 www.blankmediagames.com
-127.0.0.1 www.fallenlondon.com
-127.0.0.1 prosperousuniverse.com
-127.0.0.1 mwogame.com
-127.0.0.1 taongafarm.com
-127.0.0.1 www.conflictnations.com
-127.0.0.1 zed.run
-127.0.0.1 strike.ngames.com
-127.0.0.1 www.animalworldgame.io
-127.0.0.1 dominion.games
-127.0.0.1 myprofitland.com
-127.0.0.1 utopia-game.com
-127.0.0.1 secure.runescape.com
-127.0.0.1 www.geoguessr.com
-127.0.0.1 game.era7.io
-127.0.0.1 battleforthegalaxy.com
-127.0.0.1 w45.sfgame.net
-127.0.0.1 bigfarm.com
-127.0.0.1 www.remi51.rs
-127.0.0.1 s2.racingduel.com
-127.0.0.1 www.ironorder1919.com
-127.0.0.1 s1.biathlonmania.com
-127.0.0.1 lp.bigfarm.goodgamestudios.com
-127.0.0.1 www.starstable.com
-127.0.0.1 www.combatsiege.com
-127.0.0.1 game-ac.com
-127.0.0.1 game16.net
-127.0.0.1 tps.game-tansaku.net
-127.0.0.1 hitoikigame.com
-127.0.0.1 www.desura.games
-127.0.0.1 www.starfish.games
-127.0.0.1 1games.io
-#1775行
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+
+# ----- 多言語対応 -----
+# --- Poki ---
+- 本体 -
+127.0.0.1 poki.com #HTML5ポータル/本体
+127.0.0.1 poki.to #短縮/別名ホスト
+- ローカライズ -
+127.0.0.1 poki.at #オーストリア向け
+127.0.0.1 poki.be #ベルギー向け
+127.0.0.1 poki.bg #ブルガリア向け
+127.0.0.1 poki.by #ベラルーシ向け
+127.0.0.1 poki.ch #スイス向け
+127.0.0.1 poki.cn #中国向け
+127.0.0.1 poki.cz #チェコ向け
+127.0.0.1 poki.co.id #インドネシア向け
+127.0.0.1 poki.co.il #イスラエル向け
+127.0.0.1 poki.com.br #ブラジル向け
+127.0.0.1 poki.de #ドイツ向け
+127.0.0.1 poki.dk #デンマーク向け
+127.0.0.1 poki.fi #フィンランド向け
+127.0.0.1 poki.gr #ギリシャ向け
+127.0.0.1 poki.it #イタリア向け
+127.0.0.1 poki.jp #日本向け
+127.0.0.1 poki.nl #オランダ向け
+127.0.0.1 poki.no #ノルウェー向け
+127.0.0.1 poki.pl #ポーランド向け
+127.0.0.1 poki.pt #ポルトガル向け
+127.0.0.1 poki.ro #ルーマニア向け
+127.0.0.1 poki.se #スウェーデン向け
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 games.poki.com #ゲーム配信/アセット配信
+# - ゲームディストリビューション -
+127.0.0.1 poki-gdn.com #配信ネットワーク/外部提供
+
+# --- Fan Free Games ---
+- 本体 -
+127.0.0.1 www.fanfreegames.com #多言語ゲームポータル/本体
+- ローカライズ -
+127.0.0.1 www.fandejuegos.com #スペイン語
+127.0.0.1 www.fandesjeux.com #フランス語
+127.0.0.1 www.fangiochi.com #イタリア語
+127.0.0.1 www.jogosfas.com #ポルトガル語
+127.0.0.1 www.fanhry.cz #チェコ語
+127.0.0.1 www.fanoyunlar.com #トルコ語
+127.0.0.1 www.fandejuegos.ru #ロシア語
+
+# ----- 英語圏向け -----
+# --- CrazyGames ---
+- 本体 -
+127.0.0.1 crazygames.com #HTML5ポータル/本体
+127.0.0.1 www.crazygames.com #HTML5ポータル/www
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 games.crazygames.com #ゲーム配信/アセット
+
+# --- KBH Games ---
+- 本体 -
+127.0.0.1 kbhgames.com #ブラウザゲームポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 kdata1.com #アセットCDN
+127.0.0.1 f.kbhgames.com #画像/静的ファイル
+
+# --- OnlineGames.io ---
+- 本体 -
+127.0.0.1 www.onlinegames.io #HTML5ポータル
+
+# --- GamesGo ---
+- 本体 -
+127.0.0.1 gamesgo.net #ブラウザゲームポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 i.gamesgo.net #画像/アセット
+
+# --- GameYay ---
+- 本体 -
+127.0.0.1 www.gameyay.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 games.gameyay.com #ゲーム配信
+
+# --- FreeVideoGames 系 ---
+- 本体 -
+127.0.0.1 freevideogames.org #ゲームポータル
+127.0.0.1 freevideogamesonline.org #ゲームポータル/別館
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 turbo.freevideogames.org #高速ミラー/アセット
+127.0.0.1 turbo.freevideogamesonline.org #高速ミラー/アセット
+
+# --- Doodoo ---
+- 本体 -
+127.0.0.1 doodoo.love #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 resource.doodoo.love #アセット/リソース
+
+# --- 4J ---
+- 本体 -
+127.0.0.1 4j.com #HTML5ポータル/パブリッシャー
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 h5.4j.com #ゲーム配信/ミラー
+
+# ----- ロシア語圏向け -----
+# --- Vseigru ---
+- 本体 -
+127.0.0.1 vseigru.net #ロシア語ゲームポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 g.vseigru.net #ゲーム配信
+
+# ----- スロバキア語圏向け -----
+127.0.0.1 www.hrajhry.sk #スロバキア語ゲームポータル
+
+# ----- ハンガリー語圏向け -----
+127.0.0.1 www.megajatek.hu #ハンガリー語ゲームポータル
+
+# ----- ベトナム語圏向け -----
+127.0.0.1 www.trochoi.net #ベトナム語ゲームポータル
+
+
+# ==========================
+# 2. HTML5/Flashアーカイブ併存大型ポータル／アグリゲータ　(自社スタジオと外部のスタジオの作品)
+# ==========================
+
+# ----- 英語圏向け -----
+# --- Armor Games ---
+- 本体 -
+127.0.0.1 armorgames.com #ポータル/Flash+HTML5
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cache.armorgames.com #アセット/旧作配信
+
+
+# ==========================
+# 3. HTML5系特定スタジオ／ブランド系 (自社ブランドの作品だけ)
+# ==========================
+
+# ----- 英語圏向け -----
+# --- Freezenova ---
+- 本体 -
+127.0.0.1 freezenova.com #FPS中心/スタジオ公式
+
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+
+# ----- 広告配信／ゲームディストリビューション -----
+# --- GamePix ---
+- 本体 -
+127.0.0.1 gamepix.com #配信SDK/パブリッシャー
+# - ゲームディストリビューション -
+127.0.0.1 play.gamepix.com #埋め込み配信/ランチャー
+
+
+# ==========================
+# 6. フラッシュ系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+
+# ----- 日本語圏向け -----
+# --- P-GAME ---
+- 本体 -
+127.0.0.1 www.p-game.jp #日本のフラッシュ/ブラウザゲーム集
+127.0.0.1 flashgame.sakura.ne.jp #個人フラッシュ置き場/日本語
+
+
+# ==========================
+# 8. 機関・イベント系
+# ==========================
+
+# ----- 機関・イベント系 -----
+127.0.0.1 game.noradsanta.org #NORAD/季節イベント(サンタ追跡)
+
+
+# ==========================
+# 9. 個人／小規模スタジオ/Githubページ
+# ==========================
+
+# ----- 個人／小規模スタジオ -----
+127.0.0.1 oskarstalberg.com #個人開発/作品・デモ
+127.0.0.1 codeincomplete.com #個人開発/技術デモとゲーム
+
+# ----- Githubページ -----
+127.0.0.1 ikatchelo.github.io #Github Pages/ゲーム・デモ
+127.0.0.1 lekug.github.io #Github Pages/ゲーム・デモ
+127.0.0.1 kripken.github.io #Github Pages/技術デモ
+127.0.0.1 webglmath.github.io #Github Pages/WebGLデモ
+127.0.0.1 bulletforceunblocked.github.io #Github Pages/ゲームミラー
+127.0.0.1 ubg77.github.io #Github Pages/アンブロック集
+127.0.0.1 abagames.github.io #Github Pages/ミニゲーム集
+127.0.0.1 dddavit.github.io #Github Pages/ゲーム・デモ
+127.0.0.1 subwaygame.github.io #Github Pages/ゲームミラー
+127.0.0.1 lnahtml.github.io #Github Pages/ゲーム・デモ
+127.0.0.1 maskedforcesunlimited.github.io #Github Pages/ゲームミラー
+
+
+# ==========================
+# 10. アマチュア制作プラットフォーム／UGC
+# ==========================
+
+# ----- Unity系プラットフォーム -----
+127.0.0.1 unityroom.com #Unity製UGC/日本
+
+# ----- Scratch系プラットフォーム -----
+127.0.0.1 scratch.mit.edu #Scratch公式/UGC
+
+# ----- Scratch系派生ツール -----
+127.0.0.1 turbowarp.org #Scratch互換エディタ/高速化
+127.0.0.1 sulfurous.aau.at #Scratchプレーヤー/互換実行
+
+# ----- GDevelop系プラットフォーム -----
+# --- GDevelop ---
+- 本体 -
+127.0.0.1 editor.gdevelop.io #GDevelop/オンラインエディタ
+- ゲームディストリビューション -
+127.0.0.1 gd.games #GDevelop配信/ホスティング
+
+# ----- Construct系プラットフォーム -----
+# --- Construct ---
+- 本体 -
+127.0.0.1 www.construct.net #Construct公式
+# - ゲームディストリビューション -
+127.0.0.1 games.construct.net #Construct配信/ホスティング
+
+# ----- 公開プラットフォーム -----
+127.0.0.1 plicy.net #日本のUGC/公開プラットフォーム
+127.0.0.1 www.freem.ne.jp #日本のフリーゲーム配布
+
+# ----- メタバースプラットフォーム -----
+127.0.0.1 www.spatial.io #メタバース/UGCワールド
+127.0.0.1 edu.cospaces.io #教育向けAR/VR制作
+
+# ----- その他コード／プログラミング系 -----
+127.0.0.1 www.tynker.com #子供向けプログラミング学習
+
+
+# ==========================
+# 11. 教育/脳トレ(認知/記憶/注意)/タイピング/ガールズ/その他子供向け
+# ==========================
+
+# ----- 教育 -----
+127.0.0.1 www.primarygames.com #子供向け教育ゲーム
+
+# ----- ガールズ -----
+127.0.0.1 meiker.io #ドレスアップ/着せ替えUGC
+
+# --- Didi Games ---
+127.0.0.1 didigames.co #ガールズ向けゲームポータル(着せ替え/メイク等)
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+
+# ----- カード/ボード/パズル総合 ----- 
+# --- 247系 ---
+# - ソリティア -
+127.0.0.1 www.247solitaire.com #ソリティア総合
+127.0.0.1 www.247freecell.com #フリーセル
+127.0.0.1 www.247klondike.com #クロンダイク
+127.0.0.1 www.247patience.com #ペイシェンス
+127.0.0.1 www.247spidersolitaire.com #スパイダー
+# - 麻雀 -
+127.0.0.1 www.247mahjong.com #上海/麻雀
+# - 数独 -
+127.0.0.1 www.247sudoku.com #数独
+# - カード -
+127.0.0.1 www.247hearts.com #ハーツ
+127.0.0.1 www.247spades.com #スペード
+127.0.0.1 www.247bridge.com #ブリッジ
+127.0.0.1 www.247blackjack.com #ブラックジャック
+127.0.0.1 www.247freepoker.com #ポーカー
+# - ボード -
+127.0.0.1 www.247backgammon.org #バックギャモン
+127.0.0.1 www.247checkers.com #チェッカー
+127.0.0.1 www.247chess.com #チェス
+# - パズル(文字/ロジック) -
+127.0.0.1 www.247wordsearch.com #ワードサーチ
+127.0.0.1 www.247crossword.com #クロスワード
+127.0.0.1 247wordley.com #Wordle系
+127.0.0.1 www.247minesweeper.com #マインスイーパー
+
+# ----- ソリティア -----
+127.0.0.1 www.4thofjulysolitaire.com #季節テーマ/ソリティア
+127.0.0.1 www.123freecell.com #フリーセル
+127.0.0.1 www.cardgamesolitaire.com #総合ソリティア
+127.0.0.1 www.cardgamefreecell.com #フリーセル
+127.0.0.1 www.cardgameklondike.com #クロンダイク
+127.0.0.1 www.cardgamepatience.com #ペイシェンス
+127.0.0.1 www.cardgamespidersolitaire.com #スパイダー
+127.0.0.1 www.christmas-solitaire.com #クリスマス/ソリティア
+127.0.0.1 www.cincodemayosolitaire.com #祝日テーマ/ソリティア
+127.0.0.1 www.solitaireeaster.com #イースター/ソリティア
+127.0.0.1 www.fallsolitaire.com #秋テーマ/ソリティア
+127.0.0.1 www.solitairehalloween.com #ハロウィン/ソリティア
+127.0.0.1 www.newyearssolitaire.com #新年/ソリティア
+127.0.0.1 www.scorpionsolitaire.net #スコーピオン
+127.0.0.1 www.solitairetime.com #ソリティア総合
+127.0.0.1 www.spiderettesolitaire.net #スパイデレット
+127.0.0.1 www.springsolitaire.com #春テーマ/ソリティア
+127.0.0.1 www.stpatricksdaysolitaire.com #祝日/ソリティア
+127.0.0.1 www.solitairesummer.com #夏テーマ/ソリティア
+127.0.0.1 www.thanksgivingsolitaire.com #感謝祭/ソリティア
+127.0.0.1 www.valentinesdaysolitaire.com #バレンタイン/ソリティア
+127.0.0.1 www.wintersolitaire.com #冬テーマ/ソリティア
+127.0.0.1 www.yukonsolitaire.net #ユーコン
+
+
+# ==========================
+# 16. スポーツ
+# ==========================
+
+# ----- その他スポーツ -----
+127.0.0.1 www.247pool.com #ビリヤード/プール
+
+
+# ==========================
+# 24. 長期プレイゲーム
+# ==========================
+
+# ----- ソーシャル／コミュニティ -----
+# --- G123 ---
+- 本体 -
+127.0.0.1 g123.jp #長期運営HTML5/ポータル
+- ゲームディストリビューション -
+127.0.0.1 h5.g123.jp #ゲーム配信/サブドメイン
+
+# --- ゲソてん(GMO) ---
+- 本体 -
+127.0.0.1 gesoten.com #日本向けソーシャルゲーム/ポータル
+- 広告配信 -
+127.0.0.1 ad-img.gesoten.com #広告画像/配信
+
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+
+# ----- マリオ(非公式) -----
+127.0.0.1 supermario-play.com #非公式マリオ/ブラウザ
+127.0.0.1 www.smbgames.be #非公式マリオ/ファン作
+
+# ----- アステロイド -----
+127.0.0.1 www.247spacerocks.com #アステロイド系/シューティング
+
+# ----- オマージュ／模倣作 -----
+127.0.0.1 abobosbigadventure.com #レトロパロディ/アクション
+
+
+# ==========================
+# 26. クラシックリロード/エミュレーター／アーカイブ (公式再配信や保全プロジェクトが目的)
+# ==========================
+
+# ----- 非公式エミュレーター -----
+127.0.0.1 load.retroemulator.com #Webエミュ/ローダ
+127.0.0.1 www.free80sarcade.com #80年代アーケード/エミュ集
+
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+
+# ----- ギャンブル -----
+127.0.0.1 www.247slots.org #スロット
+127.0.0.1 www.247roulette.org #ルーレット
+127.0.0.1 www.247videopoker.org #ビデオポーカー
+
+
+
+
+1
+
+
+
+
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# ----- 多言語対応 -----
+# --- CrazyGames ---
+- ローカライズ -
+127.0.0.1 www.crazygames.cz #CrazyGamesローカライズ(チェコ)
+127.0.0.1 www.crazygames.dk #CrazyGamesローカライズ(デンマーク)
+127.0.0.1 www.crazygames.fr #CrazyGamesローカライズ(フランス)
+127.0.0.1 www.crazygames.co.id #CrazyGamesローカライズ(インドネシア)
+127.0.0.1 www.crazygames.hu #CrazyGamesローカライズ(ハンガリー)
+127.0.0.1 www.crazygames.nl #CrazyGamesローカライズ(オランダ)
+127.0.0.1 www.crazygames.no #CrazyGamesローカライズ(ノルウェー)
+127.0.0.1 www.crazygames.pl #CrazyGamesローカライズ(ポーランド)
+127.0.0.1 www.crazygames.com.br #CrazyGamesローカライズ(ブラジル)
+127.0.0.1 www.crazygames.ro #CrazyGamesローカライズ(ルーマニア)
+127.0.0.1 www.crazygames.fi #CrazyGamesローカライズ(フィンランド)
+127.0.0.1 www.crazygames.se #CrazyGamesローカライズ(スウェーデン)
+127.0.0.1 www.crazygames.ru #CrazyGamesローカライズ(ロシア)
+127.0.0.1 www.crazygames.com.ua #CrazyGamesローカライズ(ウクライナ)
+127.0.0.1 de.crazygames.com #CrazyGamesローカライズ(ドイツ語)
+127.0.0.1 it.crazygames.com #CrazyGamesローカライズ(イタリア語)
+127.0.0.1 vn.crazygames.com #CrazyGamesローカライズ(ベトナム語)
+127.0.0.1 tr.crazygames.com #CrazyGamesローカライズ(トルコ語)
+127.0.0.1 gr.crazygames.com #CrazyGamesローカライズ(ギリシャ語)
+127.0.0.1 ar.crazygames.com #CrazyGamesローカライズ(アラビア語)
+127.0.0.1 th.crazygames.com #CrazyGamesローカライズ(タイ語)
+127.0.0.1 www.1001juegos.com #CrazyGames系スペイン語版(ブランド別ドメイン)
+
+# --- Y8/ID.net ---
+- 本体 -
+127.0.0.1 y8.com #HTML5/アーカイブ系大型ポータル
+127.0.0.1 ja.y8.com #ローカライズ(日本語)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.y8.com #アセット配信
+127.0.0.1 media2.y8.com #メディア配信
+127.0.0.1 storage.y8.com #ストレージ/配信
+127.0.0.1 storage-cf.y8.com #ストレージ(CF経由)
+127.0.0.1 storage.id.net #ID.netストレージ/配信
+
+# --- Lagged ---
+- ローカライズ -
+127.0.0.1 lagged.com #英語
+127.0.0.1 lagged.jp #日本
+127.0.0.1 lagged.fr #フランス
+127.0.0.1 lagged.es #スペイン
+127.0.0.1 lagged.ru #ロシア
+127.0.0.1 lagged.pl #ポーランド
+127.0.0.1 lagged.kr #韓国
+
+# --- Minijuegos/Miniplay ---
+- 本体 -
+127.0.0.1 www.miniplay.com #多言語対応ポータル
+127.0.0.1 www.minijuegos.com #スペイン語圏ポータル
+- ローカライズ -
+127.0.0.1 www.minijuegos.mx #メキシコ
+127.0.0.1 www.minigiochi.com #イタリア
+127.0.0.1 www.minijogos.com.br #ブラジル
+127.0.0.1 www.minispelletjes.com #オランダ
+127.0.0.1 www.grymini.pl #ポーランド
+- その他 -
+127.0.0.1 ext.minijuegosgratis.com #Minijuegos関連(拡張/外部)
+
+# --- Friv ---
+- 本体 -
+127.0.0.1 www.friv.com #多言語対応ポータル
+127.0.0.1 friv.guru #Friv系ポータル
+127.0.0.1 friv.gifts #Friv系ポータル
+127.0.0.1 frivez.com #Friv系ミラー
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 www.cdnfriv.com #Friv配信CDN
+
+# --- GameSnacks ---
+- 本体 -
+127.0.0.1 gamesnacks.com #軽量HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.gamesnacks.com #GameSnacks CDN
+
+# ----- 英語圏向け -----
+# --- Kevin Games ---
+- 本体 -
+127.0.0.1 kevin.games #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn1.kevin.games #アセット配信
+
+# --- Silvergames ---
+- 本体 -
+127.0.0.1silvergames.com #形式不備(スペース欠落)・修正提案:『127.0.0.1 silvergames.com』/ HTML5ポータル
+127.0.0.1 www.silvergames.com #HTML5ポータル(WWW)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 f.silvergames.com #アセット配信
+127.0.0.1 f3.silvergames.com #アセット配信
+
+# --- VitalityGames ---
+- 本体 -
+127.0.0.1 www.vitalitygames.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 files.vitalitygames.com #アセット配信
+
+# --- Gogy ---
+- 本体 -
+127.0.0.1 www.gogy.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 static.gogy.com #アセット配信
+
+# --- Gamezhero ---
+- 本体 -
+127.0.0.1 www.gamezhero.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 files.gamezhero.com #アセット配信
+
+# --- Gameplaf ---
+- 本体 -
+127.0.0.1 gameplaf.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 f.gameplaf.com #アセット配信
+
+# --- Enjoy4Fun ---
+- 本体 -
+127.0.0.1 enjoy4fun.com #HTML5ポータル
+127.0.0.1 www.enjoy4fun.com #HTML5ポータル(WWW)
+- ゲームディストリビューション -
+127.0.0.1 game.enjoy4fun.com #ゲーム配信/埋め込み
+
+# --- GamerDam ---
+- 本体 -
+127.0.0.1 gamerdam.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 o.gamerdam.com #アセット配信
+
+# --- GamesSumo ---
+- 本体 -
+127.0.0.1 gamessumo.com #HTML5ポータル
+127.0.0.1 www.gamessumo.com #HTML5ポータル(WWW)
+
+# --- PlayJolt ---
+- 本体 -
+127.0.0.1 playjolt.com #HTML5ポータル
+127.0.0.1 www.playjolt.com #HTML5ポータル(WWW)
+
+# --- MyFreeGames ---
+- 本体 -
+127.0.0.1 myfreegames.net #HTML5ポータル
+127.0.0.1 www.myfreegames.net #HTML5ポータル(WWW)
+
+# --- UbestGames ---
+- 本体 -
+127.0.0.1 www.ubestgames.com #HTML5ポータル
+
+# --- MixFreeGames/派生 ---
+- 本体 -
+127.0.0.1 mixfreegames.com #HTML5ポータル
+127.0.0.1 www.gamescrush.com #HTML5ポータル
+127.0.0.1 www.gameonlinemix.com #HTML5ポータル
+127.0.0.1 www.crazygamesmix.com #HTML5ポータル(名称類似系)
+
+# --- PacoGames ---
+- 本体 -
+127.0.0.1 pacogames.com #HTML5ポータル
+127.0.0.1 www.pacogames.com #HTML5ポータル(WWW)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 data.pacogames.com #アセット配信
+
+# --- Gombis ---
+- 本体 -
+127.0.0.1 gombis.com #HTML5ポータル
+- ゲームディストリビューション -
+127.0.0.1 game.gombis.com #ゲーム配信
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn-game.gombis.com #アセット配信
+
+# --- HTMLGames ---
+- 本体 -
+127.0.0.1 htmlgames.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.htmlgames.com #アセット配信
+
+# --- RiziGames ---
+- 本体 -
+127.0.0.1 www.rizigames.com #HTML5ポータル
+
+# --- Games/小規模ポータル群 ---
+- 本体 -
+127.0.0.1 www.xpgameplus.com #小規模ポータル
+127.0.0.1 jocmania.com #小規模ポータル
+127.0.0.1 collepic.net #小規模ポータル
+127.0.0.1 www.snappygames.com #小規模ポータル
+127.0.0.1 games2master.com #小規模ポータル
+127.0.0.1 gamemug.com #小規模ポータル
+127.0.0.1 funhtml5games.com #小規模ポータル
+
+# --- PrimaryGames ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.primarygames.com #アセット配信
+
+# --- Scorenga ---
+- 本体 -
+127.0.0.1 scorenga.com #HTML5ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 static.scorenga.com #アセット配信
+
+# ----- ロシア語圏向け -----
+# --- Vseigru ---
+- ゲームディストリビューション -
+127.0.0.1 g1.vseigru.net #ゲーム配信/埋め込み
+127.0.0.1 gamess.vseigru.net #ゲーム配信/埋め込み
+# --- Igroutka ---
+- 本体/ローカライズ -
+127.0.0.1 igroutka.ru #ロシア語圏ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 g.igroutka.ru #アセット配信
+127.0.0.1 g2.igroutka.ru #アセット配信
+- その他 -
+127.0.0.1 m.igroutka.ru #モバイル向け
+
+# ----- 中国語圏向け -----
+# --- Bebitu ---
+- 本体 -
+127.0.0.1 www.bebitu.com #中国語圏ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 e.bebitu.com #アセット配信
+
+# ==========================
+# 2. HTML5/Flashアーカイブ併存大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# (該当ブランドは上記「1.」へ統合済み。重複掲載回避のため新規無し)
+
+# ==========================
+# 4. HTML5/Flashアーカイブ併存特定スタジオ／ブランド系 (自社ブランドの作品だけ)
+# ==========================
+# --- Gamedesign.jp ---
+- 本体 -
+127.0.0.1 www.gamedesign.jp #日本の個人/小規模スタジオ(HTML5/旧Flash作品)
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+# ----- 広告配信／ゲームディストリビューション -----
+# --- GameDistribution (Azerion系) ---
+- 本体 -
+127.0.0.1 gamedistribution.com #配信ネットワーク/SDK
+127.0.0.1 sg.gamedistribution.com #リージョン配信
+127.0.0.1 html5.gamedistribution.com #HTML5配信
+# --- GameMonetize ---
+- 本体/配信 ---
+127.0.0.1 gamemonetize.com #配信ネットワーク
+127.0.0.1 io.gamemonetize.com #io系配信
+127.0.0.1 html5.gamemonetize.co #HTML5配信
+127.0.0.1 html5.distributegames.com #HTML5配信(別ドメイン)
+127.0.0.1 play.gamemonetize.com #埋め込みプレイヤー
+127.0.0.1 play.gamemonetize.co #埋め込みプレイヤー
+# --- Kongregate ---
+- ゲームディストリビューション -
+127.0.0.1 game259142.konggames.com #Kongregate埋め込み用ゲームホスト
+127.0.0.1 game316268.konggames.com #Kongregate埋め込み用ゲームホスト
+127.0.0.1 game300161.konggames.com #Kongregate埋め込み用ゲームホスト
+# --- Armor Games ---
+- ゲームディストリビューション -
+127.0.0.1 18909.cache.armorgames.com #ArmorGames配信キャッシュ
+127.0.0.1 19296.cache.armorgames.com #ArmorGames配信キャッシュ
+
+# ----- 専用ランチャー／クライアント系 -----
+# --- Vigoo ---
+- 本体/配布 -
+127.0.0.1 www.vigoo.com #ダウンロード配布/ランチャー系
+127.0.0.1 download.vigoo.com #ダウンロード配布
+127.0.0.1 download-cdn21.vigoo.com #配布CDN
+127.0.0.1 download.vigoogames.com #配布ドメイン(関連)
+
+# ==========================
+# 9. 個人／小規模スタジオ/Githubページ
+# ==========================
+# ----- 個人／小規模スタジオ -----
+127.0.0.1 www.min2win.org #個人/小規模スタジオ系サイト
+
+# ==========================
+# 10. アマチュア制作プラットフォーム／UGC
+# ==========================
+# ----- Unity系プラットフォーム -----
+# --- Simmer.io ---
+- 本体 -
+127.0.0.1 simmer.io #Unity WebGLホスティング/UGC
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 i.simmer.io #画像/アセット
+127.0.0.1 c.simmer.io #キャッシュ/配信
+# ----- その他コード／プログラミング系 -----
+127.0.0.1 ebitengine.org #ゲームエンジン情報サイト(Ebitengine/Ebiten)
+
+# ==========================
+# 11. 教育/脳トレ/タイピング/ガールズ/その他子供向け
+# ==========================
+# ----- 教育 -----
+127.0.0.1 www.proprofsgames.com #教育系ミニゲーム
+# ----- タイピング -----
+127.0.0.1 www.typinggames.zone #タイピング練習/ゲーム
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- パズル総合 -----
+# - クロスワード -
+127.0.0.1 amuselabs.com #新聞社等向けクロスワード配信基盤
+# ----- バブルシューター -----
+# --- BubbleShooter系 ---
+- 本体/ミラー -
+127.0.0.1 www.bubbleshooter.net #バブルシューター専門
+127.0.0.1 www.shooter-bubble.com #バブルシューター専門(ミラー)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.bubbleshooter.net #アセット配信
+127.0.0.1 cdn.shooter-bubble.com #アセット配信
+# ----- ソリティア -----
+# --- Clever Apps ---
+- 本体/ゲーム -
+127.0.0.1 cleverappssg.com #スマホ/HTML5配信基盤
+127.0.0.1 tripeaks.cleverappssg.com #TriPeaks(ソリティア系)
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- オマージュ／模倣作 -----
+127.0.0.1 klassicgames.io #クラシック風HTML5ゲーム集(クローン/オマージュ系)
+
+# ==========================
+# 26. クラシックリロード/エミュレーター／アーカイブ
+# ==========================
+# ----- 非公式エミュレーター -----
+127.0.0.1 www.flashgamesplayer.com #Web版Flashプレイヤー/ゲーム集
+127.0.0.1 emulator.flashgamesplayer.com #Flashエミュレータ
+127.0.0.1 retrogames.cc #レトロゲーム多機種エミュ/配信
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+# ----- 第三者CDN -----
+127.0.0.1 v6p9d9t4.ssl.hwcdn.net #Highwinds/StackPath汎用CDN(ゲーム配信で広く使用)
+
+
+
+
+2
+
+
+
+
+
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# --- 1000webgames ---
+127.0.0.1 1000webgames.com #ゲームポータル/アグリゲータ
+
+# --- arcade3 ---
+127.0.0.1 arcade3.com #ゲームポータル/アグリゲータ
+
+# --- playgame24 ---
+127.0.0.1 playgame24.com #ゲームポータル/アグリゲータ
+
+# --- myrealgames ---
+127.0.0.1 myrealgames.com #カジュアルゲームポータル
+
+# --- g8-games ---
+127.0.0.1 g8-games.com #ゲームポータル/アグリゲータ
+
+# --- q10games ---
+127.0.0.1 q10games.com #ゲームポータル/アグリゲータ
+
+# --- gamaverse ---
+127.0.0.1 gamaverse.com #ゲームポータル/アグリゲータ
+
+# --- 6games ---
+127.0.0.1 6games.eu #ゲームポータル/アグリゲータ
+
+# --- spideygames ---
+127.0.0.1 spideygames.com #キャラクター系非公式アグリゲータ
+
+# --- video-igrice ---
+127.0.0.1 www.video-igrice.com #ゲームポータル/アグリゲータ(セルビア語圏)
+
+# --- adogames ---
+127.0.0.1 adogames.com #ゲームポータル/アグリゲータ
+
+# --- bestgames ---
+127.0.0.1 www.bestgames.com #ゲームポータル/アグリゲータ
+
+# --- gamenora ---
+127.0.0.1 www.gamenora.com #ゲームポータル/アグリゲータ
+
+# --- porkgames ---
+127.0.0.1 porkgames.com #ゲームポータル/アグリゲータ
+
+# --- azgames ---
+127.0.0.1 azgames.io #ゲームポータル/アグリゲータ(.io)
+
+# --- mixgame ---
+127.0.0.1 mixgame.net #ゲームポータル/アグリゲータ
+
+# --- games-online ---
+127.0.0.1 games-online.io #ゲームポータル/アグリゲータ(.io)
+
+# --- parasesi ---
+127.0.0.1 parasesi.org #ゲームポータル/アグリゲータ
+
+# --- friv-games-today ---
+127.0.0.1 friv-games-today.com #FRIV系クローン/アグリゲータ
+
+# --- play-games ---
+127.0.0.1 play-games.com #ゲームポータル/アグリゲータ
+127.0.0.1 www.play-games.com #ゲームポータル/アグリゲータ(WWW)
+
+# --- twoplayergames ---
+127.0.0.1 twoplayergames.org #2人用ゲーム特化ポータル
+
+# --- gameshero ---
+127.0.0.1 gameshero.com #ゲームポータル/アグリゲータ
+
+# --- playzool ---
+127.0.0.1 playzool.com #ゲームポータル/アグリゲータ
+
+# --- gamesbears ---
+127.0.0.1 gamesbears.com #ゲームポータル/アグリゲータ
+
+# --- gaming-style ---
+127.0.0.1 www.gaming-style.com #ゲーム系ポータル/ブログ
+
+# --- julgames ---
+127.0.0.1 www.julgames.com #ゲームポータル/アグリゲータ
+
+# --- suragames ---
+127.0.0.1 suragames.com #ゲームポータル/アグリゲータ
+
+# --- games68 ---
+127.0.0.1 www.games68.com #ゲームポータル/アグリゲータ
+
+# --- blueicegame ---
+127.0.0.1 blueicegame.com #ゲームポータル/アグリゲータ
+
+# --- 55.freegamefunny ---
+127.0.0.1 55.freegamefunny.com #ゲームポータル/アグリゲータ(サブドメイン)
+
+# --- wigames / wi-games ---
+127.0.0.1 wigames.net #ゲームポータル/アグリゲータ
+127.0.0.1 wi-games.com #ゲームポータル/アグリゲータ
+
+# --- freegames.org ---
+127.0.0.1 freegames.org #ゲームポータル/アグリゲータ
+
+# --- html5gameportal ---
+127.0.0.1 html5gameportal.com #HTML5ゲームポータル
+
+# --- yof ---
+127.0.0.1 www.yof.com #ゲームポータル/アグリゲータ
+
+# --- wkb.jp games ---
+127.0.0.1 games.wkb.jp #日本語圏ミニゲーム置き場
+
+# --- afsgames ---
+127.0.0.1 www.afsgames.com #ゲームポータル/アグリゲータ
+
+# --- kodub ---
+127.0.0.1 www.kodub.com #ゲームポータル/アグリゲータ
+
+# --- appswisegames ---
+127.0.0.1 appswisegames.com #ゲームポータル/アグリゲータ
+
+# --- gameslol ---
+127.0.0.1 gameslol.net #ゲームポータル/アグリゲータ
+127.0.0.1 www.gameslol.net #ゲームポータル/アグリゲータ(WWW)
+
+# --- 123-games ---
+127.0.0.1 123-games.org #ゲームポータル/アグリゲータ
+
+# --- gamesflare (別ブランドは下の#2へ) ---
+127.0.0.1 www.gameflare.com #ゲームポータル(WWW) ※ブランド別は#2参照
+
+# --- playstar ---
+127.0.0.1 playstar.mobi #モバイル向けゲームポータル
+
+# --- falconline ---
+127.0.0.1 falconline.net #ゲームポータル/アグリゲータ
+
+# --- greenislet ---
+127.0.0.1 greenislet.com #ゲーム系サイト(ポータル/小規模)
+
+# --- spidey補足(ブランド外) ---
+# (該当ドメインのみのためブランド見出しは省略)
+
+# --- dob5 ---
+127.0.0.1 dob5.com #ゲームポータル/アグリゲータ
+
+# ==========================
+# 2. HTML5/Flashアーカイブ併存大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# --- Addicting Games ---
+- 本体 -
+127.0.0.1 addictinggames.com #大型ポータル
+127.0.0.1 www.addictinggames.com #大型ポータル(WWW)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn2.addictinggames.com #静的アセットCDN
+
+# --- Spil Games (Agame / Gamesgames) ---
+- 本体 -
+127.0.0.1 agame.com #多言語大型ポータル(Spil系)
+127.0.0.1 www.gamesgames.com #多言語大型ポータル(A10/Spil系)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 games.cdn.spilcloud.com #SpilクラウドCDN
+
+# --- CoolGames ---
+- ゲームディストリビューション -
+127.0.0.1 games.coolgames.com #埋め込み配信用ゲームホスト
+
+# --- GameFlare ---
+- 本体 -
+127.0.0.1 gameflare.com #ポータル
+127.0.0.1 www.gameflare.com #ポータル(WWW)
+
+# --- Kongregate ---
+- 本体 -
+127.0.0.1 www.kongregate.com #旧Flash/HTML5ポータル
+
+# --- Minijuegos ---
+- 本体 -
+127.0.0.1 minijuegos.com #スペイン語圏大型ポータル
+
+# --- VitalityGames ---
+- 本体 -
+127.0.0.1 vitalitygames.com #ポータル(3D/ドライブ系多め)
+
+# --- FunkyPotato ---
+- 本体 -
+127.0.0.1 funkypotato.com #旧Flash/HTML5ポータル
+
+# --- iWin ---
+- 本体 -
+127.0.0.1 iwin.com #ダウンロード/ブラウザ併存カジュアル
+
+# --- GamesGames (A10系として上に統合) ---
+# (本体はSpil系に含めたため個別見出しは省略)
+
+# ==========================
+# 3. HTML5系特定スタジオ／ブランド系 (自社ブランドの作品だけ)
+# ==========================
+# --- G55 ---
+- 本体 -
+127.0.0.1 g55.co #HTML5スタジオ/ポータル
+
+# --- Ziango ---
+- 本体 -
+127.0.0.1 ziango.com #HTML5スタジオ
+
+# --- Witchhut ---
+- 本体 -
+127.0.0.1 witchhut.com #HTML5スタジオ(YAD系タイトル供給)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.witchhut.com #静的アセットCDN
+
+# --- PlayToMax ---
+- 本体 -
+127.0.0.1 playtomax.com #HTML5スタジオ/パブリッシャー
+
+# --- Famobi ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 games.cdn.famobi.com #ゲーム配信用CDN
+
+# --- GameBoss ---
+- ゲームディストリビューション -
+127.0.0.1 games.gameboss.com #埋め込み配信用ゲームホスト
+
+# --- HTMLGames ---
+- ゲームディストリビューション -
+127.0.0.1 games.htmlgames.com #埋め込み配信用ゲームホスト
+
+# --- GamesPlaza ---
+- ゲームディストリビューション -
+127.0.0.1 games.gamesplaza.com #埋め込み配信用ゲームホスト
+
+# --- Monsteraplay ---
+- ゲームディストリビューション -
+127.0.0.1 games.monsteraplay.com #埋め込み配信用ゲームホスト
+
+# --- StartGamer ---
+- ゲームディストリビューション -
+127.0.0.1 games.startgamer.ru #埋め込み配信用ゲームホスト
+
+# --- LOFGames ---
+127.0.0.1 lofgames.com #HTML5スタジオ/パズル系多数
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+# --- GameDistribution365 ---
+- ゲームディストリビューション -
+127.0.0.1 gamedistribution365.com #配信ネットワーク
+
+# --- GameZop ---
+- ゲームディストリビューション -
+127.0.0.1 www.gamezop.com #配信ネットワーク/SDK
+
+# --- GameArter ---
+- ゲームディストリビューション -
+127.0.0.1 gamearter.com #配信/ログイン基盤
+127.0.0.1 www.gamearter.com #配信/ログイン基盤(WWW)
+
+# --- AnyManager ---
+- ゲームディストリビューション -
+127.0.0.1 game.anymanager.io #埋め込み配信ホスト
+
+# --- Engineering.com Games ---
+- ゲームディストリビューション -
+127.0.0.1 games.engineering.com #自社メディア内ゲーム配信
+
+# --- GetGames ---
+127.0.0.1 www.getgames.io #配信/ポータル
+
+# --- Arkadium ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 arenacloud.cdn.arkadiumhosted.com #ゲーム配信CDN
+128.0.0.1 ams.cdn.arkadiumhosted.com #ゲーム配信CDN(AMS)
+
+# --- EpochBase ---
+- ゲームディストリビューション -
+127.0.0.1 game.epochbase.com #埋め込み配信ホスト
+
+# ==========================
+# 6. フラッシュ系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# --- 4399 ---
+- 本体 -
+127.0.0.1 4399.com #中国大型(旧Flash/現HTML5併存)
+
+# --- StickPage ---
+- 本体 -
+127.0.0.1 stickpage.com #スティック系Flashポータル
+
+# --- BOX10 ---
+- 本体 -
+127.0.0.1 www.box10.com #旧Flashポータル
+
+# --- FreeOnlineGames (FOG) ---
+- 本体 -
+127.0.0.1 www.freeonlinegames.com #旧Flash/HTML5
+
+# ==========================
+# 8. 機関・イベント系
+# ==========================
+# --- js13kGames ---
+127.0.0.1 js13kgames.com #JSゲーム競技会/作品公開
+
+# ==========================
+# 9. 個人／小規模スタジオ/Githubページ
+# ==========================
+# --- Lexaloffle ---
+127.0.0.1 lexaloffle.com #PICO-8等ファンタジーコンソール
+
+# --- Demonisblack ---
+127.0.0.1 demonisblack.com #個人/小規模スタジオ
+
+# --- Reludi ---
+127.0.0.1 www.reludi.com #独立系スタジオ
+
+# --- Gemioli ---
+127.0.0.1 gemioli.com #独立系スタジオ
+
+# --- Bitent ---
+127.0.0.1 bitent.com #スタジオ/企業サイト
+
+# --- Foddy ---
+127.0.0.1 www.foddy.net #個人開発者サイト
+
+# --- Jefawk ---
+127.0.0.1 jefawk.com #独立系スタジオ
+
+# --- Vagabont ---
+127.0.0.1 vagabont.com #独立系スタジオ
+
+# --- Baviux ---
+127.0.0.1 baviux.com #独立系スタジオ
+
+# --- Tybsi ---
+127.0.0.1 tybsi.com #独立系スタジオ
+
+# --- Squidbyte ---
+127.0.0.1 squidbyte.com #独立系スタジオ
+
+# --- Goldfire ---
+127.0.0.1 goldfire.me #独立系スタジオ
+
+# --- GreenIslet ---
+127.0.0.1 greenislet.com #独立系スタジオ/小規模
+
+# ==========================
+# 10. アマチュア制作プラットフォーム／UGC
+# ==========================
+# --- itch.io ---
+127.0.0.1 itch.io #インディ/UGC公開プラットフォーム
+
+# --- Kogama ---
+127.0.0.1 www.kogama.com #UGC/ソーシャル3D
+
+# --- Modd.io ---
+127.0.0.1 www.modd.io #UGC対戦/サンドボックス
+
+# --- Fancade ---
+127.0.0.1 play.fancade.com #UGCミニゲーム(モバイル系)
+
+# --- Unity Play ---
+127.0.0.1 play.unity.com #Unity作品公開
+
+# --- Indie Expo ---
+127.0.0.1 www.indiexpo.net #インディ公開プラットフォーム
+
+# --- PlayCanvas ---
+127.0.0.1 playcanv.as #WebGLエンジン/ホスティング
+
+# --- Flowlab ---
+127.0.0.1 flowlab.io #ブラウザ開発/公開プラットフォーム
+
+# --- Zempie ---
+127.0.0.1 www.zempie.com #UGCゲームプラットフォーム
+
+# --- now.gg ---
+127.0.0.1 now.gg #クラウド経由ゲーム起動プラットフォーム
+
+# ==========================
+# 11. 教育/脳トレ(認知/記憶/注意)/タイピング/ガールズ/その他子供向け
+# ==========================
+# ----- 教育 -----
+127.0.0.1 www.topmathgames.com #算数/学習ゲーム
+127.0.0.1 plays.org #教育寄り/授業用にも使われる
+
+# ----- 脳トレ -----
+127.0.0.1 games.aarp.org #パズル/脳トレ(シニア向け含む)
+
+# ----- ガールズ -----
+127.0.0.1 didiggames.com #着せ替え/ガールズ(※typo回避→下記正)
+127.0.0.1 didigames.com #着せ替え/ガールズ
+
+# ----- その他子供向け -----
+127.0.0.1 www.yad.com #子供向けカジュアル
+127.0.0.1 www.yiv.com #子供向けカジュアル
+127.0.0.1 babyhazelgames.com #子供向け/ベビーハーゼル
+127.0.0.1 babygames.com #子供向けカジュアル
+127.0.0.1 kidsgames4all.com #子供向けミニゲーム
+127.0.0.1 newkidsgames.org #子供向けミニゲーム
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# < カード/ボード/パズル総合 >
+# --- Novel Games ---
+127.0.0.1 novelgames.com #カード/パズル総合
+
+# --- WellGames ---
+127.0.0.1 wellgames.com #カジュアル/パズル総合
+
+# --- WordGames.gg ---
+127.0.0.1 wordgames.gg #単語系パズル総合
+
+# --- Hidden4Fun ---
+127.0.0.1 hidden4fun.com #隠しオブジェクト特化
+
+# < チェス >
+127.0.0.1 www.gamecovua.vn #ベトナム語圏チェス
+
+# < トリックテイキング系 >
+127.0.0.1 vipspades.com #スぺード(トリックテイキング)
+
+# < パズル総合 >
+# --- PuzzleGame.com ---
+127.0.0.1 www.puzzlegame.com #パズル総合ポータル
+
+# ==========================
+# 13. クイズ/脱出/ネタ系/パロディ/お絵描き
+# ==========================
+# (今回該当ドメインなし)
+
+# ==========================
+# 14. アクション
+# ==========================
+# (今回該当ドメインなし)
+
+# ==========================
+# 15. 格闘
+# ==========================
+# (今回該当ドメインなし)
+
+# ==========================
+# 16. スポーツ
+# ==========================
+# (今回該当ドメインなし)
+
+# ==========================
+# 17. レース/ドライブ/カー/バイク
+# ==========================
+# < カー総合/アーケードレース >
+127.0.0.1 cargames.com #車ゲーム特化ポータル
+127.0.0.1 www.cargames.com #車ゲーム特化ポータル(WWW)
+127.0.0.1 www.drifted.com #ドリフト系ゲーム/情報
+
+# ==========================
+# 18. FPS/TPS/ギャラリーシューター/エイムトレーナー
+# ==========================
+# < FPS >
+127.0.0.1 clash3d.com #ブラウザFPS(Clash 3D系)
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+# < 細胞 >
+127.0.0.1 petridish.pw #agar系セル捕食
+
+# ==========================
+# 20. 戦略／ストラテジー
+# ==========================
+# (今回該当ドメインなし)
+
+# ==========================
+# 21. サンドボックス
+# ==========================
+# (今回該当ドメインなし)
+
+# ==========================
+# 22. ホラー/ジャンプスケア
+# ==========================
+# < 心理ホラー／探索ホラー >
+127.0.0.1 fm-studio.net #Forgotten Hill等ホラーADV
+
+# ==========================
+# 23. リズム/演奏
+# ==========================
+# < リズムアクション >
+127.0.0.1 geometrydash.io #リズム系アクション(非公式系)
+
+# ==========================
+# 24. 長期プレイゲーム
+# ==========================
+# < MMO >
+127.0.0.1 gameforge.com #MMOパブリッシャー
+127.0.0.1 goodgamestudios.com #MMO/長期運営(ブラウザ&モバイル)
+
+# < ソーシャル／コミュニティ >
+127.0.0.1 blockmangogame.com #UGC/ソーシャル系(ブロックマンGO)
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# < マリオ(非公式) >
+127.0.0.1 mariogames.be #非公式マリオ系アグリゲータ
+
+# ==========================
+# 26. クラシックリロード/エミュレーター／アーカイブ (公式再配信や保全プロジェクトが目的)
+# ==========================
+# < ウェブアーカイブ／保全 >
+127.0.0.1 flasharch.com #Flashアーカイブ
+
+# < 非公式エミュレーター >
+127.0.0.1 classicreload.com #レトロゲーム再現/エミュ
+127.0.0.1 www.retrogames.cc #レトロゲーム配信/エミュ
+127.0.0.1 www.retrogames.cz #レトロゲーム配信/エミュ
+127.0.0.1 playclassic.games #クラシックゲーム配信
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+# < ギャンブル >
+127.0.0.1 demo.bgaming-network.com #iGamingデモ(スロット等)
+
+# < その他 >
+127.0.0.1 droidcool.com #APK/アプリ配布系(汎用)
+127.0.0.1 softfamous.com #汎用ソフト配布/ダウンロード
+
+# < 第三者CDN >
+127.0.0.1 cdn2.hubspot.net #汎用CDN(マーケ/静的配信)
+127.0.0.1 cdn.games.mobinozer.com #サードパーティCDN(ゲーム配信)
+127.0.0.1 cdn.shoalmedia.com #広告/トラッキング系CDN
+
+# ==========================
+# (その他：ブランド/項目別)
+# ==========================
+# --- Agregator補足/未分類小規模 ---
+127.0.0.1 appswisegames.com #小規模ポータル(重複回避用)
+
+
+
+
+3
+
+
+
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# ----- 多言語対応 -----
+# --- BrightestGames ---
+- 本体 -
+127.0.0.1 www.brightestgames.com # 多言語対応のHTML5ポータル
+- ローカライズ -
+127.0.0.1 es.brightestgames.com # スペイン語版
+127.0.0.1 pt.brightestgames.com # ポルトガル語版
+127.0.0.1 tr.brightestgames.com # トルコ語版
+127.0.0.1 ru.brightestgames.com # ロシア語版
+127.0.0.1 fr.brightestgames.com # フランス語版
+
+# --- Game-Game ---
+- ローカライズ -
+127.0.0.1 game-game.com # 多言語ポータル(英語)
+127.0.0.1 game-game.com.de # ドイツ語版
+127.0.0.1 game-game.fr # フランス語版
+127.0.0.1 game-game.it # イタリア語版
+127.0.0.1 cu.game-game.com # キューバ地域向け
+127.0.0.1 mo.game-game.com # マカオ地域向け
+127.0.0.1 www.game-game.com.ua # ウクライナ版
+127.0.0.1 game-game.pl # ポーランド語版
+127.0.0.1 game-game.web.tr # トルコ語版
+127.0.0.1 game-game.ro # ルーマニア語版
+127.0.0.1 kr.game-game.com # 韓国語版
+127.0.0.1 game-game.jp # 日本語版
+
+# --- 1001 / Spil系ネットワーク ---
+- ローカライズ -
+127.0.0.1 www.1001games.com # 1001系総合(英語)
+127.0.0.1 www.1001hry.cz # チェコ語版
+127.0.0.1 www.spilxl.dk # デンマーク版
+127.0.0.1 www.isladejuegos.com # スペイン語(“Isla de Juegos”)
+127.0.0.1 www.1001jeux.fr # フランス語版
+127.0.0.1 www.jatekokxl.hu # ハンガリー語版
+127.0.0.1 www.giochixl.it # イタリア語版
+127.0.0.1 www.elkspel.nl # オランダ語版
+127.0.0.1 www.1001jocuri.ro # ルーマニア語版
+127.0.0.1 www.grajteraz.pl # ポーランド語版
+127.0.0.1 www.1001jogos.pt # ポルトガル語版
+127.0.0.1 www.1001jogos.com.br # ブラジル向け
+127.0.0.1 www.igrixl.ru # ロシア語版
+127.0.0.1 www.1001pelit.com # フィンランド語版
+127.0.0.1 www.spelo.se # スウェーデン語版
+127.0.0.1 www.paixnidiaxl.gr # ギリシャ語版
+127.0.0.1 www.spillespill.no # ノルウェー語版
+127.0.0.1 www.1001spiele.de # ドイツ語版
+127.0.0.1 www.games.co.uk # 英国向け総合
+127.0.0.1 www.jeux.fr # フランス総合
+127.0.0.1 www.gry.pl # ポーランド総合
+127.0.0.1 www.jetztspielen.de # ドイツ総合
+127.0.0.1 www.juegos.com # スペイン語総合
+127.0.0.1 www.ourgames.ru # ロシア総合
+127.0.0.1 www.ojogos.com.br # ブラジル総合
+127.0.0.1 www.permainan.co.id # インドネシア総合
+127.0.0.1 www.spela.se # スウェーデン総合
+127.0.0.1 www.gioco.it # イタリア総合
+127.0.0.1 www.spelletjes.nl # オランダ総合
+127.0.0.1 www.oyunskor.com # トルコ総合
+
+# --- AdFreeGames ---
+127.0.0.1 www.adfreegames.com # 広告なしミニゲームポータル
+127.0.0.1 www.adfreegames.nl # 同(オランダ)
+127.0.0.1 www.adfreegames.co.uk # 同(英国)
+
+# --- NeonGames ---
+127.0.0.1 www.neongames.com # 多言語HTML5ポータル
+127.0.0.1 www.neongames.co.uk # 英国向け
+127.0.0.1 www.neonspellen.nl # オランダ語版
+127.0.0.1 www.neonspiele.de # ドイツ語版
+127.0.0.1 www.neongames.es # スペイン語版
+127.0.0.1 www.neongames.cn # 中国向け
+
+# --- ActionGame ---
+127.0.0.1 www.actiongame.com # アクション特化ポータル
+127.0.0.1 www.actiongames.co.uk # 英国版
+127.0.0.1 www.actiespellen.com # オランダ語版
+127.0.0.1 www.aktionspiele.de # ドイツ語版
+127.0.0.1 www.juegosaccion.es # スペイン語版
+
+# --- KIZ10 ---
+- 本体 -
+127.0.0.1 kiz10.com # HTML5ポータル
+127.0.0.1 www.kiz10.com # HTML5ポータル(WWW)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.kiz10.com # 画像/ゲームアセットCDN
+
+# --- TwoPlayerGames ---
+- 本体 -
+127.0.0.1 www.twoplayergames.org # 2人用ゲーム特化ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 files.twoplayergames.org # アセット配信
+
+# --- PlayMiniGames ---
+- 本体 -
+127.0.0.1 playminigames.net # 英語圏向けポータル
+- ローカライズ -
+127.0.0.1 playminigames.in # インド向け
+127.0.0.1 playminigames.nl # オランダ向け
+127.0.0.1 playminigames.ru # ロシア向け
+
+# --- 8kz ---
+- 本体 -
+127.0.0.1 www.8kz.com # 総合ポータル
+- ゲームディストリビューション -
+127.0.0.1 h5.8kz.com # H5配信入口
+
+# --- 4399 ---
+- ローカライズ -
+127.0.0.1 szhong.4399.com # 中国系ポータル内サブ領域
+
+# ----- 英語圏向け -----
+# --- ActionGamesHub ---
+- 本体 -
+127.0.0.1 www.actiongameshub.com # アクション特化ポータル
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 assets.actiongameshub.com # 画像/JS配信
+
+# --- FreeGames.ws ---
+- 本体 -
+127.0.0.1 freegames.ws # 総合ポータル(旧来Flash由来)
+
+# --- Foony ---
+- 本体 -
+127.0.0.1 foony.com # カジュアルゲームポータル
+
+# ---　ioゲームポータル　---
+127.0.0.1 iogames.space # ioゲーム総合
+127.0.0.1 www.iogames.space # ioゲーム総合(WWW)
+127.0.0.1 webgames.io # io/ブラウザゲーム集
+127.0.0.1 iogames.fun # ioゲーム総合
+127.0.0.1 iogamesio.onl # ioゲーム総合
+127.0.0.1 iogames.world # ioゲーム総合
+127.0.0.1 cool-io.games # ioゲーム総合
+127.0.0.1 www.iogames-io.io # ioゲーム総合
+127.0.0.1 iogames.games # ioゲーム総合
+127.0.0.1 playgamesio.net # ioゲーム総合
+127.0.0.1 iogamesio.org # ioゲーム総合
+127.0.0.1 io.games # ioゲーム総合
+127.0.0.1 iogame.io # ioゲーム総合
+127.0.0.1 iogames.onl # ioゲーム総合
+127.0.0.1 www.gameio.vn # ioゲーム総合(ベトナム語圏)
+
+# ----- スペイン語圏向け -----
+# --- HolaJuegos ---
+- 本体 -
+127.0.0.1 holajuegos.com # スペイン語ポータル
+
+
+
+
+# ==========================
+# 2. HTML5/Flashアーカイブ併存大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# --- GamesWF ---
+- 本体 -
+127.0.0.1 gameswf.com # Flash由来アーカイブ/HTML5混在
+127.0.0.1 www.gameswf.com # 同上(WWW)
+
+# ==========================
+# 3. HTML5系特定スタジオ／ブランド系 (自社ブランドの作品だけ)
+# ==========================
+# --- Inlogic ---
+- 本体 -
+127.0.0.1 html5.inlogic.sk # スタジオ配信(HTML5)
+
+# --- Digitap ---
+- 本体 -
+127.0.0.1 game.digitap.eu # スタジオ配信/埋め込み用
+
+# --- Mana Monster ---
+- 本体 -
+127.0.0.1 www.manamonster.com # ブランド公式
+
+# --- Novel Games ---
+- その他 -
+127.0.0.1 license.novelgames.com # ライセンス/APIエンドポイント
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+# ----- 広告配信／ゲームディストリビューション -----
+# --- Ecaps Games ---
+- 本体 -
+127.0.0.1 ecapsgames.com # ホワイトラベル配信用/パブリッシャー
+
+# ==========================
+# 9. 個人／小規模スタジオ/Githubページ
+# ==========================
+# ----- 公開プラットフォーム -----
+# --- Lexaloffle (PICO-8) ---
+- 本体 -
+127.0.0.1 www.lexaloffle.com # 作品配布/ツール配布
+
+# ==========================
+# 10. アマチュア制作プラットフォーム／UGC
+# ==========================
+# ----- アマチュア配信プラットフォーム -----
+# --- Kongregate ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 konggames.com # 埋め込み/アセット配信
+
+# ----- VR 系プラットフォーム -----
+- 本体 -
+127.0.0.1 heyvr.io # WebVR/VR系ハブ
+
+# ==========================
+# 11. 教育/脳トレ(認知/記憶/注意)/タイピング/ガールズ/その他子供向け
+# ==========================
+# ----- 教育 -----
+# --- Coolmath Games ---
+- 本体 -
+127.0.0.1 www.coolmathgames.com # 学習寄りカジュアル
+
+# --- Math Playground ---
+- 本体 -
+127.0.0.1 www.mathplayground.com # 算数学習/ロジック
+
+# --- Arcademics ---
+- 本体 -
+127.0.0.1 www.arcademics.com # 学習×アーケード
+
+# --- ABCya ---
+- 本体 -
+127.0.0.1 www.abcya.com # 低学年向け学習ゲーム
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 media.abcya.com # 画像/音声/JS
+
+# --- RoomRecess ---
+- 本体 -
+127.0.0.1 www.roomrecess.com # 教材系ゲーム
+
+# --- ImproveMemory ---
+- 本体 -
+127.0.0.1 www.improvememory.org # 記憶力トレーニング
+
+# ----- ガールズ -----
+# --- DressUpWho ---
+- 本体 -
+127.0.0.1 dressupwho.net # ドレスアップ/メイク
+
+# ----- その他子供向け／キャラクターIP・TVネットワーク公式 (提案) -----
+# --- Cartoon Network / Turner ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 i.cartoonnetwork.com # 公式アセット
+127.0.0.1 cn.i.cdn.ti-platform.com # 地域別CDN(中国向け)
+
+# --- Sesame Street ---
+- 本体 -
+127.0.0.1 interactive.sesamestreet.org # 幼児向けインタラクティブ
+
+# --- TOGGO (Super RTL) ---
+- 本体 -
+127.0.0.1 www.toggo.de # キッズ向けポータル
+
+# --- Hasbro ---
+- 本体 -
+127.0.0.1 hasbro.com # 公式サイト/ゲームLP等
+
+# --- Marvel ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 i.annihil.us # 公式画像/CDN
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- カード/ボード/パズル総合 ----- 
+# --- 247系 ---
+- 麻雀 -
+127.0.0.1 www.247mahjonggames.com # 247系麻雀
+
+# --- Spiele Palast ---
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 backend.spiele-palast.de # バックエンドAPI/アセット
+
+# ----- ドットアンドボックス -----
+127.0.0.1 www.dots-and-boxes.com # ドット＆ボックス(一筆取り)
+
+# ----- ソリティア -----
+127.0.0.1 googlesolitaire.com # ソリティア(クローン)
+127.0.0.1 www.googlesolitaire.com # ソリティア(WWW)
+
+# ----- ソリティア -----
+127.0.0.1 www.solitaire.com # ソリティア総合
+127.0.0.1 www.solitaire.co.uk # 英国版
+127.0.0.1 www.patiencespelen.nl # オランダ語版
+127.0.0.1 www.kartenspielen.de # ドイツ語(トランプ系)
+127.0.0.1 www.juegossolitario.com # スペイン語版
+127.0.0.1 www.jeuxsolitaire.fr # フランス語版
+127.0.0.1 www.giochisolitario.it # イタリア語版
+127.0.0.1 www.paciencia.pt # ポルトガル語版
+127.0.0.1 www.pasjanse.pl # ポーランド語版
+
+# ----- バブルシューター -----
+127.0.0.1 www.bubbleshooterfree.com # バブル系
+
+# ----- 麻雀 -----
+127.0.0.1 www.mahjong.com # 麻雀ポータル(総合)
+127.0.0.1 www.mahjong.co.uk # 英国版
+127.0.0.1 www.mahjongspelen.nl # オランダ語版
+127.0.0.1 www.mahjongspielen.de # ドイツ語版
+127.0.0.1 www.juegosmahjong.com # スペイン語版
+127.0.0.1 www.jeuxmahjong.fr # フランス語版
+127.0.0.1 www.giochimahjong.it # イタリア語版
+127.0.0.1 www.mahjong.pt # ポルトガル語版
+127.0.0.1 www.mahjong.pl # ポーランド語版
+
+
+# ----- パズル総合 -----
+# --- Puzzle Games ネットワーク ---
+- 本体 -
+127.0.0.1 www.puzzle-games.com # パズル特化ポータル
+127.0.0.1 www.puzzlegames.co.uk # 同(UK)
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- スネーク -----
+127.0.0.1 googlesnake.com # スネーク(クローン)
+127.0.0.1 www.snake-games.io # スネーク系まとめ
+
+# ----- テトリス -----
+127.0.0.1 www.tetris-games.com # テトリス系まとめ
+
+# ----- 恐竜ゲーム -----
+127.0.0.1 www.dinosaur-game.net # Chrome恐竜クローン
+
+# --- ClassicGame ---
+127.0.0.1 www.classicgame.com # クラシック系総合
+127.0.0.1 www.classicgame.co.uk # 英国版
+127.0.0.1 www.klassiekspel.nl # オランダ語版(クラシック)
+127.0.0.1 www.spieleklassiker.com # ドイツ語版(クラシック)
+
+# ==========================
+# 26. クラシックリロード/エミュレーター／アーカイブ (公式再配信や保全プロジェクトが目的)
+# ==========================
+# ----- クローン／リメイク -----
+127.0.0.1 picos-school.com # Pico's School系(ブラウザ復刻)
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+# ----- その他 -----
+127.0.0.1 gamasexual.com # アダルト系ミニゲーム
+127.0.0.1 iclouds.space # ファイル/アセット置き場系
+127.0.0.1 0000100.com # 数字ドメインの簡易ポータル
+127.0.0.1 3wayint.com # 運用会社/転送系ドメインの可能性
+127.0.0.1 www.girlgames.space # ガールズ向けポータル(独立系)
+
+# ----- 第三者CDN -----
+127.0.0.1 files.ufreegame.net # ufreegame用静的配信(ブランドCDN)
+127.0.0.1 previews.envatousercontent.com # EnvatoプレビューCDN
+127.0.0.1 files.acticdn.com # ActiCDN系(汎用CDN)
+127.0.0.1 butilochka.cdnvideo.ru # CDNvideo(RU)配信
+127.0.0.1 unblocked-games.s3.amazonaws.com # Amazon S3(外部ストレージ)
+127.0.0.1 cdn2.unblocked-games-free.com # アンブロック系の外部CDN
+
+# ----- 広告ネットワーク -----
+127.0.0.1 emea.iframed.cn.dmti.cloud # 広告/計測用iframe配信
+
+
+
+
+
+
+
+
+
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+
+# ----- 多言語対応 -----
+# --- Friv ---
+- 本体 -
+127.0.0.1 www.friv10.com #Friv系総合ポータル(英語圏)
+127.0.0.1 www.friv22.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv77.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv99.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv200.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv1000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv1999.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv2000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv2008.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2009.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2010.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2011.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2012.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2013.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2014.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2015.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2016.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2017.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2018.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2019.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2020.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2021.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2022.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2023.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2024.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv3000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv6000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv10000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv20000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv40000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv50000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv100000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv1000000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv10000000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv360.games #Friv系ミラー/新gTLD(.games)
+127.0.0.1 friv23.com #Friv系ミラー/番号バリアント
+127.0.0.1 friv2024.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv-1.com #Friv系ミラー/ハイフン系
+127.0.0.1 www.friv-7.com #Friv系ミラー/ハイフン系
+127.0.0.1 www.friv-123.com #Friv系ミラー/ハイフン系
+127.0.0.1 www.friv-2017.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-2018.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-2020.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-2021.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-3000.com #Friv系ミラー/番号+ハイフン
+127.0.0.1 www.friv12com.com #Friv系ミラー/文字列バリアント
+127.0.0.1 www.friv2019com.com #Friv系ミラー/文字列バリアント
+127.0.0.1 www.friv-com.com #Friv系ミラー/ハイフン+com表記
+127.0.0.1 friv-2018.net #Friv系ミラー(gTLD .net)
+127.0.0.1 www.friv1000.net #Friv系ミラー(gTLD .net)
+127.0.0.1 www.friv9.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv20.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv5000.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv90000.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv50000.net #Friv系ミラー(gTLD .net)
+127.0.0.1 www.friv2016.info #Friv系ミラー(gTLD .info)
+127.0.0.1 www.friv2019.info #Friv系ミラー(gTLD .info)
+127.0.0.1 www.friv2020.info #Friv系ミラー(gTLD .info)
+127.0.0.1 www.friv2017.io #Friv系ミラー(gTLD .io)
+127.0.0.1 friv2019.games #Friv系ミラー(gTLD .games)
+127.0.0.1 friv2020.games #Friv系ミラー(gTLD .games)
+127.0.0.1 friv2021.games #Friv系ミラー(gTLD .games)
+127.0.0.1 friv2022.games #Friv系ミラー(gTLD .games)
+127.0.0.1 www.friv-2019.games #Friv系ミラー(gTLD .games)
+127.0.0.1 www.friv-2020.games #Friv系ミラー(gTLD .games)
+127.0.0.1 www.friv2online.com #Friv系派生(オンライン)
+127.0.0.1 www.friv5online.com #Friv系派生(オンライン)
+127.0.0.1 www.friv4school2017.com #Friv系派生(学校向け/2017)
+127.0.0.1 friv4.win #Friv系派生(gTLD .win)
+127.0.0.1 friv5.me #Friv系派生(gTLD .me)
+127.0.0.1 friv10play.net #Friv系派生(Play表記)
+127.0.0.1 friv10games.club #Friv系派生(gTLD .club)
+127.0.0.1 friv.land #Friv系派生(gTLD .land)
+127.0.0.1 www.friv.vip #Friv系派生(gTLD .vip)
+127.0.0.1 www.friv.lol #Friv系派生(gTLD .lol)
+127.0.0.1 www.friv.uno #Friv系派生(gTLD .uno)
+127.0.0.1 www.friv.cloud #Friv系派生(gTLD .cloud)
+127.0.0.1 frive.net #Friv系派生/綴り違い
+127.0.0.1 frivgames4u.com #Friv系派生(4u)
+127.0.0.1 www.frivantigo.com #Friv系派生(Antigo表記)
+127.0.0.1 www.frivoldmenu.com #Friv系派生(旧メニュー系)
+127.0.0.1 www.frivls.com #Friv系派生(LS表記)
+127.0.0.1 www.frivoriginal.com #Friv系派生(Original表記)
+127.0.0.1 frivwtf.com #Friv系派生(WTF表記)
+127.0.0.1 friv2.racing #Friv系派生(gTLD .racing)
+127.0.0.1 www.friv4school.io #Friv系派生(学校向け/回避用)
+127.0.0.1 www.gryfriv.info #Friv系派生(ポーランド語)
+127.0.0.1 www.gryfriv5.com #Friv系派生(ポーランド語/5)
+127.0.0.1 frivcomfriv.com #Friv系派生(重ね表記)
+127.0.0.1 www.jeuxdefriv2021.net #Friv系派生(フランス語/2021)
+127.0.0.1 www.jeux-friv.com #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefriv2014.com #Friv系派生(フランス語/2014)
+127.0.0.1 www.frivjeux.com #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefriv2019.net #Friv系派生(フランス語/2019)
+127.0.0.1 www.jeuxdefriv2020.net #Friv系派生(フランス語/2020)
+127.0.0.1 www.jeuxfriv.org #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefrin.com #Friv系派生(綴り違い/フランス語)
+127.0.0.1 www.jeuxdefriv.com #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefriv2015.com #Friv系派生(フランス語/2015)
+127.0.0.1 www.jeuxdefriv2021.com #Friv系派生(フランス語/2021)
+127.0.0.1 www.jeuxdefriv250.net #Friv系派生(フランス語/数値系)
+127.0.0.1 www.friv2019plus.com #Friv系派生(Plus表記)
+127.0.0.1 www.juegofriv5.com #Friv系派生(スペイン語/5)
+127.0.0.1 www.juegosgratisfriv.com #Friv系派生(スペイン語/無料)
+127.0.0.1 www.friv-y8.net #Friv/Y8系ハイブリッド
+127.0.0.1 www.juegosfriv2com.com #Friv系派生(スペイン語/2com表記)
+- ローカライズ -
+127.0.0.1 www.friv2017.us #Friv系ローカライズ(米国)
+127.0.0.1 www.friv2020.us #Friv系ローカライズ(米国/2020)
+127.0.0.1 www.friv2019.com.br #Friv系ローカライズ(ブラジル/2019)
+127.0.0.1 www.friv.cm #Friv系ローカライズ(カメルーン)
+127.0.0.1 www.friv.ee #Friv系ローカライズ(エストニア)
+
+# --- FunnyGames ---
+- 本体 -
+127.0.0.1 www.funnygames.org #総合ゲームポータル(多言語)
+- ローカライズ -
+127.0.0.1 www.funnygames.jp #日本語版(総合)
+
+# ----- 英語圏向け -----
+127.0.0.1 www.gameitnow.com #総合ポータル
+127.0.0.1 www.game.bz #総合ポータル/短縮ドメイン
+127.0.0.1 www.mixfreegames.com #総合ポータル/ミックス
+
+# ----- 英国向け -----
+127.0.0.1 www.mygame.co.uk #総合ポータル(UK)
+
+# ----- 香港/華語圏向け -----
+127.0.0.1 www.freegames.hk #総合ポータル(香港)
+
+# ----- インド圏向け -----
+127.0.0.1 www.games1.in #総合ポータル(インド)
+
+# ----- ポーランド語圏向け -----
+127.0.0.1 www.gragra.pl #総合ポータル(ポーランド語)
+
+# ----- その他/汎用 -----
+127.0.0.1 www.games.li #総合ポータル(.li)
+127.0.0.1 www.spiellen.de #総合ポータル(ドイツ語系)
+
+# ----- オランダ/ベルギー(オランダ語)向け -----
+# --- Spelle ---
+127.0.0.1 www.spelle.be #総合ポータル(ベルギー/オランダ語)
+127.0.0.1 www.spelle.nl #総合ポータル(オランダ)
+
+# ----- フランス語圏向け -----
+127.0.0.1 www.jouezgratuitement.fr #総合ポータル(フランス語)
+
+# ----- イタリア語圏向け -----
+127.0.0.1 www.giocogiochi.it #総合ポータル(イタリア語)
+
+# ----- イベリア/南欧(スペイン/ポルトガル)向け -----
+127.0.0.1 www.juga.es #総合ポータル(スペイン)
+127.0.0.1 www.joga.pt #総合ポータル(ポルトガル)
+
+# ----- 中南米(スペイン語)向け -----
+127.0.0.1 www.juegosgratis.co.ve #総合ポータル(ベネズエラ/スペイン語)
+
+# ----- スペイン語圏派生 -----
+127.0.0.1 www.juegosdegogy.com #Gogy系派生ポータル(スペイン語)
+
+# ==========================
+# 6. フラッシュ系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+127.0.0.1 www.flashgames.jp #フラッシュ時代のポータル(日本語)
+
+# ==========================
+# 11. 教育/脳トレ(認知/記憶/注意)/タイピング/ガールズ/その他子供向け
+# ==========================
+# ----- 脳トレ -----
+127.0.0.1 www.mindgames.com #脳トレ/思考系ゲーム総合
+127.0.0.1 www.brain-games.co.uk #脳トレ(UK)
+127.0.0.1 www.denkspelletjes.nl #脳トレ(オランダ語)
+127.0.0.1 www.knobelspiele.com #脳トレ(ドイツ語)
+127.0.0.1 www.juegos-mentales.com #脳トレ(スペイン語)
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+
+# ----- パズル総合 -----
+127.0.0.1 www.puzzelspellen.nl #パズル総合(オランダ語)
+127.0.0.1 www.puzzlespiele.com #パズル総合(ドイツ語)
+127.0.0.1 www.juegosrompecabezas.com #パズル総合(スペイン語)
+
+# ----- 隠しオブジェクト -----
+# --- HiddenObjectGames系 ---
+- ローカライズ -
+127.0.0.1 www.hiddenobjectgames.com #隠しオブジェクト総合(英語)
+127.0.0.1 www.hiddenobjectgames.co.uk #隠しオブジェクト(UK)
+127.0.0.1 www.hiddenobjectspellen.nl #隠しオブジェクト(オランダ語)
+127.0.0.1 www.wimmelbildspiele.de #隠しオブジェクト(ドイツ語)
+127.0.0.1 www.juegosdeobjetosocultos.com #隠しオブジェクト(スペイン語)
+
+# ----- マッチ3 -----
+# --- Match3系 ---
+- ローカライズ -
+127.0.0.1 www.match3games.com #マッチ3総合(英語)
+127.0.0.1 www.match3.co.uk #マッチ3(UK)
+127.0.0.1 www.match3spellen.nl #マッチ3(オランダ語)
+127.0.0.1 www.3gewinntspiele.com #マッチ3(ドイツ語/三つ並べ系)
+
+# ----- 三目並べ -----
+127.0.0.1 www.tresenraya.com #三目並べ(スペイン語)
+
+
+
+
+
+
+
+
+
+
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# ----- 多言語対応 -----
+# --- Gaamess ---
+- 本体 -
+127.0.0.1 gaamess.com # ブラウザゲーム集(アンブロック系)
+- ローカライズ -
+127.0.0.1 gaamess.ca # カナダ向けミラー
+127.0.0.1 gaamess.uk # 英国向けミラー
+127.0.0.1 gaamess.de # ドイツ向けミラー
+127.0.0.1 gaamess.dk # デンマーク向けミラー
+127.0.0.1 gaamess.fr # フランス向けミラー
+127.0.0.1 gaamess.mx # メキシコ向けミラー
+127.0.0.1 gaamess.es # スペイン向けミラー
+
+# --- OnlyGames / OnlineGames.io ---
+- 本体 -
+127.0.0.1 onlygames.io # HTML5ゲームプラットフォーム
+- ローカライズ -
+127.0.0.1 en.onlygames.io # 英語版
+127.0.0.1 fr.onlygames.io # フランス語版
+127.0.0.1 de.onlygames.io # ドイツ語版
+127.0.0.1 es.onlygames.io # スペイン語版
+127.0.0.1 ua.onlygames.io # ウクライナ語版
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cloud.onlinegames.io # アセット配信用(ミラー/クラウド)
+
+# ----- 英語圏向け -----
+127.0.0.1 www.4j.com # HTML5/Flash作品集(ポータル)
+127.0.0.1 yaksgames.com # ブラウザゲーム集
+127.0.0.1 www.hitgames.org # ブラウザゲーム集
+127.0.0.1 www.bestcrazygames.com # ブラウザゲーム集
+127.0.0.1 www.8fat.com # ブラウザゲーム集
+127.0.0.1 manygames.us # ブラウザゲーム集
+127.0.0.1 www.hepy.games # ブラウザゲーム集
+127.0.0.1 www.6woo.com # ブラウザゲーム集
+127.0.0.1 www.46play.com # ブラウザゲーム集
+127.0.0.1 www.h5h5games.com # H5ゲーム集
+127.0.0.1 www.zazgames.com # ブラウザゲーム集
+127.0.0.1 www.gamev6.com # ブラウザゲーム集
+127.0.0.1 www.sybogame.com # ブラウザゲーム集
+127.0.0.1 www.cabahtmlgames.com # HTML5ゲーム集
+127.0.0.1 www.rocketgames.io # ブラウザゲーム集
+127.0.0.1 www.sebogame.com # ブラウザゲーム集
+127.0.0.1 www.maskedgames.com # ブラウザゲーム集
+127.0.0.1 taptapking.com # ブラウザゲーム集
+127.0.0.1 www.meyagames.com # ブラウザゲーム集
+127.0.0.1 www.contezero.com # ブラウザゲーム集
+127.0.0.1 gamesfrog.com # ブラウザゲーム集
+127.0.0.1 arcadespot.com # アーケード/カジュアル集
+127.0.0.1 www.playbelline.com # ブラウザゲーム集
+127.0.0.1 2player.co # 二人対戦ゲーム集
+127.0.0.1 cellgames.com # ブラウザゲーム集
+127.0.0.1 www.poki2.net # ブラウザゲーム集(クローン系)
+127.0.0.1 taptop.games # ブラウザゲーム集
+127.0.0.1 games.mi9.com # ブラウザゲーム集
+127.0.0.1 playhop.com # ブラウザゲーム集
+127.0.0.1 www.gamefree.games # ブラウザゲーム集
+127.0.0.1 www.topgames.com # ゲーム情報/配信ポータル
+127.0.0.1 pnfreegames.com # ブラウザゲーム集
+127.0.0.1 www.gameszap.com # ブラウザゲーム集
+127.0.0.1 gamemora.com # カジュアルゲーム集
+127.0.0.1 game222.xyz # カジュアルゲーム集
+127.0.0.1 pbgamer.com # ブラウザゲーム集
+127.0.0.1 nutwg.com # ブラウザゲーム集
+
+# --- Kizi ---
+- 本体 -
+127.0.0.1 kizi.com # 児童向けゲームポータル
+
+# --- BGames ---
+- 本体 -
+127.0.0.1 www.bgames.com # ブラウザゲームポータル
+
+# ----- ポーランド語圏向け -----
+127.0.0.1 gry.jeja.pl # ポーランドのゲームポータル
+
+# ----- チェコ語圏向け -----
+127.0.0.1 www.superhry.cz # チェコのゲームポータル
+
+# ----- 南スラヴ語圏向け -----
+127.0.0.1 igre.games # バルカン圏ゲームポータル
+
+# ----- ロシア語圏向け -----
+127.0.0.1 www.multoigri.ru # ロシアの子供向けゲーム
+# ==========================
+# 2. HTML5/Flashアーカイブ併存大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# ----- 多言語対応 -----
+# --- Agame ---
+- 本体 -
+127.0.0.1 www.agame.com # 旧Flash含む大型ポータル
+
+# ----- 英語圏向け -----
+# --- GamesFreak ---
+- 本体 -
+127.0.0.1 www.gamesfreak.net # 旧Flash/HTML5集
+
+# ==========================
+# 4. HTML5/Flashアーカイブ併存特定スタジオ／ブランド系 (自社ブランドの作品だけ)
+# ==========================
+# ----- 多言語対応 -----
+# --- Nitrome ---
+- 本体 -
+127.0.0.1 www.nitrome.com # 旧Flash名作/HTML5移植
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+# ----- 広告配信／ゲームディストリビューション -----
+# --- GamePix ---
+- ゲームディストリビューション -
+127.0.0.1 www.gamepix.com # HTML5配信ネットワーク/SaaS
+
+# ==========================
+# 10. アマチュア制作プラットフォーム／UGC
+# ==========================
+# < 公開プラットフォーム >
+# （該当なし）
+
+# ==========================
+# 11. 教育/脳トレ(認知/記憶/注意)/タイピング/ガールズ/その他子供向け
+# ==========================
+# ----- 教育 -----
+127.0.0.1 www.learn4good.com # 学習/教育ゲーム
+127.0.0.1 www.turtlediary.com # 児童向け学習ゲーム
+127.0.0.1 abcya.games # 児童向け教育ゲーム(非公式系)
+127.0.0.1 www.coolmathgameskids.com # 児童向け学習ゲーム(非公式系)
+
+# ----- ガールズ -----
+127.0.0.1 www.dl-girls.com # ドレスアップ/メイク
+127.0.0.1 www.girlgames.ee # ガールズ向けゲーム
+127.0.0.1 www.numuki.com # 女児向けゲーム/キャラ
+
+# ----- その他子供向け -----
+127.0.0.1 www.games-kids.com # 子供向けゲーム集
+127.0.0.1 www.kizgame.com # 子供向けゲーム集
+127.0.0.1 www.happykidgames.com # 子供向けゲーム集
+127.0.0.1 www.disney--games.com # 子供向けキャラゲーム(非公式)
+127.0.0.1 www.g2k.co # 子供向けゲーム集
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- カード/ボード/パズル総合 -----
+# --- Playit-Online ---
+- 本体 -
+127.0.0.1 www.playit-online.com # ボード/パズル特化ポータル
+
+# ----- カード総合 -----
+127.0.0.1 www.solitr.com # ソリティア(クロンダイク等)
+
+# ----- 麻雀 -----
+127.0.0.1 mahjon.gg # 麻雀/上海系
+
+# ----- 数独 -----
+127.0.0.1 sudoku.game # 数独
+127.0.0.1 sudoku.com # 数独
+127.0.0.1 www.livesudoku.com # 数独
+127.0.0.1 ja.sudoku-online.net # 数独(日本語)
+127.0.0.1 numberplace.net # ナンプレ
+127.0.0.1 numberplace.site # ナンプレ
+127.0.0.1 nanpre.adg5.com # ナンプレ
+127.0.0.1 numpre7.com # ナンプレ
+127.0.0.1 si-coding.net # ナンプレ/パズル配信
+
+# ----- Threes -----
+127.0.0.1 play.threesgame.com # Threes公式Web版
+
+# ----- 2048 -----
+127.0.0.1 www.2048.org # 2048
+127.0.0.1 doge2048.com # 2048派生
+127.0.0.1 www.2048tile.co # 2048派生
+127.0.0.1 2048game.club # 2048派生
+127.0.0.1 all2048.com # 2048派生集
+127.0.0.1 1024game.org # 1024(2048祖先系)
+127.0.0.1 2048game.com # 2048
+127.0.0.1 play2048.co # 2048
+127.0.0.1 2048undo.com # 2048(アンドゥ付)
+
+# ----- ジグソー -----
+127.0.0.1 im-a-puzzle.com # ジグソーパズル
+127.0.0.1 jigsawpuzzles.io # ジグソーパズル
+127.0.0.1 www.jigsawplanet.com # ジグソーパズル(UGC)
+127.0.0.1 www.jigsawexplorer.com # ジグソーパズル
+127.0.0.1 www.jspuzzles.com # ジグソーパズル
+
+# ----- Wordle -----
+127.0.0.1 food-le.com # Wordle派生(食べ物テーマ)
+
+# ----- マインスイーパー -----
+127.0.0.1 minesweeper.one # マインスイーパー
+127.0.0.1 minesweeper.us # マインスイーパー
+127.0.0.1 minesweeper.online # マインスイーパー
+127.0.0.1 minesweeperforfree.com # マインスイーパー
+127.0.0.1 minesweeperonline.com # マインスイーパー
+
+# ==========================
+# 13. クイズ/脱出/ネタ系/パロディ/お絵描き
+# ==========================
+# ----- ネタ系 -----
+127.0.0.1 lifethegame.io # クリック進行ネタゲーム
+
+# ==========================
+# 14. アクション
+# ==========================
+# ----- その他アクション -----
+127.0.0.1 stickmanhookgame.org # スティックマン物理アクション
+127.0.0.1 amongus2.io # アモングアス風カジュアル
+
+# ==========================
+# 17. レース/ドライブ/カー/バイク
+# ==========================
+# ----- カースタント -----
+127.0.0.1 madalinstuntcars2.io # カースタント/走行
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+# ----- ioスネーク -----
+127.0.0.1 slitherio.online # スリザリオ系
+127.0.0.1 slithergame.io # スリザリオ系
+127.0.0.1 worms.zone # ワーム系io(スネーク派生)
+
+# ----- 共食い・吸収 -----
+127.0.0.1 agargame.io # Agar系(細胞吸収)
+
+# ----- シューティングPvP -----
+127.0.0.1 quake-io.com # FPS/io系まとめ
+127.0.0.1 fpsiogames.com # FPS io特化ポータル
+
+
+
+127.0.0.1 hury.io # io系カジュアル
+
+
+
+
+# --- Titotu ---
+- 本体 -
+127.0.0.1 titotu.io # ioゲームポータル
+- ローカライズ -
+127.0.0.1 titotu.ru # ロシア語版
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- パックマン -----
+127.0.0.1 pacman-30thanniversary.com # パックマン記念版(非公式系)
+
+# ----- フラッピーバード -----
+# （該当なし）
+
+# ----- 恐竜ゲーム -----
+127.0.0.1 nointernetgame.com # Chrome恐竜ゲーム風
+127.0.0.1 trex-runner.com # Chrome恐竜ゲーム風ミラー
+
+# ----- フロッガー -----
+127.0.0.1 froggerclassic.appspot.com # フロッガー風
+
+# ----- スネーク -----
+127.0.0.1 snake-game.co # スネーク
+127.0.0.1 playsnake.org # スネーク
+127.0.0.1 www.pizzasnake.com # スネーク(ピザテーマ)
+127.0.0.1 officesnake.com # スネーク(オフィス向け)
+
+# ----- テトリス -----
+127.0.0.1 tetris.org # テトリス公式関連
+127.0.0.1 tetris.com # テトリス公式
+127.0.0.1 www.tetris24.com # テトリス系
+127.0.0.1 tetris.merkoba.com # テトリス系
+127.0.0.1 jstris.jezevec10.com # テトリス系(オンライン対戦)
+
+
+
+
+
+
+
+
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- カード/ボード/パズル総合 -----
+127.0.0.1 cardgames.ai # AI対戦対応の定番カード/ボード集
+127.0.0.1 cardgames.io # 定番カード/ボード集
+127.0.0.1 playingcards.io # 友人対戦用オンラインカード卓/テーブル
+127.0.0.1 www.onlinesologames.com # 一人用カード/ボード/パズル集
+127.0.0.1 www.solitaire.org # ソリティア中心のパズル総合
+127.0.0.1 buddyboardgames.com # 家族向けボードゲーム集
+127.0.0.1 www.playok.com # 国際チェッカー/囲碁/将棋等の総合
+127.0.0.1 playpager.com # クラシック系カード/ボード/パズル集
+127.0.0.1 papergames.io # 紙上ゲーム風のマルチ対戦集（ペン&ペーパー系）
+# ----- ソリティア -----
+127.0.0.1 www.solitaire-pyramid.com # ピラミッドソリティア
+127.0.0.1 www.solitaire-klondike.com # クロンダイクソリティア
+127.0.0.1 www.christmas-time-solitaire.com # クリスマス・テーマのソリティア
+127.0.0.1 www.free-freecell-solitaire.com # フリーセル
+127.0.0.1 www.free-spider-solitaire.com # スパイダーソリティア
+127.0.0.1 www.solitaire-web-app.com # Webアプリ版ソリティア
+127.0.0.1 www.classicsolitaire.com # クラシックソリティア
+127.0.0.1 www.christmassolitaire.com # クリスマス・ソリティア集
+127.0.0.1 solitaire.dev # ソリティア（開発者向けドメイン使用）
+127.0.0.1 worldofsolitaire.com # 多種ソリティアコレクション
+127.0.0.1 solitaired.com # ソリティア/頭脳系
+127.0.0.1 www.digsolitaire.com # ソリティア（DIGブランド）
+127.0.0.1 online-solitaire.com # オンラインソリティア
+127.0.0.1 www.solitairebliss.com # 多種ソリティア/実績/ランキング
+127.0.0.1 greenfelt.net # 高速実装のソリティア/フリーセル
+127.0.0.1 www.play-solitaire.com # ソリティア総合
+127.0.0.1 www.solitaire-play.com # ソリティア集
+127.0.0.1 justsolitaire.com # ブラウザ版ソリティア集
+127.0.0.1 solitairesocial.com # ソーシャル要素付きソリティア
+127.0.0.1 www.spider-solitaire-game.com # スパイダー専用
+127.0.0.1 www.klondike-solitaire.online # クロンダイク専用
+127.0.0.1 pasjans-online.pl # ソリティア（ポーランド語圏）
+127.0.0.1 html5solitaire.web.mobilityware.com # HTML5ソリティア（MobilityWare）
+127.0.0.1 www.solitaireparadise.com # ソリティア/パズル総合
+127.0.0.1 freecellsolitaire-online.com # フリーセル専用
+127.0.0.1 www.playsolitaire-online.com # ソリティア総合入口
+# ----- トランプ総合/個別 -----
+127.0.0.1 spadescardclassic.com # スペード（クラシック）
+127.0.0.1 heartscardclassic.com # ハーツ（クラシック）
+127.0.0.1 pinochleclassic.com # ピノクル（クラシック）
+127.0.0.1 www.cribbageclassic.com # クリベッジ（クラシック）
+127.0.0.1 www.playhearts-online.com # ハーツ対戦
+127.0.0.1 www.playrummy-online.com # ラミー対戦
+127.0.0.1 playspades-online.com # スペード対戦
+127.0.0.1 www.playeuchre-online.com # ユーカー対戦
+127.0.0.1 www.gin-rummy.net # ジンラミー
+127.0.0.1 www.gin-rummy-online.com # ジンラミー対戦
+127.0.0.1 www.free-hearts.com # ハーツ（無料）
+127.0.0.1 spades-game.online # スペード（オンライン）
+127.0.0.1 hearts-game.online # ハーツ（オンライン）
+# ----- UNO -----
+127.0.0.1 pizz.uno # UNO系（非公式）
+127.0.0.1 scuffeduno.online # UNO系（非公式）
+127.0.0.1 duowfriends.eu # UNO系（非公式/フレンド対戦）
+# ----- 麻雀 -----
+127.0.0.1 playmahjong-online.com # 上海/四川等の麻雀パズル
+127.0.0.1 www.mahjonged.com # 麻雀ソリティア/麻雀パズル
+# ----- チェス -----
+127.0.0.1 chess.org # チェス対局
+127.0.0.1 www.chess.com # チェス（大手プラットフォーム）
+127.0.0.1 lichess.org # 無料/オープンのチェス
+127.0.0.1 www.mychessgame.com # チェス対戦/学習
+127.0.0.1 www.chessonlinefree.com # 無料オンラインチェス
+127.0.0.1 chessui.com # チェス盤UI/対局
+127.0.0.1 www.shredderchess.com # Shredder（エンジン/対局）
+127.0.0.1 www.sparkchess.com # SparkChess（対局/学習）
+127.0.0.1 game.metachess.network # メタチェス（チェス拡張/対局）
+127.0.0.1 chessmir.ru # チェス（ロシア語圏）
+# ----- 将棋 -----
+127.0.0.1 shogibeya.michikusa.jp # 将棋対局/研究
+127.0.0.1 www.kento-shogi.com # 将棋検討/対局
+# ----- 中国将棋(象棋) -----
+127.0.0.1 play.xiangqi.com # 象棋（中国将棋）
+# ----- 囲碁 -----
+127.0.0.1 www.minnanogo.com # 囲碁対局/学習
+# ----- オセロ -----
+127.0.0.1 www.othello.org # オセロ（公式/団体）
+127.0.0.1 www.eothello.com # オセロ対戦
+# ----- 三目並べ -----
+127.0.0.1 tictactoe.ee # 三目並べ
+# ----- ワードサーチ -----
+127.0.0.1 www.free-word-search.com # ワードサーチ/語探し
+# ----- マインスイーパー -----
+127.0.0.1 play-minesweeper.com # マインスイーパー
+127.0.0.1 onesquareminesweeper.com # 1マス型マインスイーパー
+127.0.0.1 coopminesweeper.com # 協力型マインスイーパー
+127.0.0.1 minesweeperx.com # マインスイーパー（X系）
+127.0.0.1 www.revolversweeper.com # リボルバー式マインスイーパー
+127.0.0.1 play.minesweeperflags.net # フラグ戦マインスイーパー
+127.0.0.1 minesweeper-online.com # マインスイーパー（オンライン）
+127.0.0.1 minesweeper.website # マインスイーパー（総合）
+127.0.0.1 minesweeper.ee # マインスイーパー（エストニア）
+# ----- パズル総合/その他パズル -----
+127.0.0.1 netquel.com # 単語/推理系パズル?（要確認）
+127.0.0.1 puyogo.app # 落ち物/連鎖系パズル?（要確認）
+
+# ----- トランプ総合/個別 -----
+127.0.0.1 playcribbage-online.com # クリベッジ対戦
+
+# ----- ビンゴ ----- (提案)
+127.0.0.1 playbingo-online.net # ビンゴ（オンライン対戦/ナンバー抽選）
+
+# ----- パズル総合/その他パズル -----
+127.0.0.1 www.puzzleplayground.com # 教育寄りのパズル/ミニゲーム集
+
+# ==========================
+# 13. クイズ/脱出/ネタ系/パロディ/お絵描き
+# ==========================
+# ----- お絵描き -----
+127.0.0.1 magma.com # 共同お絵描き/イラスト制作（非ゲーム要素あり）
+
+# ==========================
+# 14. アクション
+# ==========================
+# ----- 反射神経 -----
+127.0.0.1 doubledodgers.com # 2つの対象を同時操作する回避系
+# ----- アリーナアクション -----
+127.0.0.1 www.stumbleguys.com # 大人数バトルアクション（公式サイト）
+127.0.0.1 play.treasurearena.com # 見下ろし型アリーナ（宝物争奪）
+# ----- その他アクション -----
+127.0.0.1 www.playkeepout.com # アクション/ダンジョン系?（要確認）
+127.0.0.1 samuraimadness.com # 侍アクション?（要確認）
+127.0.0.1 zombie.alexmassy.com # ゾンビ系ミニゲーム?（要確認）
+127.0.0.1 summer-afternoon.vlucendo.com # 短編インタラクティブ?（要確認）
+
+# ==========================
+# 16. スポーツ
+# ==========================
+# ----- その他スポーツ -----
+127.0.0.1 microgolf.triplefun.com # ミニゴルフ（TripleFun）
+127.0.0.1 www.neuronball.com # AI自動試合サッカー（観戦/チーム運用）
+
+# ==========================
+# 17. レース/ドライブ/カー/バイク
+# ==========================
+# ----- エンドレスドライブ -----
+127.0.0.1 playslope.io # エンドレスダウンヒル走行
+# ----- アーケードレース -----
+127.0.0.1 www.madalin-cars-multiplayer.com # 3Dカーレース/フリードライブ
+127.0.0.1 therace.montblanclegend.com # プロモ用レース体験（Montblanc）
+127.0.0.1 hexgl.bkcore.com # WebGLレースデモ（HexGL）
+
+# ==========================
+# 18. FPS/TPS/ギャラリーシューター/エイムトレーナー
+# ==========================
+# ----- FPS -----
+127.0.0.1 warmerise.com # ブラウザFPS
+127.0.0.1 superhotgame.com # SUPERHOT（公式サイト/体験案内）
+127.0.0.1 narrow.one # 一人称アーチェリーPvP
+127.0.0.1 play-cs.com # CS 1.6系ブラウザ移植
+# ----- TPS -----
+127.0.0.1 1v1.lol # 建築要素ありのTPSアリーナ
+# ----- ギャラリーシューター -----
+127.0.0.1 www.gunblood.com # 西部早撃ち系ギャラリー
+# ----- エイムトレーナー -----
+127.0.0.1 app.3daimtrainer.com # 3Dエイム練習
+127.0.0.1 aimtrainer.io # エイムトレーナー
+127.0.0.1 aiming.pro # エイム計測/トレーニング
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+# ----- 細胞 -----
+127.0.0.1 eatcells.com # 細胞吸収系io
+# ----- メレーPvP -----
+127.0.0.1 gobattle.io # 2DメレーPvP
+127.0.0.1 skillfite.io # 近接/アクションPvP io
+# ----- 宇宙PvP -----
+127.0.0.1 warin.space # 宇宙io（PvP）
+127.0.0.1 torn.space # 宇宙io（PvP）
+# ----- 航空PvP -----
+127.0.0.1 airmash.online # 航空ドッグファイトio
+# ----- シューティングPvP -----
+127.0.0.1 topdownbattleground.com # 見下ろし型PvPシューティング
+# ----- その他 -----
+127.0.0.1 orbs.it # ioアリーナ/収集系?（要確認）
+127.0.0.1 kiomet.com # io系?（要確認）
+127.0.0.1 wars.fm # io/陣取り?（要確認）
+127.0.0.1 bandit.rip # io PvP?（要確認）
+
+# ==========================
+# 20. 戦略／ストラテジー
+# ==========================
+# ----- RTS(リアルタイム) -----
+127.0.0.1 littlewargame.com # HTML5 RTS
+127.0.0.1 play.conkis.com # ブラウザRTS（要確認）
+# ----- タワーディフェンス -----
+127.0.0.1 pvz.ee # 植物 vs ゾンビ系（TD）
+# ----- その他 -----
+127.0.0.1 www.konkr.io # ストラテジー（要確認）
+127.0.0.1 game.bitplanets.com # 宇宙ストラテジー?（要確認）
+127.0.0.1 tza.red # 抽象/ボード由来戦略?（要確認）
+
+# ==========================
+# 21. サンドボックス
+# ==========================
+# ----- 物理シミュレーション -----
+127.0.0.1 www.linerider.com # 線を描いてソリを走らせる物理サンドボックス
+
+# ==========================
+# 23. リズム/演奏
+# ==========================
+# ----- 演奏 -----
+127.0.0.1 bemuse.ninja # キーボード演奏型リズムゲーム
+# ----- その他 -----
+127.0.0.1 threltemania.xyz # 音ゲー/デモ?（要確認）
+
+# ==========================
+# 24. 長期プレイゲーム
+# ==========================
+# ----- その他 -----
+127.0.0.1 cookieclicker.ee # 放置/インクリメンタル
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- パックマン -----
+127.0.0.1 pacman.live # パックマン系
+# ----- 恐竜ゲーム -----
+127.0.0.1 chromedino.com # Chrome恐竜ランナー
+127.0.0.1 chromedino.io # Chrome恐竜ランナー（派生）
+# ----- ボンバーマン -----
+127.0.0.1 gameofbombs.com # ボンバーマン風MMO
+# ----- フラッピーバード -----
+127.0.0.1 flappybird.ee # フラッピーバード系
+# ----- 2048 -----
+127.0.0.1 2048.ee # 2048系
+# ----- マリオ(非公式) -----
+127.0.0.1 supermario.ee # マリオ系（非公式）
+# ----- Pong -----
+127.0.0.1 ponggame.io # Pong
+# ----- 恐竜ゲーム/補足済 -----
+# （重複なしのため省略）
+# ----- ドゥードゥルジャンプ ----- (提案)
+127.0.0.1 doodlejump.io # 縦スクロールジャンプ（Doodle Jump系）
+
+# ==========================
+# 26. クラシックリロード/エミュレーター／アーカイブ
+# ==========================
+# ----- 公式リロード／移植 -----
+127.0.0.1 classic.minecraft.net # Minecraft Classic（公式再配信）
+# ----- 非公式エミュレーター -----
+127.0.0.1 www.retrogames.ee # レトロゲームのWebエミュ集
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+# ----- ギャンブル -----
+127.0.0.1 blaze.com # オンラインカジノ（要年齢制限）
+127.0.0.1 sven-bet.com # オンラインカジノ/スポーツブック
+127.0.0.1 www.vegasworld.com # ソーシャルカジノ
+# ----- その他 -----
+127.0.0.1 play.m3o.xyz # ブラウザゲーム/体験?（要確認）
+127.0.0.1 www.sakura-ent.net # エンタメ/ゲーム関連?（要確認）
+127.0.0.1 driplife.net # ブラウザ体験?（要確認）
+127.0.0.1 equinox.space # ブラウザ体験/不明（要確認）
+127.0.0.1 coastalworld.com # 仮想空間/メタバース?（要確認）
+127.0.0.1 sougen.co # ブラウザ体験/不明（要確認）
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+# ----- その他 -----
+127.0.0.1 app.kosmi.io # パーティルーム/同時視聴＋軽量ゲーム（準ゲーム系）
+
+
+
+
+
+
+
+
+
+
+# ==========================
+# 3. HTML5系特定スタジオ／ブランド系 (自社ブランドの作品だけ)
+# ==========================
+# ----- 多言語対応 -----
+# --- FRVR ---
+127.0.0.1 frvr.com # FRVRポータル(本体)
+127.0.0.1 seatrader.frvr.com # FRVRゲーム(Seatrader)
+127.0.0.1 sort.frvr.com # FRVRゲーム(Sort)
+127.0.0.1 greed.frvr.com # FRVRゲーム(Greed)
+127.0.0.1 splat.frvr.com # FRVRゲーム(Splat)
+127.0.0.1 octa.frvr.com # FRVRゲーム(Octa)
+127.0.0.1 monster.frvr.com # FRVRゲーム(Monster)
+127.0.0.1 wordtower.frvr.com # FRVRゲーム(Word Tower)
+127.0.0.1 driver.frvr.com # FRVRゲーム(Driver)
+127.0.0.1 foodtycoon.frvr.com # FRVRゲーム(Food Tycoon)
+127.0.0.1 fishmerge.frvr.com # FRVRゲーム(Fish Merge)
+127.0.0.1 donut.frvr.com # FRVRゲーム(Donut)
+127.0.0.1 combine.frvr.com # FRVRゲーム(Combine)
+127.0.0.1 planetminer.frvr.com # FRVRゲーム(Planet Miner)
+127.0.0.1 golfgardens.frvr.com # FRVRゲーム(Golf Gardens)
+127.0.0.1 pinball.frvr.com # FRVRゲーム(Pinball)
+127.0.0.1 fieldgoal.frvr.com # FRVRゲーム(Field Goal)
+127.0.0.1 kittenforce.frvr.com # FRVRゲーム(Kitten Force)
+127.0.0.1 bowmania.frvr.com # FRVRゲーム(Bow Mania)
+127.0.0.1 unblock.frvr.com # FRVRゲーム(Unblock)
+127.0.0.1 slash.frvr.com # FRVRゲーム(Slash)
+127.0.0.1 streak.frvr.com # FRVRゲーム(Streak)
+127.0.0.1 curling.frvr.com # FRVRゲーム(Curling)
+127.0.0.1 connect.frvr.com # FRVRゲーム(Connect)
+127.0.0.1 stackthree.frvr.com # FRVRゲーム(Stack Three)
+127.0.0.1 goldmahjong.frvr.com # FRVRゲーム(Gold Mahjong)
+127.0.0.1 lines.frvr.com # FRVRゲーム(Lines)
+127.0.0.1 cave.frvr.com # FRVRゲーム(Cave)
+127.0.0.1 remove.frvr.com # FRVRゲーム(Remove)
+127.0.0.1 spacebreaker.frvr.com # FRVRゲーム(Space Breaker)
+127.0.0.1 trim.frvr.com # FRVRゲーム(Trim)
+127.0.0.1 bubbleshooter.frvr.com # FRVRゲーム(Bubble Shooter)
+127.0.0.1 nonogram.frvr.com # FRVRゲーム(Nonogram)
+127.0.0.1 spider.frvr.com # FRVRゲーム(Spider Solitaire)
+127.0.0.1 jewels.frvr.com # FRVRゲーム(Jewels)
+127.0.0.1 football.frvr.com # FRVRゲーム(Football)
+127.0.0.1 klondike.frvr.com # FRVRゲーム(Klondike Solitaire)
+127.0.0.1 kickup.frvr.com # FRVRゲーム(Kick Up)
+127.0.0.1 trigon.frvr.com # FRVRゲーム(Trigon)
+127.0.0.1 harpoon.frvr.com # FRVRゲーム(Harpoon)
+127.0.0.1 balloon.frvr.com # FRVRゲーム(Balloon)
+127.0.0.1 goldtrain.frvr.com # FRVRゲーム(Gold Train)
+127.0.0.1 roadtrip.frvr.com # FRVRゲーム(Road Trip)
+127.0.0.1 golddigger.frvr.com # FRVRゲーム(Gold Digger)
+127.0.0.1 dragrace.frvr.com # FRVRゲーム(Drag Race)
+127.0.0.1 cricket.frvr.com # FRVRゲーム(Cricket)
+127.0.0.1 darts.frvr.com # FRVRゲーム(Darts)
+127.0.0.1 mahjong.frvr.com # FRVRゲーム(Mahjong)
+127.0.0.1 hex.frvr.com # FRVRゲーム(Hex)
+127.0.0.1 basketball.frvr.com # FRVRゲーム(Basketball)
+127.0.0.1 fruitmasher.frvr.com # FRVRゲーム(Fruit Masher)
+127.0.0.1 puttrush.frvr.com # FRVRゲーム(Putt Rush)
+127.0.0.1 solitaire.frvr.com # FRVRゲーム(Solitaire)
+127.0.0.1 soccer.frvr.com # FRVRゲーム(Soccer)
+127.0.0.1 frosty.frvr.com # FRVRゲーム(Frosty)
+127.0.0.1 rockhop.frvr.com # FRVRゲーム(Rock Hop)
+127.0.0.1 ski.frvr.com # FRVRゲーム(Ski)
+127.0.0.1 boing.frvr.com # FRVRゲーム(Boing)
+127.0.0.1 poolrush.frvr.com # FRVRゲーム(Pool Rush)
+127.0.0.1 bowlingo.frvr.com # FRVRゲーム(Bowlingo)
+127.0.0.1 diamondrush.frvr.com # FRVRゲーム(Diamond Rush)
+127.0.0.1 bumpercar.frvr.com # FRVRゲーム(Bumper Car)
+127.0.0.1 mergeballs.frvr.com # FRVRゲーム(Merge Balls)
+127.0.0.1 ballcrash.frvr.com # FRVRゲーム(Ball Crash)
+127.0.0.1 wallyjump.frvr.com # FRVRゲーム(Wally Jump)
+127.0.0.1 worlds.frvr.com # FRVRゲーム(Worlds)
+127.0.0.1 pegball.frvr.com # FRVRゲーム(Peg Ball)
+127.0.0.1 herospacerun.frvr.com # FRVRゲーム(Hero Space Run)
+127.0.0.1 dominoes.frvr.com # FRVRゲーム(Dominoes)
+
+# --- Tap2Play ---
+127.0.0.1 tap2play.io # Tap2Playポータル(本体)
+127.0.0.1 egd.tap2play.io # 個別ゲーム(egd)
+127.0.0.1 ninja.tap2play.io # 個別ゲーム(ninja)
+127.0.0.1 glitch.tap2play.io # 個別ゲーム(glitch)
+127.0.0.1 incident.tap2play.io # 個別ゲーム(incident)
+127.0.0.1 pewpew.tap2play.io # 個別ゲーム(pewpew)
+127.0.0.1 beacons.tap2play.io # 個別ゲーム(beacons)
+127.0.0.1 blb.tap2play.io # 個別ゲーム(blb)
+127.0.0.1 everyone.tap2play.io # 個別ゲーム(everyone)
+127.0.0.1 bounce.tap2play.io # 個別ゲーム(bounce)
+127.0.0.1 sk8.tap2play.io # 個別ゲーム(sk8)
+127.0.0.1 fruit.tap2play.io # 個別ゲーム(fruit)
+127.0.0.1 taxidrift.tap2play.io # 個別ゲーム(taxidrift)
+127.0.0.1 snake.tap2play.io # 個別ゲーム(snake)
+127.0.0.1 rooftops.tap2play.io # 個別ゲーム(rooftops)
+127.0.0.1 ski.tap2play.io # 個別ゲーム(ski)
+127.0.0.1 polygon.tap2play.io # 個別ゲーム(polygon)
+127.0.0.1 dodger.tap2play.io # 個別ゲーム(dodger)
+127.0.0.1 sufi.tap2play.io # 個別ゲーム(sufi)
+127.0.0.1 infiltration.tap2play.io # 個別ゲーム(infiltration)
+127.0.0.1 gates.tap2play.io # 個別ゲーム(gates)
+127.0.0.1 haunted.tap2play.io # 個別ゲーム(haunted)
+127.0.0.1 miami.tap2play.io # 個別ゲーム(miami)
+127.0.0.1 radiation.tap2play.io # 個別ゲーム(radiation)
+127.0.0.1 fast.tap2play.io # 個別ゲーム(fast)
+127.0.0.1 warsim.tap2play.io # 個別ゲーム(warsim)
+127.0.0.1 carjump.tap2play.io # 個別ゲーム(carjump)
+127.0.0.1 volcano.tap2play.io # 個別ゲーム(volcano)
+127.0.0.1 geometry.tap2play.io # 個別ゲーム(geometry)
+127.0.0.1 px.tap2play.io # 個別ゲーム(px)
+127.0.0.1 taxi.tap2play.io # 個別ゲーム(taxi)
+127.0.0.1 zombie.tap2play.io # 個別ゲーム(zombie)
+127.0.0.1 space.tap2play.io # 個別ゲーム(space)
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# < チェス >
+127.0.0.1 www.chesswai.com # チェス(オンライン対局/練習)
+
+# < 数独 >
+127.0.0.1 sudokugame.ee # 数独(EE版)
+
+# < Wordle >
+127.0.0.1 playwordle.io # Wordle系(プレイ)
+127.0.0.1 freewordle.org # Wordle系(無料版)
+
+# < マインスイーパー >
+127.0.0.1 minestryger.com # マインスイーパー(デンマーク語)
+127.0.0.1 minesweeper-online.de # マインスイーパー(ドイツ語)
+127.0.0.1 minesweeper-pro.com # マインスイーパー(英語/Pro)
+127.0.0.1 buscaminas-pro.com # マインスイーパー(スペイン語/Pro)
+127.0.0.1 mijnenveger.eu # マインスイーパー(オランダ語)
+127.0.0.1 minesveiper.com # マインスイーパー(ノルウェー語)
+127.0.0.1 xn--dmineur-bya.eu # マインスイーパー(フランス語)
+127.0.0.1 xn--ecka6dzerczgtc.com # マインスイーパー(日本語)
+
+# < ソリティア >
+127.0.0.1 solitair.ee # ソリティア(EE版)
+127.0.0.1 kabale.net # ソリティア(デンマーク語)
+127.0.0.1 solitaires-online.com # ソリティア(英語)
+127.0.0.1 solitario-verde.com # ソリティア(イタリア語/Verde)
+127.0.0.1 solitarios-online.com # ソリティア(スペイン語)
+127.0.0.1 patience-spelen.com # ソリティア(オランダ語)
+127.0.0.1 xn--solitr-online-ffb.eu # ソリティア(ドイツ語/ウムラウト)
+
+# < 麻雀 >
+127.0.0.1 freemahjong.io # 麻雀パズル(英語/Free)
+127.0.0.1 spil-mahjong.com # 麻雀パズル(多言語)
+127.0.0.1 mahjong-spiel.eu # 麻雀パズル(ドイツ語)
+127.0.0.1 mahjong-pro.com # 麻雀パズル(英語/Pro)
+127.0.0.1 mahjong-solitario.com # 麻雀パズル(スペイン語)
+127.0.0.1 solitaire-jeu.eu # 麻雀/ソリティア(フランス語)
+127.0.0.1 jeu-mahjong.com # 麻雀パズル(フランス語)
+127.0.0.1 campo-minato.com # 麻雀/パズル(伊語) ※名称は地雷原の意
+127.0.0.1 gioco-mahjong.com # 麻雀パズル(イタリア語)
+127.0.0.1 mahjong-spelen.eu # 麻雀パズル(オランダ語)
+127.0.0.1 mahjong-spill.com # 麻雀パズル(ノルウェー語)
+
+# ==========================
+# 14. アクション
+# ==========================
+# < 奥スクロール回避 >
+127.0.0.1 tunnelrush.app # 一人称トンネル回避
+127.0.0.1 run3.pro # ラン系(奥行き/プラットフォーマー)
+127.0.0.1 templerun.ee # ラン系(Temple Run系)
+
+# < ラグドール >
+127.0.0.1 happywheels.app # ラグドール物理アクション
+
+# ==========================
+# 17. レース/ドライブ/カー/バイク
+# ==========================
+# < バイクスタント >
+127.0.0.1 motox3m.pro # バイクスタント
+
+# ==========================
+# 20. 戦略／ストラテジー 
+# ==========================
+# < その他 >
+127.0.0.1 aow.ee # 略称AOWのブラウザゲーム(詳細未確認)
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# < インベーダー >
+127.0.0.1 invaders.ee # クラシック: スペースインベーダー系
+
+# < ギャラガ >
+127.0.0.1 galaga.ee # クラシック: ギャラガ系
+
+# < アステロイド >
+127.0.0.1 asteroids.ee # クラシック: アステロイド系
+
+# < フロッガー >
+127.0.0.1 frogger.ee # クラシック: フロッガー系
+
+# < Q*bert >
+127.0.0.1 qbert.ee # クラシック: Q*bert系
+
+# < Jetpac >
+127.0.0.1 jetpac.ee # クラシック: Jetpac系
+
+# < パックマン >
+127.0.0.1 freepacman.org # クラシック: パックマン系
+
+# < フラッピーバード >
+127.0.0.1 freeflappybird.org # クラシック: フラッピーバード系
+
+# < スネーク >
+127.0.0.1 snak.ee # クラシック: スネーク系
+
+# < ソニック >
+127.0.0.1 sonic.ee # クラシック: ソニック(非公式)
+
+# < ドンキーコング(非公式) >
+127.0.0.1 kong.ee # クラシック: ドンキーコング系(非公式)
+
+
+
+
+
+
+
+
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+
+# ----- カード/ボード/パズル総合 -----
+# --- 365系 ---
+# - ソリティア -
+127.0.0.1 www.solitaire365.com #英語: ソリティア集(365系)
+# - 麻雀 -
+127.0.0.1 www.mahjongonline365.com #英語: 麻雀ソリティア(365系)
+# - ワードサーチ -
+127.0.0.1 www.wordsearch365.com #英語: ワードサーチ(365系)
+# - ジグソー -
+127.0.0.1 www.jigsaw365.com #英語: ジグソーパズル(365系)
+# - バブルシューター -
+127.0.0.1 www.bubbleshooter365.com #英語: バブルシューター(365系)
+
+# ----- ソリティア -----
+# --- TheSolitaire ---
+- 本体 -
+127.0.0.1 thesolitaire.com #英語: クラシックソリティア
+- ローカライズ -
+127.0.0.1 de.thesolitaire.com #ドイツ語版
+127.0.0.1 es.thesolitaire.com #スペイン語版
+127.0.0.1 pt.thesolitaire.com #ポルトガル語版
+127.0.0.1 da.thesolitaire.com #デンマーク語版
+127.0.0.1 fr.thesolitaire.com #フランス語版
+127.0.0.1 ru.thesolitaire.com #ロシア語版
+127.0.0.1 id.thesolitaire.com #インドネシア語版
+127.0.0.1 it.thesolitaire.com #イタリア語版
+127.0.0.1 nl.thesolitaire.com #オランダ語版
+127.0.0.1 pl.thesolitaire.com #ポーランド語版
+127.0.0.1 sv.thesolitaire.com #スウェーデン語版
+127.0.0.1 tr.thesolitaire.com #トルコ語版
+127.0.0.1 vi.thesolitaire.com #ベトナム語版
+
+127.0.0.1 gra-pasjans.pl #ポーランド語: ソリティア
+127.0.0.1 xn--pacincia-n1a.eu #ポルトガル語: ソリティア(paciência)
+127.0.0.1 solitaire-jocuri.com #ルーマニア語: ソリティア集
+127.0.0.1 patiens.eu #中東欧: ソリティア(パシヤンス)
+127.0.0.1 pasianssi-pelit.com #フィンランド語: ソリティア集
+127.0.0.1 xn--80a0aejb8dva.com #ロシア語: パシャンス(ソリティア)
+127.0.0.1 xn--cckb1fqbxm.net #日本語: ソリティア.net
+
+# ----- 麻雀 -----
+127.0.0.1 gra-mahjong.pl #ポーランド語: 麻雀ソリティア
+127.0.0.1 mahjong-jogo.com #ポルトガル語: 麻雀
+127.0.0.1 mahjong-joc.com #ルーマニア語: 麻雀
+127.0.0.1 mahjong-peli.com #フィンランド語: 麻雀
+127.0.0.1 mahjong-spel.com #スウェーデン語: 麻雀
+127.0.0.1 themahjong.com #英語: 麻雀ソリティア
+127.0.0.1 xn--80agci1ajg.net #ロシア語: マージャン(маджонг)
+127.0.0.1 xn--fhqz97e6j2aqxg.com #中国語圏: 上海麻雀.com
+
+# ----- マインスイーパー -----
+127.0.0.1 saper-pro.pl #ポーランド語: マインスイーパー(サパー)
+127.0.0.1 campo-minado.com #ポルトガル語: マインスイーパー
+127.0.0.1 minesweeper-joc.com #ルーマニア語: マインスイーパー
+127.0.0.1 miinaharava.eu #フィンランド語: マインスイーパー
+127.0.0.1 xn--rj-fka.com #スウェーデン語: Röj(マインスイーパー)
+127.0.0.1 xn--80a4adb6f.com #ロシア語: サペール(マインスイーパー)
+127.0.0.1 mines.zone #英語: マインスイーパー
+
+# ----- ジグソー -----
+127.0.0.1 thejigsawpuzzles.com #英語: 定番ジグソーパズル
+
+# ----- 数独 -----
+127.0.0.1 thesudoku.com #英語: 数独
+127.0.0.1 www.sudokuonline.io #英語: 数独オンライン
+
+# ----- 囲碁 -----
+127.0.0.1 weiqi.zone #英語/中国語: 囲碁(Weiqi)
+
+# ----- オセロ -----
+127.0.0.1 reversi.zone #英語: リバーシ/オセロ
+
+# ----- 麻雀 -----
+127.0.0.1 mahjong.zone #英語: 麻雀(mahjong.zone)【追加】
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+
+# ----- 共食い・吸収 -----
+127.0.0.1 www.creatur.io #Creatur.io: 進化型吸収PvP
+127.0.0.1 tricksplit.io #Agar系: 分裂/吸収
+127.0.0.1 brutal.io #フレイル吸収アリーナ
+127.0.0.1 digdig.io #掘削成長系.io
+127.0.0.1 florr.io #花びら進化PvP
+127.0.0.1 agma.io #Agar系クローン
+
+# ----- 動物系 -----
+127.0.0.1 mope.io #動物進化サバイバル
+127.0.0.1 ferals.io #野生動物PvP
+127.0.0.1 mousewars.io #ネズミ系PvP
+127.0.0.1 dogod.io #犬系PvP
+
+# ----- 陣取り系io -----
+127.0.0.1 takepoint.io #陣取りシューター
+127.0.0.1 suprem.io #陣取り系(詳細不明)
+
+# ----- ioスネーク -----
+127.0.0.1 megaspin.io #スピナー/スネーク系
+127.0.0.1 zomm.io #スネーク系(詳細不明)
+
+# ----- クラフト／資源PvP -----
+# --- Zombs ---
+- クラフト／資源PvP -
+127.0.0.1 zombs.io #クラフト&拠点防衛
+# --- 単独 ---
+127.0.0.1 moomoo.io #資源採集クラフトPvP
+127.0.0.1 starve.io #サバイバルクラフト
+127.0.0.1 cavegame.io #採掘/建築系
+127.0.0.1 sploop.io #moomoo系派生
+127.0.0.1 taming.io #相棒育成クラフト
+127.0.0.1 dynast.io #文明/サバイバル系
+127.0.0.1 doomed2.io #長期サバイバル
+127.0.0.1 mine-craft.io #Minecraft風ブラウザ
+127.0.0.1 nend.io #生活/サバイバル
+127.0.0.1 monarchies.io #コロニー運営系(蜂/群れ)
+
+# ----- タンクPvP -----
+127.0.0.1 diep.io #タンク進化シューター
+127.0.0.1 tankwars.io #タンク対戦
+127.0.0.1 warbot.io #ロボ/タンク系
+
+# ----- シューティングPvP -----
+127.0.0.1 gunzer.io #ガンアリーナ
+127.0.0.1 gunwars.io #チームシューター
+127.0.0.1 shotwars.io #トップダウン対戦
+127.0.0.1 snipey.io #スナイパー系
+127.0.0.1 fightz.io #遠隔/魔法系対戦
+127.0.0.1 socketshot.io #ioシューター
+127.0.0.1 gats.io #クラス制シューター
+127.0.0.1 karnage.io #アリーナシューター
+127.0.0.1 boxz.io #乗物/工作シューター
+127.0.0.1 minefighters.club #2Dシューター
+127.0.0.1 dinogenonline.com #Top-downシューター
+127.0.0.1 robostorm.io #ロボ対戦シューター
+127.0.0.1 minestrike.fun #ブロック系FPS風
+127.0.0.1 www.mageclash.io #魔法対戦シューター
+
+# ----- 海上PvP -----
+# --- Deeeep.io ---
+127.0.0.1 deeeep.io #海洋生物サバイバル
+127.0.0.1 beta.deeeep.io #Deeeep.io ベータ
+# --- Stabfish ---
+127.0.0.1 stabfish.io #海中メレーPvP
+127.0.0.1 stabfish2.io #Stabfish 2
+# --- 単独 ---
+127.0.0.1 oceanar.io #魚群PvP
+127.0.0.1 fishz.io #魚系PvP
+127.0.0.1 seaguys.io #海上PvP(詳細不明)
+127.0.0.1 raftroyale.io #いかだ系バトロワ
+127.0.0.1 gallons.io #液体/海域系(詳細不明)
+
+
+
+# ----- クラフト／資源PvP -----
+127.0.0.1 devast.io #サバイバル/クラフトPvP【追加】
+127.0.0.1 crazysteve.io #サバイバル/収集PvP【追加】
+
+# ----- 海上PvP -----
+127.0.0.1 raaaaft.io #いかだ系サバイバル/対戦【追加】
+
+# ----- 航空PvP -----
+127.0.0.1 wings.io #航空機アリーナ
+127.0.0.1 copter.io #ヘリ/航空シューター
+127.0.0.1 vnav.io #航空系(詳細不明)
+
+# ----- 宇宙PvP -----
+127.0.0.1 blastz.io #宇宙アリーナ
+127.0.0.1 spaceblast.io #宇宙シューター
+127.0.0.1 starblast.io #宇宙対戦
+127.0.0.1 www.darknova.io #宇宙MMO風PvP
+
+# ----- バトロワPvP -----
+# --- Zombs ---
+- バトロワPvP -
+127.0.0.1 zombsroyale.io #2Dバトロワ
+# --- Surviv ---
+127.0.0.1 surviv.io #2Dバトロワ
+127.0.0.1 surviv2.io #Surviv ミラー/続編
+# --- 単独 ---
+127.0.0.1 buildroyale.io #建築系バトロワ
+127.0.0.1 mineroyale.io #採掘系バトロワ
+127.0.0.1 bruh.io #2Dバトロワ
+127.0.0.1 battlegrounds2d.io #2Dバトロワ総合
+127.0.0.1 www.thelast.io #ファンタジーバトロワ
+127.0.0.1 lastmagestanding.com #魔法系バトロワ
+
+# ----- メレーPvP -----
+# --- EvoWars ---
+127.0.0.1 evowars.io #進化型メレーPvP
+- ゲームディストリビューション -
+127.0.0.1 y8.evowars.io #Y8配下のミラー
+# --- Yohoho ---
+127.0.0.1 yohoho.io #海賊系メレー/バトロワ
+- ゲームディストリビューション -
+127.0.0.1 yohoho-io.space #Yohoho ミラー
+# --- 単独 ---
+127.0.0.1 brutalmania.io #アリーナ格闘
+127.0.0.1 minigiants.io #巨人系メレー
+127.0.0.1 swordz.io #剣戟アリーナ
+127.0.0.1 throwz.io #投擲武器アリーナ
+127.0.0.1 wilds.io #近接アリーナ
+127.0.0.1 warcall.io #近接ファンタジー
+127.0.0.1 swordbattle.io #1v1剣戟
+
+# ----- 軍団PvP -----
+127.0.0.1 lordz.io #軍団編成PvP
+127.0.0.1 wanderers.io #部族指揮PvP
+127.0.0.1 antwar.io #アリ軍団PvP
+
+# ----- 協力PvE io -----
+127.0.0.1 shootup.io #協力ゾンビ撃退
+127.0.0.1 junon.io #協力スペース基地運営
+127.0.0.1 evades.io #回避系Co-op
+
+# ----- その他 -----
+127.0.0.1 www.bighero.io #アーケード系(詳細不明)
+127.0.0.1 nailz.io #アーケード系(詳細不明)
+127.0.0.1 tyran.io #恐竜系(詳細不明)
+127.0.0.1 betrayal.io #ソーシャル推理系
+127.0.0.1 amogus.io #Among Us系
+127.0.0.1 foes.io #アクション対戦
+127.0.0.1 dynast.io #サバイバル寄り
+127.0.0.1 dinoman.io #恐竜系アリーナ
+127.0.0.1 pung.io #アーケード(詳細不明)
+127.0.0.1 impostor.io #Among Us系
+127.0.0.1 nightz.io #ゾンビ/夜間サバイバル
+127.0.0.1 reyd.io #アーケード(詳細不明)
+127.0.0.1 chemz.io #化学/アーケード(詳細不明)
+127.0.0.1 koxo.io #アーケード(詳細不明)
+127.0.0.1 avoids.io #避けゲー.io
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+
+# ----- スネーク -----
+127.0.0.1 snake.onl #スネーク
+127.0.0.1 snake.zone #スネーク
+
+
+
+
+
+
+
+
+# チェック結果: 提示ドメインは全件収録・重複0・未分類0（snowball-io.ioは「バトロワPvP」に統一）
+
+# ==========================
+# 18. FPS/TPS/ギャラリーシューター/エイムトレーナー
+# ==========================
+# ----- FPS -----
+# --- Venge ---
+- 本体 -
+127.0.0.1 venge.io #FPS：アリーナ系ブラウザFPS
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 assets.venge.io #Vengeアセット配信(CDN)
+- その他 -
+127.0.0.1 editor.venge.io #Venge：マップ/エディタ
+
+127.0.0.1 krunker.io #FPS：高速アリーナFPS
+127.0.0.1 ev.io #FPS：近未来アリーナFPS
+127.0.0.1 kirka.io #FPS：ローポリ系アリーナFPS
+127.0.0.1 lolshot.io #FPS：アリーナFPS
+127.0.0.1 repuls.io #FPS：アリーナFPS
+127.0.0.1 warbrokers.io #FPS：車両要素ありのアリーナFPS
+127.0.0.1 armedforces.io #FPS：ミリタリー系ブラウザFPS
+127.0.0.1 cubeshot.io #FPS：ボクセル系アリーナFPS
+127.0.0.1 voxiom.io #FPS：サンド系ブロック要素×FPS
+127.0.0.1 deadshot.io #FPS：アリーナFPS
+127.0.0.1 www.fieldsoffury.io #FPS：WWI風アリーナFPS
+127.0.0.1 sandstrike.io #FPS：タクティカル系アリーナFPS
+127.0.0.1 www.worldwar0x.io #FPS：近代戦アリーナFPS
+127.0.0.1 deadwalk.io #FPS：アリーナ/ゾンビ系FPS
+
+# ----- バトルロワイヤルFPS -----
+127.0.0.1 miniroyale.io #FPS：バトロワFPS
+
+# ----- TPS -----
+127.0.0.1 www.bulletbonanza.io #TPS：コミカル系アリーナTPS
+127.0.0.1 www.warbands.io #TPS：チームベースTPS
+
+# ----- Co-op PvPvE TPS -----
+127.0.0.1 warscrap.io #TPS：協力PvEウェーブ制
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+# ----- 共食い・吸収 -----
+127.0.0.1 chompers.io #io系：共食い・吸収
+127.0.0.1 evoworld.io #io系：進化/共食い・吸収
+127.0.0.1 erth.io #io系：スネーク/共食い・吸収
+
+# ----- 陣取り系io -----
+127.0.0.1 defly.io #io系：陣取り(ヘリ/線引き)
+
+# ----- 動物系 -----
+127.0.0.1 www.stabfish2.io #io系：動物(魚ランス刺し)
+127.0.0.1 goosegame.io #io系：動物(ガチョウ)
+127.0.0.1 ducklings.io #io系：動物(ヒナ集め)
+127.0.0.1 apes.io #io系：動物(エイプ系)
+
+# ----- クラフト／資源PvP -----
+127.0.0.1 takemine.io #io系：クラフト/資源PvP
+127.0.0.1 doomed.io #io系：クラフト/サバイバルPvP
+127.0.0.1 drednot.io #io系：クラフト/搭乗艦建造PvP
+127.0.0.1 craftz.io #io系：クラフト/建築PvP
+127.0.0.1 buildz.space #io系：建築/編集PvP
+127.0.0.1 tribals.io #io系：部族サバイバル/クラフト
+127.0.0.1 zomcraft.io #io系：ゾンビ×クラフト
+127.0.0.1 castles.cc #io系：サンドボックス建築/クラフト
+
+# ----- タンクPvP -----
+127.0.0.1 mudfield.io #io系：タンクPvP
+127.0.0.1 tanksmith.io #io系：資源収集×タンクPvP
+127.0.0.1 arras.io #io系：タンクPvP(Diep系)
+127.0.0.1 stug.io #io系：タンクPvP
+127.0.0.1 battletanks.io #io系：タンクPvP
+127.0.0.1 tinytanks.io #io系：タンクPvP
+127.0.0.1 tanx.io #io系：タンクPvP
+127.0.0.1 clanker.io #io系：タンクPvP
+127.0.0.1 tankroyale.io #io系：タンクPvP(ロワイヤル)
+127.0.0.1 blocktanks.io #io系：タンクPvP
+
+# ----- シューティングPvP -----
+127.0.0.1 shootem.io #io系：トップダウンシューティングPvP
+127.0.0.1 nightpoint.io #io系：ゾンビ×シューティングPvP
+127.0.0.1 tacticscore.io #io系：チームシューティングPvP
+127.0.0.1 combatzone.io #io系：アリーナシューターPvP
+127.0.0.1 battledudes.io #io系：トップダウンシューターPvP
+127.0.0.1 dizzytroopers.io #io系：アリーナシューターPvP
+127.0.0.1 kugeln.io #io系：2DシューターPvP
+127.0.0.1 gunbox.io #io系：2DシューターPvP
+127.0.0.1 lurkers.io #io系：ステルス風シューターPvP
+127.0.0.1 ninja.io #io系：2DシューターPvP
+127.0.0.1 stomped.io #io系：2DプラットフォームシューターPvP
+127.0.0.1 gunbomb.io #io系：シューターPvP
+127.0.0.1 extermination.io #io系：エイリアン討伐PvP
+127.0.0.1 badegg.io #io系：砲撃対戦(ワームス系)
+127.0.0.1 spellblast.io #io系：魔法弾シューターPvP
+127.0.0.1 laserz.io #io系：レーザーシューターPvP
+127.0.0.1 ferge.io #io系：アリーナシューターPvP
+127.0.0.1 slayerz.io #io系：アリーナシューターPvP
+127.0.0.1 www.obsid.io #io系：アリーナシューターPvP
+
+# ----- 海上PvP -----
+127.0.0.1 shipcraft.io #io系：海上PvP(艦船/建造)
+127.0.0.1 doblons.io #io系：海上PvP(艦船)
+127.0.0.1 battleboats.io #io系：海上PvP(砲撃)
+127.0.0.1 mk48.io #io系：海戦PvP(砲雷撃)
+127.0.0.1 krew.io #io系：船上PvP
+
+# ----- 航空PvP -----
+127.0.0.1 dogflight.io #io系：航空PvP(ドッグファイト)
+127.0.0.1 bist.io #io系：航空PvP(シューティング)
+
+# ----- 宇宙PvP -----
+# --- Daud ---
+- 本体 -
+127.0.0.1 play.daud.io #Daud：ポータル/ランチャ
+127.0.0.1 spaceone.daud.io #Daud：スペースシューター
+127.0.0.1 microgravity.io #io系：宇宙PvP(無重量)
+127.0.0.1 orbitwar.space #io系：宇宙PvP
+127.0.0.1 nullstar.io #io系：宇宙PvP
+127.0.0.1 astroe.io #io系：宇宙PvP
+127.0.0.1 astrix.io #io系：宇宙PvP
+127.0.0.1 vanar.io #io系：宇宙PvP
+127.0.0.1 kazap.io #io系：宇宙PvP
+127.0.0.1 zorelit.io #io系：宇宙PvP
+127.0.0.1 gravitygame.io #io系：宇宙/重力アリーナ
+127.0.0.1 scenexe.io #io系：宇宙PvP
+127.0.0.1 captainforever.io #io系：宇宙船ビルド系
+
+# ----- バトロワPvP -----
+127.0.0.1 suroi.io #io系：バトロワPvP
+127.0.0.1 snowball-io.io #io系：バトロワPvP(押し出し)
+127.0.0.1 nuggetroyale.io #io系：バトロワPvP(ニワトリ)
+127.0.0.1 battlepoint.io #io系：バトロワPvP
+127.0.0.1 royaledudes.io #io系：バトロワPvP
+127.0.0.1 helmetroyale.io #io系：バトロワPvP(トップダウン)
+127.0.0.1 gunbattle.io #io系：バトロワPvP(2D)
+127.0.0.1 kize.io #io系：バトロワPvP
+127.0.0.1 krunt.io #io系：バトロワPvP
+127.0.0.1 flaproyale.io #io系：フラッピー系バトロワ
+127.0.0.1 www.bulletleague.io #io系：2Dバトロワ
+127.0.0.1 royalesurvival.io #io系：バトロワPvP
+
+# ----- メレーPvP -----
+127.0.0.1 www.zlap.io #io系：メレーPvP(フレイル)
+127.0.0.1 www.swordbattle.io #io系：メレーPvP(剣)
+127.0.0.1 acolytefight.io #io系：メレーPvP(魔法近接)
+127.0.0.1 stickbattle.lol #io系：メレーPvP(スティックマン)
+127.0.0.1 dragonjoust.io #io系：メレーPvP(馬上槍/ドラゴン)
+
+# ----- 軍団PvP -----
+127.0.0.1 lordz2.io #io系：軍団PvP(拠点/兵士)
+127.0.0.1 castlesiege.io #io系：攻城/軍団PvP
+127.0.0.1 mightandmonsters.com #io系：軍団PvP/ファンタジー
+
+# ----- 協力PvE io -----
+127.0.0.1 nightwalkers.io #io系：協力PvE(ゾンビ)
+127.0.0.1 braains2.io #io系：感染ルール/協力PvE
+
+# ----- アリーナPvP(その他) -----
+127.0.0.1 battleclub.io #io系：アリーナPvP
+127.0.0.1 www.crushtime.io #io系：アリーナPvP
+127.0.0.1 crazybattle.fun #io系：アリーナPvP
+127.0.0.1 trapz.io #io系：アリーナPvP(トラップ)
+127.0.0.1 jumpar.io #io系：アリーナPvP(ジャンプ)
+127.0.0.1 bonk.io #io系：物理アリーナPvP
+127.0.0.1 ragez.io #io系：アリーナPvP
+127.0.0.1 bombers-io.com #io系：ボンバーマン風アリーナ
+127.0.0.1 bomby.io #io系：ボンバーマン風アリーナ
+127.0.0.1 www.supertanks.io #io系：タンクアリーナ(ブランドサイト)
+
+# ----- その他 -----
+127.0.0.1 cocky.io #io系：その他
+127.0.0.1 poopoo.pro #io系：その他
+127.0.0.1 schoolbreak.io #io系：学園/カジュアル
+127.0.0.1 lier.io #io系：ソーシャル推理
+127.0.0.1 gigga.io #io系：その他
+127.0.0.1 gulch.io #io系：その他
+127.0.0.1 botbattles.io #io系：AIボット対戦
+127.0.0.1 bunk.town #io系：コミュニティ/その他
+127.0.0.1 herodungeon.io #io系：ダンジョン系アクション
+127.0.0.1 alpha.monstercity.io #io系：その他
+127.0.0.1 bopz.io #io系：その他
+127.0.0.1 vw.tap2play.io #io系：その他(配信サブドメイン)
+127.0.0.1 gatdamn.io #io系：その他
+127.0.0.1 amogus.fun #io系：ソーシャル推理(Among風)
+127.0.0.1 triep.io #io系：その他
+127.0.0.1 eparkour.io #io系：パルクール系
+127.0.0.1 jamir.io #io系：その他
+
+# ==========================
+# 21. サンドボックス
+# ==========================
+# ----- クラフト／建築 -----
+127.0.0.1 morterra.com #サンドボックス：サバイバル/クラフト
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- モノポリー -----
+127.0.0.1 minipoly.io #ボード：モノポリー風
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- フラッピーバード -----
+127.0.0.1 flappybird.io #クラシック：フラッピーバード系
+
+# ==========================
+# 13. クイズ/脱出/ネタ系/パロディ/お絵描き
+# ==========================
+# ----- ネタ系 -----
+127.0.0.1 2020game.io #ネタ/パロディ：2020年風刺ゲーム
+
+# ==========================
+# 24. 長期プレイゲーム
+# ==========================
+# ----- コレクション／育成 -----
+127.0.0.1 petz.lol #育成：シンプルペット
+
+
+
+
+
+
+
+
+
+
+# ==========================
+# 18. FPS/TPS/ギャラリーシューター/エイムトレーナー
+# ==========================
+# ----- FPS -----
+127.0.0.1 cryzen.io # ブラウザFPS
+127.0.0.1 www.cryzen.io # ブラウザFPS
+127.0.0.1 kour.io # ブラウザFPS
+127.0.0.1 overtide.io # ブラウザFPS
+127.0.0.1 poxel.io # ブラウザFPS
+127.0.0.1 ferge2.io # ブラウザFPS
+127.0.0.1 cobraz.io # ブラウザFPS
+
+# --- Shell Shockers ---
+127.0.0.1 shellshock.io # 卵FPS 本体
+127.0.0.1 shellsocks.com # 公式アクセスポータル
+127.0.0.1 scrambled.world # 公式ミラー
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 geometry.monster # 学校向け偽装ミラー
+127.0.0.1 geometry.report # 学校向け偽装ミラー
+127.0.0.1 geometry.pw # 学校向け偽装ミラー
+127.0.0.1 humanorganising.org # 学校向け偽装ミラー
+127.0.0.1 algebra.vip # 学校向け偽装ミラー
+127.0.0.1 eggboy.club # 学校向け偽装ミラー
+127.0.0.1 mathdrills.info # 学校向け偽装ミラー
+127.0.0.1 mathdrills.life # 学校向け偽装ミラー
+127.0.0.1 mathlete.fun # 学校向け偽装ミラー
+127.0.0.1 mathactivity.xyz # 学校向け偽装ミラー
+127.0.0.1 mathactivity.club # 学校向け偽装ミラー
+127.0.0.1 mathlete.pro # 学校向け偽装ミラー
+127.0.0.1 biologyclass.club # 学校向け偽装ミラー
+127.0.0.1 yolk.life # 学校向け偽装ミラー
+127.0.0.1 yolk.rocks # 学校向け偽装ミラー
+127.0.0.1 yolk.quest # 学校向け偽装ミラー
+127.0.0.1 violentegg.club # 学校向け偽装ミラー
+127.0.0.1 violentegg.fun # 学校向け偽装ミラー
+127.0.0.1 math.international # 学校向け偽装ミラー
+127.0.0.1 eggcombat.com # 学校向け偽装ミラー
+127.0.0.1 eggsarecool.com # 学校向け偽装ミラー
+127.0.0.1 urbanegger.com # 学校向け偽装ミラー
+
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+# ----- 共食い・吸収 -----
+127.0.0.1 agar.io # 共食い・吸収(agar系)
+127.0.0.1 www.agar.io # 共食い・吸収(agar系)
+127.0.0.1 agar.rs # 共食い・吸収(agar系)
+127.0.0.1 vanis.io # 共食い・吸収(agar系)
+127.0.0.1 gota.io # 共食い・吸収(agar系)
+127.0.0.1 dogargame.io # 共食い・吸収(agar系)
+127.0.0.1 loomen.io # 共食い・吸収(agar系)
+127.0.0.1 cellcraft.io # 共食い・吸収(agar系)
+127.0.0.1 piaf.io # 共食い・吸収(agar系)
+127.0.0.1 germs.io # 共食い・吸収(agar系)
+127.0.0.1 zorb.io # 共食い・吸収(3D球体)
+127.0.0.1 orbz.io # 共食い・吸収
+127.0.0.1 www.orbs.it # 共食い・吸収(ローカライズ)
+127.0.0.1 aquar.io # 共食い・吸収(海洋系)
+127.0.0.1 senpa.io # 共食い・吸収(agar系)
+127.0.0.1 blobber.io # 共食い・吸収
+
+# ----- ioスネーク -----
+127.0.0.1 snake.io # ioスネーク
+127.0.0.1 slither.io # ioスネーク
+127.0.0.1 littlebigsnake.com # ioスネーク
+127.0.0.1 worms.lol # ioスネーク
+127.0.0.1 www.worms.zone # ioスネーク
+127.0.0.1 wormax.io # ioスネーク
+127.0.0.1 wormate.io # ioスネーク
+127.0.0.1 wormo.io # ioスネーク
+127.0.0.1 limax.io # ioスネーク
+127.0.0.1 seadragons.io # ioスネーク(水中)
+127.0.0.1 inkysnakes.io # ioスネーク
+127.0.0.1 snakeblock.io # ioスネーク
+127.0.0.1 gulper.io # ioスネーク
+127.0.0.1 powerline.io # ライトトレイル系(スネーク派生)
+127.0.0.1 cyclewars.io # ライトトレイル系(スネーク派生)
+127.0.0.1 curvefever.pro # ライトトレイル系(スネーク派生)
+127.0.0.1 slithercraft.io # ioスネーク(クラフト要素)
+127.0.0.1 digworm.io # ioスネーク
+
+# ----- 陣取り系io -----
+127.0.0.1 paper-io.com # 陣取り(紙系)
+127.0.0.1 splix.io # 陣取り(紙系)
+127.0.0.1 tileman.io # 陣取り(紙系)
+127.0.0.1 www.hexar.io # 陣取り(ヘックス)
+127.0.0.1 superhex.io # 陣取り(ヘックス)
+127.0.0.1 hexanaut.io # 陣取り(ヘックス)
+127.0.0.1 hexarena.io # 陣取り(ヘックス)
+127.0.0.1 spacepaper.io # 陣取り(紙系)
+127.0.0.1 paperanimals.io # 陣取り(紙系)
+127.0.0.1 paper3d.io # 陣取り(紙/3D)
+127.0.0.1 conquergame.net # 陣取り
+127.0.0.1 bellum.io # 陣取り/拡大戦略
+127.0.0.1 www.bellum.io # 陣取り/拡大戦略
+127.0.0.1 territorial.io # 陣取り/拡大戦略
+127.0.0.1 generals.io # 陣取り/戦略
+127.0.0.1 battlefields.io # 陣取り/戦略
+
+# ----- スポーツio -----
+127.0.0.1 footix.io # サッカーio
+127.0.0.1 www.bumpyball.io # サッカーio
+127.0.0.1 nitroclash.io # サッカーio
+127.0.0.1 teamball.io # サッカーio
+127.0.0.1 soccer-io.com # サッカーio
+127.0.0.1 www.pucks.io # ホッケーio
+127.0.0.1 brawlball.io # ボールアリーナio
+127.0.0.1 basketbros.io # バスケットボールio
+127.0.0.1 stolk.io # エアホッケーio
+127.0.0.1 minipool.io # ビリヤードio
+127.0.0.1 minigolfclub.io # ミニゴルフio
+127.0.0.1 golfroyale.io # ミニゴルフio
+127.0.0.1 golfparty.io # ミニゴルフio
+127.0.0.1 fishington.io # 釣りio
+
+# ----- メレーPvP -----
+127.0.0.1 sumo-io.com # 相撲アリーナPvP
+127.0.0.1 bumper-io.com # 体当たりアリーナPvP
+127.0.0.1 penguins-io.com # 体当たりアリーナPvP
+127.0.0.1 carfight.io # 車両アリーナPvP
+127.0.0.1 wrestlebros.io # レスリングPvP
+127.0.0.1 narwhale.io # 槍突きPvP
+
+# ----- シューティングPvP -----
+127.0.0.1 bowroyale.io # 弓アリーナPvP
+
+# ----- 海上PvP -----
+127.0.0.1 sharkz.io # 海上PvP(サメ系)
+127.0.0.1 happysharks.io # 海上PvP(サメ系)
+
+# ----- 群衆/収集系io ----- (提案)
+127.0.0.1 crowdcity.io # 群衆収集io
+127.0.0.1 crowdcity-io.com # 群衆収集io
+127.0.0.1 crowdedcity.io # 群衆収集io
+127.0.0.1 crowdsteve.fun # 群衆収集io(派生)
+127.0.0.1 hole-io.com # 収集io(ブラックホール)
+127.0.0.1 blackhole-io.com # 収集io(ブラックホール)
+127.0.0.1 yumy.io # 収集io
+
+# ----- タワーディフェンスio ----- (提案)
+127.0.0.1 yorg.io # タワーディフェンスio
+127.0.0.1 yorg3.io # タワーディフェンスio
+
+# ----- その他 -----
+127.0.0.1 astrorace.io # 宇宙レース系io
+127.0.0.1 flyufo.io # 宇宙系io
+127.0.0.1 covirus.io # テーマ系io
+127.0.0.1 oib.io # 軍団PvP
+127.0.0.1 paceman.io # パック系io
+127.0.0.1 goblinwar.io # PvP/戦闘io
+127.0.0.1 hibee.io # 汎用io
+127.0.0.1 erigato.space # 汎用io
+127.0.0.1 hurricane-io.com # 竜巻io
+127.0.0.1 playrps.win # じゃんけんio
+127.0.0.1 cosmoc.io # 汎用io
+
+
+# ==========================
+# 17. レース/ドライブ/カー/バイク
+# ==========================
+# ----- ドライブシム -----
+127.0.0.1 slowroads.io # ドライブシミュレータ
+
+# ----- アーケードレース -----
+127.0.0.1 funrace.io # アーケードレース
+127.0.0.1 dashcraft.io # コース作成/アーケードレース
+127.0.0.1 drift.io # ドリフト/アーケードレース
+127.0.0.1 cararena.io # 車両アリーナレース
+127.0.0.1 aquapark.io # ウォータースライドレース
+127.0.0.1 boardrun.io # ランレース
+127.0.0.1 rollem.io # ボールレース
+
+# ----- カートレース -----
+127.0.0.1 smashkarts.io # カートバトル
+
+# ----- SFレース -----
+127.0.0.1 astrorace.io # SFレース
+
+
+# ==========================
+# 21. サンドボックス
+# ==========================
+# ----- クラフト／建築 -----
+127.0.0.1 craftnite.io # ブロック系サンドボックス
+127.0.0.1 www.craftnite.io # ブロック系サンドボックス
+127.0.0.1 vectaria.io # ブロック系サンドボックス
+127.0.0.1 bloxd.io # ブロック系サンドボックス
+127.0.0.1 miniblox.io # ブロック系サンドボックス
+127.0.0.1 cuberealm.io # ブロック系サンドボックス
+
+
+# ==========================
+# 22. ホラー/ジャンプスケア
+# ==========================
+# ----- 心理ホラー／探索ホラー -----
+127.0.0.1 backroomsgame.io # Backrooms系ホラー
+
+
+# ==========================
+# 23. リズム/演奏
+# ==========================
+# ----- リズムアクション -----
+127.0.0.1 lolbeans.io # 障害物アクション(レース寄り)
+127.0.0.1 astrodud.io # 障害物アクション
+127.0.0.1 farmrun.io # 障害物アクション
+127.0.0.1 fallerz.io # 障害物アクション
+
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- テトリス -----
+127.0.0.1 tetrads.io # テトリス系
+
+
+
+
+
+
+
+
+
+
+# ==========================
+# 11. 教育/脳トレ(認知/記憶/注意)/タイピング/ガールズ/その他子供向け
+# ==========================
+# ----- 脳トレ -----
+127.0.0.1 memori.fun # 記憶力トレーニング系ミニゲーム
+127.0.0.1 threesjs.io # Threes系ナンバーパズル(脳トレ)
+127.0.0.1 jumbled.io # 文字並べ替え(脳トレ)
+# ----- タイピング -----
+127.0.0.1 typenconquer.io # タイピング対戦/練習
+# ----- クイズ -----
+127.0.0.1 quizhub.io # 総合クイズ
+127.0.0.1 cityquiz.io # 都市当てクイズ/地理
+127.0.0.1 lostgamer.io # ストリートビュー位置当てクイズ
+127.0.0.1 songtrivia2.io # 楽曲当てクイズ
+127.0.0.1 www.geoguessr.com # 位置当てクイズ(教育寄り)
+# --- Prodigy ---
+127.0.0.1 sso.prodigygame.com # 学習ゲーム向けSSO(教育)
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- ボード総合 -----
+127.0.0.1 colonist.io # ボードゲーム(カタン風)
+127.0.0.1 codenames.game # ボードゲーム「コードネーム」
+# ----- チェス -----
+127.0.0.1 xess.io # チェス/チェス系
+# --- Chess Arena ---
+127.0.0.1 adventure.chessarena.io # チェス系モード/サーバ
+# ----- カード総合 -----
+127.0.0.1 pounce.sh # Pounce/Nerts系カード(推定)
+127.0.0.1 www.remi51.rs # Rummy系カード(ラミー)
+127.0.0.1 bela.fun # トリックテイキング「Bela」
+# ----- Wordle -----
+127.0.0.1 foodlewordle.io # Wordle派生(単語)
+127.0.0.1 crosswordle.com # Wordle派生(クロスワード)
+127.0.0.1 dordle.io # Wordle派生(二語同時)
+# ----- ジグソー -----
+127.0.0.1 jigsawz.io # ジグソーパズル
+# ----- 物理演算パズル -----
+127.0.0.1 bombhopper.io # 物理/爆発跳躍パズル
+127.0.0.1 droppytower.lol # ブロック積み上げ物理パズル
+# ----- その他パズル -----
+127.0.0.1 triset.io # 三角タイル系パズル
+127.0.0.1 cubox.io # 立方体パズル/倉庫系(推定)
+127.0.0.1 www.monkeyhappy.com # クリック系パズル「Monkey GO Happy」
+# ----- テトリス -----
+# --- TETR.IO ---
+127.0.0.1 tetr.io # テトリス系対戦
+127.0.0.1 tetrio.io # テトリス系対戦(ミラー/別入口)
+127.0.0.1 hextris.io # Hex系テトリス
+# ----- ブロック崩し -----
+127.0.0.1 tetranoid.io # ブロック崩し/Arkanoid系
+
+# ==========================
+# 13. クイズ/脱出/ネタ系/パロディ/お絵描き
+# ==========================
+# ----- お絵描き -----
+127.0.0.1 sketch.io # お絵描きツール/エディタ
+127.0.0.1 gartic.io # お絵描き当てゲーム
+127.0.0.1 skribbl.io # お絵描き当てゲーム
+127.0.0.1 drawar.io # お絵描き当てゲーム
+127.0.0.1 drawandguess.io # お絵描き当てゲーム
+127.0.0.1 drawaria.online # お絵描き当てゲーム
+127.0.0.1 schedios.io # お絵描き系(推定)
+127.0.0.1 doodlr.io # お絵描き系(推定)
+127.0.0.1 sketchful.io # お絵描き当て(部屋作成)
+127.0.0.1 www.guessing.io # お絵描き/推測系(推定)
+# ----- パロディ/模倣作 -----
+127.0.0.1 amongusplay.online # Among Us系(非公式/模倣)
+
+# ==========================
+# 14. アクション
+# ==========================
+# ----- 横スクロールアクション -----
+127.0.0.1 run3.io # ラン&ジャンプ/プラットフォーマー
+# ----- 縦スクロール上昇 -----
+127.0.0.1 uprunner.io # 縦スクロール上昇ランナー(推定)
+# ----- その他アクション -----
+127.0.0.1 office-io.online # オフィス経営/アクション(推定)
+
+# ==========================
+# 17. レース/ドライブ/カー/バイク
+# ==========================
+# ----- アーケードレース -----
+127.0.0.1 game.clashofcars.io # カーレース/対戦
+127.0.0.1 paperracer.com # 2Dトラック/コミュニティ作成系(レース)
+
+# ==========================
+# 18. FPS/TPS/ギャラリーシューター/エイムトレーナー
+# ==========================
+# ----- FPS -----
+127.0.0.1 enlisted.net # 第二次大戦分隊FPS
+# ----- アリーナシューターTPS -----
+127.0.0.1 slay.one # 見下ろし型アリーナシューティング
+# ----- その他 -----
+127.0.0.1 funshot.lol # シューティング/エイム系(推定)
+
+# ==========================
+# 19. 2Dio系(共食い・吸収/ioスネーク/全方向PvP)
+# ==========================
+# ----- 共食い・吸収 -----
+127.0.0.1 bloob.io # Agar系共食い
+# ----- 陣取り系io -----
+127.0.0.1 octagor.com # 陣取り(多角形)系(推定)
+127.0.0.1 tuggowar.io # 綱引き/ライン支配(推定)
+127.0.0.1 hexbois.com # 六角形陣取り(推定)
+# ----- シューティングPvP -----
+127.0.0.1 spacebugs.io # 宇宙虫シューティングio(推定)
+127.0.0.1 arxarcana.io # 魔法弾幕対戦io(推定)
+# ----- 海上PvP -----
+127.0.0.1 shipnt.io # 海戦/艦船io(推定)
+# ----- その他 -----
+127.0.0.1 witz.io # io系マルチ(推定)
+127.0.0.1 summoners.io # io系マルチ(召喚/推定)
+127.0.0.1 areena.io # アリーナ系io(推定)
+127.0.0.1 cursors2.io # マルチカーソルio
+127.0.0.1 2077.io # io系マルチ(推定)
+
+# ==========================
+# 20. 戦略／ストラテジー
+# ==========================
+# ----- カードストラテジー -----
+127.0.0.1 dominion.games # デッキ構築カード(ドミニオン公式)
+# ----- RTS(リアルタイム) -----
+127.0.0.1 www.combatsiege.com # RTS/TD寄り(推定)
+127.0.0.1 www.planetcapture.io # 陣取りRTS(推定)
+
+# ==========================
+# 21. サンドボックス
+# ==========================
+# ----- クラフト／建築 -----
+127.0.0.1 shapez.io # 工場自動化/配線設計サンドボックス
+127.0.0.1 voxar.io # ボクセル建築/共有ワールド
+
+# ==========================
+# 23. リズム/演奏
+# ==========================
+# ----- リズムアクション -----
+127.0.0.1 www.gpop.io # リズム/音ゲー(譜面共有系)
+
+# ==========================
+# 24. 長期プレイゲーム
+# ==========================
+# ----- MMO -----
+127.0.0.1 hordes.io # MMO(ブラウザ)
+127.0.0.1 stein.world # 2D MMORPG
+127.0.0.1 www.starstable.com # 馬育成/オンラインMMO
+127.0.0.1 www.wizard101.com # 魔法学校MMORPG
+127.0.0.1 www.fallenlondon.com # 物語重視オンラインRPG
+127.0.0.1 mwogame.com # オンラインRPG/MMO(推定)
+127.0.0.1 talesofyore.com # レトロ風MMORPG
+# --- Shakes & Fidget ---
+127.0.0.1 www.sfgame.jp # ブラウザRPG(日本語)
+127.0.0.1 w45.sfgame.net # ブラウザRPG(サーバ/ワールド)
+# ----- RPG -----
+127.0.0.1 lostrelics.io # ARPG/収集(長期)
+127.0.0.1 www.herozerogame.com # コメディRPG(長期)
+127.0.0.1 www.drakensang.com # Hack&Slash系RPG(長期)
+# ----- TCG -----
+127.0.0.1 game.era7.io # Web3系TCG(長期)
+# ----- 生活シム (農場／街づくり／ペット) -----
+127.0.0.1 taongafarm.com # 南国農場シム(長期)
+127.0.0.1 www.farmerama.com # 農場シム(長期)
+127.0.0.1 www.animalworldgame.io # 動物園/ペット系シム(推定・長期)
+# --- Goodgame Studios ---
+# - ビッグファーム -
+127.0.0.1 bigfarm.com # 農場シム(ブランド本体)
+127.0.0.1 bigfarm-html5.goodgamestudios.com # ビッグファーム(HTML5版)
+127.0.0.1 lp.bigfarm.goodgamestudios.com # ビッグファームLP/誘導
+# - グッドゲームエンパイア -
+127.0.0.1 empire-html5.goodgamestudios.com # 中世戦略シム(HTML5版)
+# ----- 戦略シム (国家運営／歴史／4X寄り) -----
+# --- InnoGames ---
+127.0.0.1 om.forgeofempires.com # Forge of Empires(サーバ)
+127.0.0.1 elvenar.com # Elvenar(街づくり)
+127.0.0.1 riseofcultures.com # Rise of Cultures(文明シム)
+# --- Bytro ---
+127.0.0.1 www.callofwar.com # 第二次大戦・国家戦略
+127.0.0.1 www.ironorder1919.com # 機甲代替史戦略
+# --- Conflict Nations ---
+127.0.0.1 www.conflictnations.com # 現代国家戦略(長期)
+127.0.0.1 tentlan.com # 古代文明戦略(長期)
+127.0.0.1 battleforthegalaxy.com # SF基地運営/戦略(長期)
+127.0.0.1 www.playromans.com # ローマ都市/戦略(長期)
+127.0.0.1 myprofitland.com # 経済/国家運営(長期)
+127.0.0.1 utopia-game.com # 王国運営テキストMUD(長期)
+127.0.0.1 prosperousuniverse.com # 宇宙経済シム(長期)
+# ----- ソーシャル／コミュニティ -----
+127.0.0.1 play.bithotel.io # ソーシャルホテル/収集(長期)
+# ----- コレクション／育成 -----
+127.0.0.1 www.familiars.io # クリーチャー収集/育成
+127.0.0.1 zed.run # デジタル競走馬/育成(長期)
+# ----- FPS/TPS(長期系) -----
+# --- Gaijin ---
+127.0.0.1 warthunder.com # 兵器対戦(長期/継続運用)
+# ----- MOBA/対戦(長期系) -----
+127.0.0.1 www.smitegame.com # MOBA(長期運用)
+# ----- アカウント/老舗長期 -----
+# --- Jagex ---
+127.0.0.1 secure.runescape.com # RuneScape(公式ログイン)
+
+# ==========================
+# 25. クラシックアーケード/Egg系
+# ==========================
+# ----- フラッピーバード -----
+127.0.0.1 flappyroyale.io # Flappy Bird系バトロワ
+# ----- テトリス -----
+# (※ テトリス系は 12>テトリス に集約済)
+# ----- ブロック崩し -----
+# (※ ブロック崩しは 12>ブロック崩し に集約済)
+# ----- オマージュ／模倣作 -----
+# (※ Among Us系は 13>パロディ に分類)
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+# ----- 専業パブリッシャー／配信ネットワーク -----
+127.0.0.1 gtarcade.com # Gtarcade(配信/ポータル)
+127.0.0.1 www.arcgames.com # Arc Games(配信/ランチャー)
+127.0.0.1 eu.4game.com # 4game(配信/ランチャー)
+127.0.0.1 espritgames.com # EspritGames(配信/ポータル)
+127.0.0.1 www.gamehollywood.com # GameHollywood(配信/ポータル)
+127.0.0.1 www.desura.games # ゲーム配信/ディストリ(要確認)
+
+# ==========================
+# 1. HTML5系大型ポータル／アグリゲータ (自社スタジオと外部のスタジオの作品)
+# ==========================
+# ----- 日本語圏向け ----- (提案)
+127.0.0.1 game-ac.com # ゲーム紹介/ポータル(要確認)
+127.0.0.1 game16.net # ゲームポータル(要確認)
+127.0.0.1 tps.game-tansaku.net # TPS特化/紹介(要確認)
+127.0.0.1 hitoikigame.com # ゲーム紹介/リンク集(要確認)
+# ----- 英語圏向け -----
+127.0.0.1 1games.io # HTML5ゲームポータル
+
+# ==========================
+# 27. ギャンブル/その他/第三者CDN・汎用ネットワーク
+# ==========================
+# ----- その他 -----
+127.0.0.1 draw-io.online # 図表作成(業務ツール/非ゲーム)
+127.0.0.1 litemint.io # Web3ゲーム/マーケット(その他)
+127.0.0.1 gamedatum.com # ゲーム関連サービス(要確認)
+127.0.0.1 happy0316.top # ゲーム関連(要確認)
+127.0.0.1 www.starfish.games # ゲーム開発/配信(要確認)
+
+# ==========================
+# 12. カード/ボード/パズル
+# ==========================
+# ----- ボード総合 -----
+127.0.0.1 richup.io # すごろく/モノポリー系ボード
+
+# ----- マッチ3 -----
+127.0.0.1 sugarshock.io # マッチ3パズル
+127.0.0.1 www.sugarshock.io # マッチ3パズル(WWW)
+
+# ==========================
+# 14. アクション
+# ==========================
+# ----- その他アクション -----
+127.0.0.1 mazmorra.io # ダンジョンアクションio(推定)
+
+# ==========================
+# 24. 長期プレイゲーム
+# ==========================
+# ----- ソーシャル／コミュニティ -----
+127.0.0.1 www.blankmediagames.com # 人狼系ソーシャル(Town of Salem)
+
+# ----- コレクション／育成 -----
+127.0.0.1 www.hero-wars.com # ヒーロー収集RPG(長期)
+
+# ----- スポーツ運営/マネージャ ----- (提案)
+127.0.0.1 s1.biathlonmania.com # バイアスロン運営(サーバ)
+127.0.0.1 s2.racingduel.com # レース運営/マネージャ(サーバ)
+
+# ==========================
+# 5. 専業パブリッシャー／配信ネットワーク
+# ==========================
+127.0.0.1 strike.ngames.com # NGames配信(Strike)
