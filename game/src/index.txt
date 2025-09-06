@@ -3,98 +3,118 @@
 # ==========================
 
 # ----- 広告配信／ゲームディストリビューション -----
+
 # --- Ecaps Games ---
 - 本体 -
 127.0.0.1 ecapsgames.com # ホワイトラベル配信用/パブリッシャー
 
-# ----- 広告配信／ゲームディストリビューション -----
 # --- GamePix ---
+- 本体 -
+127.0.0.1 gamepix.com # 配信SDK/パブリッシャー
 - ゲームディストリビューション -
 127.0.0.1 www.gamepix.com # HTML5配信ネットワーク/SaaS
+127.0.0.1 play.gamepix.com # 埋め込み配信/ランチャー
 
-# ----- 広告配信／ゲームディストリビューション -----
-# --- GamePix ---
+# --- GameDistribution (azerion系) ---
 - 本体 -
-127.0.0.1 gamepix.com #配信SDK/パブリッシャー
-# - ゲームディストリビューション -
-127.0.0.1 play.gamepix.com #埋め込み配信/ランチャー
-
-# ----- 広告配信／ゲームディストリビューション -----
-# --- GameDistribution (Azerion系) ---
-- 本体 -
-127.0.0.1 gamedistribution.com #配信ネットワーク/SDK
-127.0.0.1 sg.gamedistribution.com #リージョン配信
-127.0.0.1 html5.gamedistribution.com #HTML5配信
+127.0.0.1 gamedistribution.com # 配信ネットワーク/SDK
+- ゲームディストリビューション -
+127.0.0.1 sg.gamedistribution.com # リージョン配信
+127.0.0.1 html5.gamedistribution.com # HTML5配信
 
 # --- GameMonetize ---
-- 本体/配信 ---
-127.0.0.1 gamemonetize.com #配信ネットワーク
-127.0.0.1 io.gamemonetize.com #io系配信
-127.0.0.1 html5.gamemonetize.co #HTML5配信
-127.0.0.1 html5.distributegames.com #HTML5配信(別ドメイン)
-127.0.0.1 play.gamemonetize.com #埋め込みプレイヤー
-127.0.0.1 play.gamemonetize.co #埋め込みプレイヤー
+- 本体/配信 -
+127.0.0.1 gamemonetize.com # 配信ネットワーク
+- ゲームディストリビューション -
+127.0.0.1 io.gamemonetize.com # io系配信
+127.0.0.1 html5.gamemonetize.co # HTML5配信
+127.0.0.1 html5.distributegames.com # HTML5配信(別ドメイン)
+127.0.0.1 play.gamemonetize.com # 埋め込みプレイヤー
+127.0.0.1 play.gamemonetize.co # 埋め込みプレイヤー
 
 # --- Kongregate ---
 - ゲームディストリビューション -
-127.0.0.1 game259142.konggames.com #Kongregate埋め込み用ゲームホスト
-127.0.0.1 game316268.konggames.com #Kongregate埋め込み用ゲームホスト
-127.0.0.1 game300161.konggames.com #Kongregate埋め込み用ゲームホスト
+127.0.0.1 game259142.konggames.com # Kongregate埋め込み用ゲームホスト
+127.0.0.1 game316268.konggames.com # Kongregate埋め込み用ゲームホスト
+127.0.0.1 game300161.konggames.com # Kongregate埋め込み用ゲームホスト
 
 # --- Armor Games ---
 - ゲームディストリビューション -
-127.0.0.1 18909.cache.armorgames.com #ArmorGames配信キャッシュ
-127.0.0.1 19296.cache.armorgames.com #ArmorGames配信キャッシュ
-
-# ----- 専用ランチャー／クライアント系 -----
-# --- Vigoo ---
-- 本体/配布 -
-127.0.0.1 www.vigoo.com #ダウンロード配布/ランチャー系
-127.0.0.1 download.vigoo.com #ダウンロード配布
-127.0.0.1 download-cdn21.vigoo.com #配布CDN
-127.0.0.1 download.vigoogames.com #配布ドメイン(関連)
+127.0.0.1 18909.cache.armorgames.com # ArmorGames配信キャッシュ
+127.0.0.1 19296.cache.armorgames.com # ArmorGames配信キャッシュ
 
 # --- GameDistribution365 ---
 - ゲームディストリビューション -
-127.0.0.1 gamedistribution365.com #配信ネットワーク
+127.0.0.1 gamedistribution365.com # 配信ネットワーク
 
 # --- GameZop ---
 - ゲームディストリビューション -
-127.0.0.1 www.gamezop.com #配信ネットワーク/SDK
+127.0.0.1 www.gamezop.com # 配信ネットワーク/SDK
 
 # --- GameArter ---
 - ゲームディストリビューション -
-127.0.0.1 gamearter.com #配信/ログイン基盤
-127.0.0.1 www.gamearter.com #配信/ログイン基盤(WWW)
+127.0.0.1 gamearter.com # 配信/ログイン基盤
+127.0.0.1 www.gamearter.com # 配信/ログイン基盤(WWW)
 
 # --- AnyManager ---
 - ゲームディストリビューション -
-127.0.0.1 game.anymanager.io #埋め込み配信ホスト
+127.0.0.1 game.anymanager.io # 埋め込み配信ホスト
 
 # --- Engineering.com Games ---
 - ゲームディストリビューション -
-127.0.0.1 games.engineering.com #自社メディア内ゲーム配信
+127.0.0.1 games.engineering.com # 自社メディア内ゲーム配信
 
 # --- GetGames ---
-127.0.0.1 www.getgames.io #配信/ポータル
+- 本体 -
+127.0.0.1 www.getgames.io # 配信/ポータル
 
 # --- Arkadium ---
 - キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 arenacloud.cdn.arkadiumhosted.com #ゲーム配信CDN
-128.0.0.1 ams.cdn.arkadiumhosted.com #ゲーム配信CDN(AMS)
+127.0.0.1 arenacloud.cdn.arkadiumhosted.com # ゲーム配信CDN
+128.0.0.1 ams.cdn.arkadiumhosted.com # ゲーム配信CDN(AMS)
+# (提案) 上記はhostsの標準と異なる 128.0.0.1 指定。127.0.0.1 へ統一するか要判断。
 
 # --- EpochBase ---
 - ゲームディストリビューション -
-127.0.0.1 game.epochbase.com #埋め込み配信ホスト
+127.0.0.1 game.epochbase.com # 埋め込み配信ホスト
 
-# ----- 専業パブリッシャー／配信ネットワーク -----
-127.0.0.1 gtarcade.com # Gtarcade(配信/ポータル)
-127.0.0.1 www.arcgames.com # Arc Games(配信/ランチャー)
-127.0.0.1 eu.4game.com # 4game(配信/ランチャー)
-127.0.0.1 espritgames.com # EspritGames(配信/ポータル)
-127.0.0.1 www.gamehollywood.com # GameHollywood(配信/ポータル)
+
+# ----- 専用ランチャー／クライアント系 ----- (提案)
+# --- Vigoo ---
+- 本体/配布 -
+127.0.0.1 www.vigoo.com # ダウンロード配布/ランチャー系
+127.0.0.1 download.vigoo.com # ダウンロード配布
+127.0.0.1 download-cdn21.vigoo.com # 配布CDN
+127.0.0.1 download.vigoogames.com # 配布ドメイン(関連)
+
+
+# ----- パブリッシャー -----
+# --- Gtarcade ---
+- 本体 -
+127.0.0.1 gtarcade.com # 配信/ポータル
+
+# --- Arc Games ---
+- 本体 -
+127.0.0.1 www.arcgames.com # 配信/ランチャー
+
+# --- 4game ---
+- 本体 -
+127.0.0.1 eu.4game.com # 配信/ランチャー
+
+# --- EspritGames ---
+- 本体 -
+127.0.0.1 espritgames.com # 配信/ポータル
+
+# --- GameHollywood ---
+- 本体 -
+127.0.0.1 www.gamehollywood.com # 配信/ポータル
+
+# --- Desura ---
+- 本体 -
 127.0.0.1 www.desura.games # ゲーム配信/ディストリ(要確認)
 
+# --- NGames ---
+- ゲームディストリビューション -
 127.0.0.1 strike.ngames.com # NGames配信(Strike)
 
 # ==========================
@@ -305,44 +325,6 @@
 - ゲームディストリビューション -
 127.0.0.1 h5.8kz.com # H5配信入口
 
-# ==========================
-# 5. 旧Flash由来アグリゲータ (自社スタジオを持たないゲームまとめ)
-# ==========================
-
-# ----- 多言語対応 -----
-# --- Friv ---
-- 本体 -
-127.0.0.1 www.friv.com # 旧Flash由来ポータル/本体
-127.0.0.1 friv.guru # Friv系ポータル
-127.0.0.1 friv.gifts # Friv系ポータル
-127.0.0.1 frivez.com # Friv系ミラー
-- キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 www.cdnfriv.com # Friv配信CDN
-
-# ==========================
-# 6. 旧Flash由来大型ポータル (自社スタジオと外部のスタジオの作品)
-# ==========================
-
-# ----- 多言語対応 -----
-# --- Y8/ID.net ---
-- 本体 -
-127.0.0.1 y8.com # HTML5/アーカイブ系大型ポータル/本体
-127.0.0.1 ja.y8.com # ローカライズ(日本語)
-- キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 cdn.y8.com # アセット配信
-127.0.0.1 media2.y8.com # メディア配信
-127.0.0.1 storage.y8.com # ストレージ/配信
-127.0.0.1 storage-cf.y8.com # ストレージ(CF経由)
-127.0.0.1 storage.id.net # ID.netストレージ/配信
-
-# --- 4399 ---
-- ローカライズ -
-127.0.0.1 szhong.4399.com # 中国系大型ポータル内サブ領域
-
-# ==========================
-# 2. アグリゲータ (自社スタジオを持たないゲームまとめ、旧Flash由来は除く)
-# ==========================
-
 # ----- 多言語対応 -----
 # --- Gaamess ---
 - 本体 -
@@ -367,137 +349,6 @@
 127.0.0.1 ua.onlygames.io # ウクライナ語版
 - キャッシュ／ブランド独自のCDNミラ -
 127.0.0.1 cloud.onlinegames.io # アセット配信用(ミラー/クラウド)
-
-# ==========================
-# 5. 旧Flash由来アグリゲータ (自社スタジオを持たないゲームまとめ)
-# ==========================
-
-# ----- 多言語対応 -----
-# --- Friv非公式クローン ---
-- 本体 -
-127.0.0.1 www.friv10.com #Friv系総合ポータル(英語圏)
-127.0.0.1 www.friv22.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv77.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv99.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv200.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv1000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv1999.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv2000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv2008.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2009.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2010.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2011.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2012.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2013.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2014.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2015.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2016.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2017.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2018.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2019.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2020.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2021.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2022.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2023.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv2024.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv3000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv6000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv10000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv20000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv40000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv50000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv100000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv1000000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv10000000.com #Friv系ミラー/番号バリアント
-127.0.0.1 www.friv360.games #Friv系ミラー/新gTLD(.games)
-127.0.0.1 friv23.com #Friv系ミラー/番号バリアント
-127.0.0.1 friv2024.com #Friv系ミラー/年号バリアント
-127.0.0.1 www.friv-1.com #Friv系ミラー/ハイフン系
-127.0.0.1 www.friv-7.com #Friv系ミラー/ハイフン系
-127.0.0.1 www.friv-123.com #Friv系ミラー/ハイフン系
-127.0.0.1 www.friv-2017.com #Friv系ミラー/年号+ハイフン
-127.0.0.1 www.friv-2018.com #Friv系ミラー/年号+ハイフン
-127.0.0.1 www.friv-2020.com #Friv系ミラー/年号+ハイフン
-127.0.0.1 www.friv-2021.com #Friv系ミラー/年号+ハイフン
-127.0.0.1 www.friv-3000.com #Friv系ミラー/番号+ハイフン
-127.0.0.1 www.friv12com.com #Friv系ミラー/文字列バリアント
-127.0.0.1 www.friv2019com.com #Friv系ミラー/文字列バリアント
-127.0.0.1 www.friv-com.com #Friv系ミラー/ハイフン+com表記
-127.0.0.1 friv-2018.net #Friv系ミラー(gTLD .net)
-127.0.0.1 www.friv1000.net #Friv系ミラー(gTLD .net)
-127.0.0.1 www.friv9.org #Friv系ミラー(gTLD .org)
-127.0.0.1 www.friv20.org #Friv系ミラー(gTLD .org)
-127.0.0.1 www.friv5000.org #Friv系ミラー(gTLD .org)
-127.0.0.1 www.friv90000.org #Friv系ミラー(gTLD .org)
-127.0.0.1 www.friv50000.net #Friv系ミラー(gTLD .net)
-127.0.0.1 www.friv2016.info #Friv系ミラー(gTLD .info)
-127.0.0.1 www.friv2019.info #Friv系ミラー(gTLD .info)
-127.0.0.1 www.friv2020.info #Friv系ミラー(gTLD .info)
-127.0.0.1 www.friv2017.io #Friv系ミラー(gTLD .io)
-127.0.0.1 friv2019.games #Friv系ミラー(gTLD .games)
-127.0.0.1 friv2020.games #Friv系ミラー(gTLD .games)
-127.0.0.1 friv2021.games #Friv系ミラー(gTLD .games)
-127.0.0.1 friv2022.games #Friv系ミラー(gTLD .games)
-127.0.0.1 www.friv-2019.games #Friv系ミラー(gTLD .games)
-127.0.0.1 www.friv-2020.games #Friv系ミラー(gTLD .games)
-127.0.0.1 www.friv2online.com #Friv系派生(オンライン)
-127.0.0.1 www.friv5online.com #Friv系派生(オンライン)
-127.0.0.1 www.friv4school2017.com #Friv系派生(学校向け/2017)
-127.0.0.1 friv4.win #Friv系派生(gTLD .win)
-127.0.0.1 friv5.me #Friv系派生(gTLD .me)
-127.0.0.1 friv10play.net #Friv系派生(Play表記)
-127.0.0.1 friv10games.club #Friv系派生(gTLD .club)
-127.0.0.1 friv.land #Friv系派生(gTLD .land)
-127.0.0.1 www.friv.vip #Friv系派生(gTLD .vip)
-127.0.0.1 www.friv.lol #Friv系派生(gTLD .lol)
-127.0.0.1 www.friv.uno #Friv系派生(gTLD .uno)
-127.0.0.1 www.friv.cloud #Friv系派生(gTLD .cloud)
-127.0.0.1 frive.net #Friv系派生/綴り違い
-127.0.0.1 frivgames4u.com #Friv系派生(4u)
-127.0.0.1 www.frivantigo.com #Friv系派生(Antigo表記)
-127.0.0.1 www.frivoldmenu.com #Friv系派生(旧メニュー系)
-127.0.0.1 www.frivls.com #Friv系派生(LS表記)
-127.0.0.1 www.frivoriginal.com #Friv系派生(Original表記)
-127.0.0.1 frivwtf.com #Friv系派生(WTF表記)
-127.0.0.1 friv2.racing #Friv系派生(gTLD .racing)
-127.0.0.1 www.friv4school.io #Friv系派生(学校向け/回避用)
-127.0.0.1 www.gryfriv.info #Friv系派生(ポーランド語)
-127.0.0.1 www.gryfriv5.com #Friv系派生(ポーランド語/5)
-127.0.0.1 frivcomfriv.com #Friv系派生(重ね表記)
-127.0.0.1 www.jeuxdefriv2021.net #Friv系派生(フランス語/2021)
-127.0.0.1 www.jeux-friv.com #Friv系派生(フランス語)
-127.0.0.1 www.jeuxdefriv2014.com #Friv系派生(フランス語/2014)
-127.0.0.1 www.frivjeux.com #Friv系派生(フランス語)
-127.0.0.1 www.jeuxdefriv2019.net #Friv系派生(フランス語/2019)
-127.0.0.1 www.jeuxdefriv2020.net #Friv系派生(フランス語/2020)
-127.0.0.1 www.jeuxfriv.org #Friv系派生(フランス語)
-127.0.0.1 www.jeuxdefrin.com #Friv系派生(綴り違い/フランス語)
-127.0.0.1 www.jeuxdefriv.com #Friv系派生(フランス語)
-127.0.0.1 www.jeuxdefriv2015.com #Friv系派生(フランス語/2015)
-127.0.0.1 www.jeuxdefriv2021.com #Friv系派生(フランス語/2021)
-127.0.0.1 www.jeuxdefriv250.net #Friv系派生(フランス語/数値系)
-127.0.0.1 www.friv2019plus.com #Friv系派生(Plus表記)
-127.0.0.1 www.juegofriv5.com #Friv系派生(スペイン語/5)
-127.0.0.1 www.juegosgratisfriv.com #Friv系派生(スペイン語/無料)
-127.0.0.1 www.friv-y8.net #Friv/Y8系ハイブリッド
-127.0.0.1 www.juegosfriv2com.com #Friv系派生(スペイン語/2com表記)
-- ローカライズ -
-127.0.0.1 www.friv2017.us #Friv系ローカライズ(米国)
-127.0.0.1 www.friv2020.us #Friv系ローカライズ(米国/2020)
-127.0.0.1 www.friv2019.com.br #Friv系ローカライズ(ブラジル/2019)
-127.0.0.1 www.friv.cm #Friv系ローカライズ(カメルーン)
-127.0.0.1 www.friv.ee #Friv系ローカライズ(エストニア)
-
-# --- FunnyGames ---
-- 本体 -
-127.0.0.1 www.funnygames.org #総合ゲームポータル(多言語)
-- ローカライズ -
-127.0.0.1 www.funnygames.jp #日本語版(総合)
-
-
-# ==========================
-# 2. アグリゲータ (自社スタジオを持たないゲームまとめ、旧Flash由来は除く)
-# ==========================
 
 # ----- 英語圏向け -----
 # --- CrazyGames ---
@@ -652,10 +503,6 @@
 - 本体 -
 127.0.0.1 www.rizigames.com #HTML5ポータル
 
-# ==========================
-# 2. アグリゲータ (自社スタジオを持たないゲームまとめ、旧Flash由来は除く)
-# ==========================
-
 # ----- 英語圏向け -----
 
 # --- ActionGamesHub ---
@@ -788,62 +635,6 @@
 
 # ----- 中南米(スペイン語)向け -----
 127.0.0.1 www.juegosgratis.co.ve #総合ポータル(ベネズエラ/スペイン語)
-
-
-# ==========================
-# 5. 旧Flash由来アグリゲータ (自社スタジオを持たないゲームまとめ)
-# ==========================
-
-# ----- 英語圏向け -----
-# --- FreeGames.ws ---
-- 本体 -
-127.0.0.1 freegames.ws #総合ポータル(旧来Flash由来)
-
-# ==========================
-# 3. 大型ポータル (自社スタジオと外部のスタジオの作品が共存、旧Flash由来は除く)
-# ==========================
-
-# ----- ロシア語圏向け -----
-# --- Vseigru ---
-- 本体 -
-127.0.0.1 vseigru.net #ロシア語ゲームポータル/本体
-- キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 g.vseigru.net #ゲーム配信/アセット
-- ゲームディストリビューション -
-127.0.0.1 g1.vseigru.net #ゲーム配信/埋め込み
-127.0.0.1 gamess.vseigru.net #ゲーム配信/埋め込み
-
-# --- Igroutka ---
-- 本体/ローカライズ -
-127.0.0.1 igroutka.ru #ロシア語圏ポータル/本体
-- キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 g.igroutka.ru #アセット配信
-127.0.0.1 g2.igroutka.ru #アセット配信
-- その他 -
-127.0.0.1 m.igroutka.ru #モバイル向け
-
-# （ブランドなし・単独ドメイン）
-127.0.0.1 www.multoigri.ru #ロシアの子供向けゲーム
-
-# ----- ポーランド語圏向け -----
-127.0.0.1 www.gragra.pl #総合ポータル(ポーランド語)
-127.0.0.1 gry.jeja.pl #ポーランドのゲームポータル
-
-# ----- チェコ語圏向け -----
-127.0.0.1 www.superhry.cz #チェコのゲームポータル
-
-# ----- ハンガリー語圏向け -----
-127.0.0.1 www.megajatek.hu #ハンガリー語ゲームポータル
-
-# ----- 南スラヴ語圏向け -----
-127.0.0.1 igre.games #バルカン圏ゲームポータル
-
-# ----- スロバキア語圏向け -----
-127.0.0.1 www.hrajhry.sk #スロバキア語ゲームポータル
-
-# ==========================
-# 2. アグリゲータ (自社スタジオを持たないゲームまとめ、旧Flash由来は除く)
-# ==========================
 
 # ----- 中国語圏向け -----
 # --- Bebitu ---
@@ -1038,10 +829,6 @@
 - 本体 -
 127.0.0.1 games.wkb.jp #日本語圏ミニゲーム置き場
 
-# ==========================
-# 2. アグリゲータ (自社スタジオを持たないゲームまとめ、旧Flash由来は除く)
-# ==========================
-
 # ----- 香港/華語圏向け -----
 127.0.0.1 www.freegames.hk #総合ポータル(香港)
 
@@ -1079,71 +866,46 @@
 127.0.0.1 hitoikigame.com #ゲーム紹介/リンク集(要確認)
 
 # ==========================
-# 6. 旧Flash由来大型ポータル　(提案: 元「HTML5/Flashアーカイブ併存大型ポータル／アグリゲータ」)
+# 3. 大型ポータル (自社スタジオと外部のスタジオの作品が共存、旧Flash由来は除く)
 # ==========================
 
-# ----- 多言語対応 -----
-# --- Spil Games (Agame / Gamesgames) ---
+# ----- ロシア語圏向け -----
+# --- Vseigru ---
 - 本体 -
-127.0.0.1 www.agame.com #旧Flash含む大型ポータル
-127.0.0.1 agame.com #多言語大型ポータル(Spil系)
-127.0.0.1 www.gamesgames.com #多言語大型ポータル(A10/Spil系)
+127.0.0.1 vseigru.net #ロシア語ゲームポータル/本体
 - キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 games.cdn.spilcloud.com #SpilクラウドCDN
-
-# ----- 英語圏向け -----
-# --- Armor Games ---
-- 本体 -
-127.0.0.1 armorgames.com #ポータル/Flash+HTML5
-- キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 cache.armorgames.com #アセット/旧作配信
-
-# --- Addicting Games ---
-- 本体 -
-127.0.0.1 addictinggames.com #大型ポータル
-127.0.0.1 www.addictinggames.com #大型ポータル(WWW)
-- キャッシュ／ブランド独自のCDNミラ -
-127.0.0.1 cdn2.addictinggames.com #静的アセットCDN
-
-# --- CoolGames ---
+127.0.0.1 g.vseigru.net #ゲーム配信/アセット
 - ゲームディストリビューション -
-127.0.0.1 games.coolgames.com #埋め込み配信用ゲームホスト
+127.0.0.1 g1.vseigru.net #ゲーム配信/埋め込み
+127.0.0.1 gamess.vseigru.net #ゲーム配信/埋め込み
 
-# --- GameFlare ---
-- 本体 -
-127.0.0.1 gameflare.com #ポータル
-127.0.0.1 www.gameflare.com #ポータル(WWW)
+# --- Igroutka ---
+- 本体/ローカライズ -
+127.0.0.1 igroutka.ru #ロシア語圏ポータル/本体
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 g.igroutka.ru #アセット配信
+127.0.0.1 g2.igroutka.ru #アセット配信
+- その他 -
+127.0.0.1 m.igroutka.ru #モバイル向け
 
-# --- Kongregate ---
-- 本体 -
-127.0.0.1 www.kongregate.com #旧Flash/HTML5ポータル
+# （ブランドなし・単独ドメイン）
+127.0.0.1 www.multoigri.ru #ロシアの子供向けゲーム
 
-# --- VitalityGames ---
-- 本体 -
-127.0.0.1 vitalitygames.com #ポータル(3D/ドライブ系多め)
+# ----- ポーランド語圏向け -----
+127.0.0.1 www.gragra.pl #総合ポータル(ポーランド語)
+127.0.0.1 gry.jeja.pl #ポーランドのゲームポータル
 
-# --- FunkyPotato ---
-- 本体 -
-127.0.0.1 funkypotato.com #旧Flash/HTML5ポータル
+# ----- チェコ語圏向け -----
+127.0.0.1 www.superhry.cz #チェコのゲームポータル
 
-# --- iWin ---
-- 本体 -
-127.0.0.1 iwin.com #ダウンロード/ブラウザ併存カジュアル
+# ----- ハンガリー語圏向け -----
+127.0.0.1 www.megajatek.hu #ハンガリー語ゲームポータル
 
-# --- GamesWF ---
-- 本体 -
-127.0.0.1 gameswf.com #Flash由来アーカイブ/HTML5混在
-127.0.0.1 www.gameswf.com #同上(WWW)
+# ----- 南スラヴ語圏向け -----
+127.0.0.1 igre.games #バルカン圏ゲームポータル
 
-# ----- スペイン語圏向け -----
-# --- Minijuegos ---
-- 本体 -
-127.0.0.1 minijuegos.com #スペイン語圏大型ポータル
-
-# ----- 英語圏向け -----
-# --- GamesFreak ---
-- 本体 -
-127.0.0.1 www.gamesfreak.net #旧Flash/HTML5集
+# ----- スロバキア語圏向け -----
+127.0.0.1 www.hrajhry.sk #スロバキア語ゲームポータル
 
 　# ==========================
 # 4. 特定スタジオ／ブランド系 (自社ブランドの作品だけのまとめ、旧Flash由来は除く)
@@ -1260,10 +1022,6 @@
 127.0.0.1 zombie.tap2play.io #個別ゲーム(zombie)
 127.0.0.1 space.tap2play.io #個別ゲーム(space)
 　
-# ==========================
-# 4. 特定スタジオ／ブランド系 (自社ブランドの作品だけのまとめ、旧Flash由来は除く)
-# ==========================
-
 # ----- 英語圏向け -----
 # --- Freezenova ---
 - 本体 -
@@ -1331,37 +1089,229 @@
 - その他 -
 127.0.0.1 license.novelgames.com #ライセンス/APIエンドポイント
 
-
 # ==========================
-# 7. 旧Flash由来特定スタジオ／ブランド系 (自社ブランドの作品だけのまとめ) (提案)
+# 5. 旧Flash由来アグリゲータ (自社スタジオを持たないゲームまとめ)
 # ==========================
 
 # ----- 多言語対応 -----
-# --- Nitrome ---
+# --- Friv ---
 - 本体 -
-127.0.0.1 www.nitrome.com #旧Flash名作/HTML5移植
+127.0.0.1 www.friv.com # 旧Flash由来ポータル/本体
+127.0.0.1 friv.guru # Friv系ポータル
+127.0.0.1 friv.gifts # Friv系ポータル
+127.0.0.1 frivez.com # Friv系ミラー
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 www.cdnfriv.com # Friv配信CDN
 
-# --- Gamedesign.jp ---
+# ----- 多言語対応 -----
+# --- Friv非公式クローン ---
 - 本体 -
-127.0.0.1 www.gamedesign.jp #日本の個人/小規模スタジオ(HTML5/旧Flash作品)
+127.0.0.1 www.friv10.com #Friv系総合ポータル(英語圏)
+127.0.0.1 www.friv22.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv77.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv99.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv200.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv1000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv1999.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv2000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv2008.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2009.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2010.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2011.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2012.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2013.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2014.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2015.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2016.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2017.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2018.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2019.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2020.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2021.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2022.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2023.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv2024.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv3000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv6000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv10000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv20000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv40000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv50000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv100000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv1000000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv10000000.com #Friv系ミラー/番号バリアント
+127.0.0.1 www.friv360.games #Friv系ミラー/新gTLD(.games)
+127.0.0.1 friv23.com #Friv系ミラー/番号バリアント
+127.0.0.1 friv2024.com #Friv系ミラー/年号バリアント
+127.0.0.1 www.friv-1.com #Friv系ミラー/ハイフン系
+127.0.0.1 www.friv-7.com #Friv系ミラー/ハイフン系
+127.0.0.1 www.friv-123.com #Friv系ミラー/ハイフン系
+127.0.0.1 www.friv-2017.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-2018.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-2020.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-2021.com #Friv系ミラー/年号+ハイフン
+127.0.0.1 www.friv-3000.com #Friv系ミラー/番号+ハイフン
+127.0.0.1 www.friv12com.com #Friv系ミラー/文字列バリアント
+127.0.0.1 www.friv2019com.com #Friv系ミラー/文字列バリアント
+127.0.0.1 www.friv-com.com #Friv系ミラー/ハイフン+com表記
+127.0.0.1 friv-2018.net #Friv系ミラー(gTLD .net)
+127.0.0.1 www.friv1000.net #Friv系ミラー(gTLD .net)
+127.0.0.1 www.friv9.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv20.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv5000.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv90000.org #Friv系ミラー(gTLD .org)
+127.0.0.1 www.friv50000.net #Friv系ミラー(gTLD .net)
+127.0.0.1 www.friv2016.info #Friv系ミラー(gTLD .info)
+127.0.0.1 www.friv2019.info #Friv系ミラー(gTLD .info)
+127.0.0.1 www.friv2020.info #Friv系ミラー(gTLD .info)
+127.0.0.1 www.friv2017.io #Friv系ミラー(gTLD .io)
+127.0.0.1 friv2019.games #Friv系ミラー(gTLD .games)
+127.0.0.1 friv2020.games #Friv系ミラー(gTLD .games)
+127.0.0.1 friv2021.games #Friv系ミラー(gTLD .games)
+127.0.0.1 friv2022.games #Friv系ミラー(gTLD .games)
+127.0.0.1 www.friv-2019.games #Friv系ミラー(gTLD .games)
+127.0.0.1 www.friv-2020.games #Friv系ミラー(gTLD .games)
+127.0.0.1 www.friv2online.com #Friv系派生(オンライン)
+127.0.0.1 www.friv5online.com #Friv系派生(オンライン)
+127.0.0.1 www.friv4school2017.com #Friv系派生(学校向け/2017)
+127.0.0.1 friv4.win #Friv系派生(gTLD .win)
+127.0.0.1 friv5.me #Friv系派生(gTLD .me)
+127.0.0.1 friv10play.net #Friv系派生(Play表記)
+127.0.0.1 friv10games.club #Friv系派生(gTLD .club)
+127.0.0.1 friv.land #Friv系派生(gTLD .land)
+127.0.0.1 www.friv.vip #Friv系派生(gTLD .vip)
+127.0.0.1 www.friv.lol #Friv系派生(gTLD .lol)
+127.0.0.1 www.friv.uno #Friv系派生(gTLD .uno)
+127.0.0.1 www.friv.cloud #Friv系派生(gTLD .cloud)
+127.0.0.1 frive.net #Friv系派生/綴り違い
+127.0.0.1 frivgames4u.com #Friv系派生(4u)
+127.0.0.1 www.frivantigo.com #Friv系派生(Antigo表記)
+127.0.0.1 www.frivoldmenu.com #Friv系派生(旧メニュー系)
+127.0.0.1 www.frivls.com #Friv系派生(LS表記)
+127.0.0.1 www.frivoriginal.com #Friv系派生(Original表記)
+127.0.0.1 frivwtf.com #Friv系派生(WTF表記)
+127.0.0.1 friv2.racing #Friv系派生(gTLD .racing)
+127.0.0.1 www.friv4school.io #Friv系派生(学校向け/回避用)
+127.0.0.1 www.gryfriv.info #Friv系派生(ポーランド語)
+127.0.0.1 www.gryfriv5.com #Friv系派生(ポーランド語/5)
+127.0.0.1 frivcomfriv.com #Friv系派生(重ね表記)
+127.0.0.1 www.jeuxdefriv2021.net #Friv系派生(フランス語/2021)
+127.0.0.1 www.jeux-friv.com #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefriv2014.com #Friv系派生(フランス語/2014)
+127.0.0.1 www.frivjeux.com #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefriv2019.net #Friv系派生(フランス語/2019)
+127.0.0.1 www.jeuxdefriv2020.net #Friv系派生(フランス語/2020)
+127.0.0.1 www.jeuxfriv.org #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefrin.com #Friv系派生(綴り違い/フランス語)
+127.0.0.1 www.jeuxdefriv.com #Friv系派生(フランス語)
+127.0.0.1 www.jeuxdefriv2015.com #Friv系派生(フランス語/2015)
+127.0.0.1 www.jeuxdefriv2021.com #Friv系派生(フランス語/2021)
+127.0.0.1 www.jeuxdefriv250.net #Friv系派生(フランス語/数値系)
+127.0.0.1 www.friv2019plus.com #Friv系派生(Plus表記)
+127.0.0.1 www.juegofriv5.com #Friv系派生(スペイン語/5)
+127.0.0.1 www.juegosgratisfriv.com #Friv系派生(スペイン語/無料)
+127.0.0.1 www.friv-y8.net #Friv/Y8系ハイブリッド
+127.0.0.1 www.juegosfriv2com.com #Friv系派生(スペイン語/2com表記)
+- ローカライズ -
+127.0.0.1 www.friv2017.us #Friv系ローカライズ(米国)
+127.0.0.1 www.friv2020.us #Friv系ローカライズ(米国/2020)
+127.0.0.1 www.friv2019.com.br #Friv系ローカライズ(ブラジル/2019)
+127.0.0.1 www.friv.cm #Friv系ローカライズ(カメルーン)
+127.0.0.1 www.friv.ee #Friv系ローカライズ(エストニア)
 
+# --- FunnyGames ---
+- 本体 -
+127.0.0.1 www.funnygames.org #総合ゲームポータル(多言語)
+- ローカライズ -
+127.0.0.1 www.funnygames.jp #日本語版(総合)
 
-[検査結果]
-- このブロック内の重複: なし
-- 抜け: なし（提供ドメインを全件反映）
-- 表記/体裁: 全て小文字・punycode、サブドメイン個別、説明付き → OK
-- 第三者CDN優先ルール: 該当なし（いずれも各ブランド配下）
-
-[プロジェクト全体での既出（=重複候補）]
-- html5.inlogic.sk …… 0905T17(#18)で既出
-→ どちらを正として残すかご指示ください。承認後、片方のみ残す形で統一します（ドメイン文字列は不改変）。
-
-(提案)
-- Nitrome/Gamedesign.jp は旧Flash由来を含むため、テンプレ基準では #7 配下が自然です。本稿では #7 見出しへ整理しました（ドメインは未改変）。必要であれば #4 に戻す指示をください。
+# ----- 英語圏向け -----
+# --- FreeGames.ws ---
+- 本体 -
+127.0.0.1 freegames.ws #総合ポータル(旧来Flash由来)
 
 # ==========================
-# 6. 旧Flash由来大型ポータル　(自社スタジオと外部のスタジオの作品)
+# 6. 旧Flash由来大型ポータル (自社スタジオと外部のスタジオの作品)
 # ==========================
+
+# ----- 多言語対応 -----
+# --- Y8/ID.net ---
+- 本体 -
+127.0.0.1 y8.com # HTML5/アーカイブ系大型ポータル/本体
+127.0.0.1 ja.y8.com # ローカライズ(日本語)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn.y8.com # アセット配信
+127.0.0.1 media2.y8.com # メディア配信
+127.0.0.1 storage.y8.com # ストレージ/配信
+127.0.0.1 storage-cf.y8.com # ストレージ(CF経由)
+127.0.0.1 storage.id.net # ID.netストレージ/配信
+
+# --- 4399 ---
+- ローカライズ -
+127.0.0.1 szhong.4399.com # 中国系大型ポータル内サブ領域
+
+# ----- 多言語対応 -----
+# --- Spil Games (Agame / Gamesgames) ---
+- 本体 -
+127.0.0.1 www.agame.com #旧Flash含む大型ポータル
+127.0.0.1 agame.com #多言語大型ポータル(Spil系)
+127.0.0.1 www.gamesgames.com #多言語大型ポータル(A10/Spil系)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 games.cdn.spilcloud.com #SpilクラウドCDN
+
+# ----- 英語圏向け -----
+# --- Armor Games ---
+- 本体 -
+127.0.0.1 armorgames.com #ポータル/Flash+HTML5
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cache.armorgames.com #アセット/旧作配信
+
+# --- Addicting Games ---
+- 本体 -
+127.0.0.1 addictinggames.com #大型ポータル
+127.0.0.1 www.addictinggames.com #大型ポータル(WWW)
+- キャッシュ／ブランド独自のCDNミラ -
+127.0.0.1 cdn2.addictinggames.com #静的アセットCDN
+
+# --- CoolGames ---
+- ゲームディストリビューション -
+127.0.0.1 games.coolgames.com #埋め込み配信用ゲームホスト
+
+# --- GameFlare ---
+- 本体 -
+127.0.0.1 gameflare.com #ポータル
+127.0.0.1 www.gameflare.com #ポータル(WWW)
+
+# --- Kongregate ---
+- 本体 -
+127.0.0.1 www.kongregate.com #旧Flash/HTML5ポータル
+
+# --- VitalityGames ---
+- 本体 -
+127.0.0.1 vitalitygames.com #ポータル(3D/ドライブ系多め)
+
+# --- FunkyPotato ---
+- 本体 -
+127.0.0.1 funkypotato.com #旧Flash/HTML5ポータル
+
+# --- iWin ---
+- 本体 -
+127.0.0.1 iwin.com #ダウンロード/ブラウザ併存カジュアル
+
+# --- GamesWF ---
+- 本体 -
+127.0.0.1 gameswf.com #Flash由来アーカイブ/HTML5混在
+127.0.0.1 www.gameswf.com #同上(WWW)
+
+# ----- スペイン語圏向け -----
+# --- Minijuegos ---
+- 本体 -
+127.0.0.1 minijuegos.com #スペイン語圏大型ポータル
+
+# ----- 英語圏向け -----
+# --- GamesFreak ---
+- 本体 -
+127.0.0.1 www.gamesfreak.net #旧Flash/HTML5集
 
 # ----- 中国語圏向け -----
 # --- 4399 ---
@@ -1383,6 +1333,19 @@
 
 # ----- 日本語圏向け -----
 127.0.0.1 www.flashgames.jp #フラッシュ時代のポータル(日本語)
+
+# ==========================
+# 7. 旧Flash由来特定スタジオ／ブランド系 (自社ブランドの作品だけのまとめ) (提案)
+# ==========================
+
+# ----- 多言語対応 -----
+# --- Nitrome ---
+- 本体 -
+127.0.0.1 www.nitrome.com #旧Flash名作/HTML5移植
+
+# --- Gamedesign.jp ---
+- 本体 -
+127.0.0.1 www.gamedesign.jp #日本の個人/小規模スタジオ(HTML5/旧Flash作品)
 
 # ==========================
 # 8. 機関・イベント系
